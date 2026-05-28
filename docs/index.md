@@ -4,12 +4,13 @@
 
 _Publishable transcripts produced by Transcript-Scribe._
 
-**8 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
+**9 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
 
 ## Latest
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
+| [How Cursor Trained Composer on Fireworks: Distributed Infrastructure for High-Performance RL](https://gist.github.com/Rohoe/a04e88186c91b39cb63895d9827af977) | Dima, Federico, Sequoia Capital, UNKNOWN | Sequoia Capital | 00:45:12 | 2026-05-28 |
 | [Mark Zuckerberg — AI will write most Meta code in 18 months](https://gist.github.com/Rohoe/e827d3f8172ad97c926861c1ff3d46a2) | Dwarkesh Patel, Mark Zuckerberg, UNKNOWN | Dwarkesh Patel | 01:15:48 | 2026-05-27 |
 | [Jeff Dean & Noam Shazeer — 25 years at Google: from PageRank to AGI](https://gist.github.com/Rohoe/9c9bf7825b3c009460804fc7af664217) | Dwarkesh Patel, Jeff Dean, Noam Shazeer | Dwarkesh Patel | 02:15:29 | 2026-05-27 |
 | [Trump-Xi Summit, Benioff: \"Not My First SaaSpocalypse,\" OpenAI vs Apple, Multi-Sensory AI, El Niño](https://gist.github.com/Rohoe/84cf1dc553dd422b2f73e3b818ebfa19) | Chamath, Friedberg, Jason, Mark Benioff | All-In Podcast | 01:16:29 | 2026-05-27 |
@@ -53,6 +54,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [Running an AI-native engineering org](https://gist.github.com/Rohoe/b13b858c9c6b0027285d08c6e7a76ec0) | Fiona Fung, SPEAKER_00 | Claude | 00:28:20 | 2026-05-24 |
 
+### Sequoia Capital (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [How Cursor Trained Composer on Fireworks: Distributed Infrastructure for High-Performance RL](https://gist.github.com/Rohoe/a04e88186c91b39cb63895d9827af977) | Dima, Federico, Sequoia Capital, UNKNOWN | Sequoia Capital | 00:45:12 | 2026-05-28 |
+
 ### Stanford Graduate School of Business (1)
 
 | Title | Speakers | Host | Duration | Added |
@@ -67,6 +74,13 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [Mark Zuckerberg — AI will write most Meta code in 18 months](https://gist.github.com/Rohoe/e827d3f8172ad97c926861c1ff3d46a2) | Dwarkesh Patel, Mark Zuckerberg, UNKNOWN | Dwarkesh Patel | 01:15:48 | 2026-05-27 |
 | [Jeff Dean & Noam Shazeer — 25 years at Google: from PageRank to AGI](https://gist.github.com/Rohoe/9c9bf7825b3c009460804fc7af664217) | Dwarkesh Patel, Jeff Dean, Noam Shazeer | Dwarkesh Patel | 02:15:29 | 2026-05-27 |
+
+### UNKNOWN (2)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [How Cursor Trained Composer on Fireworks: Distributed Infrastructure for High-Performance RL](https://gist.github.com/Rohoe/a04e88186c91b39cb63895d9827af977) | Dima, Federico, Sequoia Capital, UNKNOWN | Sequoia Capital | 00:45:12 | 2026-05-28 |
+| [Mark Zuckerberg — AI will write most Meta code in 18 months](https://gist.github.com/Rohoe/e827d3f8172ad97c926861c1ff3d46a2) | Dwarkesh Patel, Mark Zuckerberg, UNKNOWN | Dwarkesh Patel | 01:15:48 | 2026-05-27 |
 
 ### Alex (1)
 
@@ -91,6 +105,18 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Trump-Xi Summit, Benioff: \"Not My First SaaSpocalypse,\" OpenAI vs Apple, Multi-Sensory AI, El Niño](https://gist.github.com/Rohoe/84cf1dc553dd422b2f73e3b818ebfa19) | Chamath, Friedberg, Jason, Mark Benioff | All-In Podcast | 01:16:29 | 2026-05-27 |
+
+### Dima (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [How Cursor Trained Composer on Fireworks: Distributed Infrastructure for High-Performance RL](https://gist.github.com/Rohoe/a04e88186c91b39cb63895d9827af977) | Dima, Federico, Sequoia Capital, UNKNOWN | Sequoia Capital | 00:45:12 | 2026-05-28 |
+
+### Federico (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [How Cursor Trained Composer on Fireworks: Distributed Infrastructure for High-Performance RL](https://gist.github.com/Rohoe/a04e88186c91b39cb63895d9827af977) | Dima, Federico, Sequoia Capital, UNKNOWN | Sequoia Capital | 00:45:12 | 2026-05-28 |
 
 ### Fiona Fung (1)
 
@@ -164,17 +190,17 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [Running an AI-native engineering org](https://gist.github.com/Rohoe/b13b858c9c6b0027285d08c6e7a76ec0) | Fiona Fung, SPEAKER_00 | Claude | 00:28:20 | 2026-05-24 |
 
+### Sequoia Capital (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [How Cursor Trained Composer on Fireworks: Distributed Infrastructure for High-Performance RL](https://gist.github.com/Rohoe/a04e88186c91b39cb63895d9827af977) | Dima, Federico, Sequoia Capital, UNKNOWN | Sequoia Capital | 00:45:12 | 2026-05-28 |
+
 ### Sohn Conference Foundation (1)
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Intelligence as Infrastructure: How AI Is Rewiring the Economy](https://gist.github.com/Rohoe/341b407707737b633a750ff150402178) | Alex, Leon, Sohn Conference Foundation | Sohn Conference Foundation | 00:24:18 | 2026-05-27 |
-
-### UNKNOWN (1)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [Mark Zuckerberg — AI will write most Meta code in 18 months](https://gist.github.com/Rohoe/e827d3f8172ad97c926861c1ff3d46a2) | Dwarkesh Patel, Mark Zuckerberg, UNKNOWN | Dwarkesh Patel | 01:15:48 | 2026-05-27 |
 
 ## By tag
 
