@@ -4,12 +4,13 @@
 
 _Publishable transcripts produced by Transcript-Scribe._
 
-**13 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
+**14 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
 
 ## Latest
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
+| [SpaceX: Start of the Next Megabubble or End of the Rally?](https://gist.github.com/Rohoe/e4c914cda449da83f7d747e9e7e2c8ab) | Avi, Jonah, Speaker 4, Unknown speaker | 1KX Media | 00:45:41 | 2026-06-18 |
 | [Are Rate Cuts Dead?](https://gist.github.com/Rohoe/0e3f28cfdd394befebf8054ba52a4824) | Speaker 2, Speaker 3 | 1KX Media | 00:53:05 | 2026-06-17 |
 | [Mark Zuckerberg — AI will write most Meta code in 18 months](https://gist.github.com/Rohoe/e827d3f8172ad97c926861c1ff3d46a2) | Dwarkesh Patel, Mark Zuckerberg | Dwarkesh Patel | 01:15:48 | 2026-05-29 |
 | [Brad Gerstner on the market, tech and the flood of mega IPOs](https://gist.github.com/Rohoe/cc4d536a90551ebc656f586930a24665) | Brad Gerstner, CNBC Television, Jim, Josh Brown | CNBC Television | 00:09:24 | 2026-05-29 |
@@ -25,6 +26,13 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Stanford Leadership Forum 2026: Conversation with Ken Griffin](https://gist.github.com/Rohoe/88f0a6365e79158c8686c9a91b490ed5) | Ken Griffin, Amit Saru | Stanford Graduate School of Business | 00:45:41 | 2026-05-17 |
 
 ## By host
+
+### 1KX Media (2)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [SpaceX: Start of the Next Megabubble or End of the Rally?](https://gist.github.com/Rohoe/e4c914cda449da83f7d747e9e7e2c8ab) | Avi, Jonah, Speaker 4, Unknown speaker | 1KX Media | 00:45:41 | 2026-06-18 |
+| [Are Rate Cuts Dead?](https://gist.github.com/Rohoe/0e3f28cfdd394befebf8054ba52a4824) | Speaker 2, Speaker 3 | 1KX Media | 00:53:05 | 2026-06-17 |
 
 ### Dwarkesh Patel (2)
 
@@ -45,12 +53,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Sticky Inflation + Energy Prices: End of the Rally or Pause?](https://gist.github.com/Rohoe/8400f8a352e356ce1544555082c529fb) | Avi, Jonah | 1000x Podcast | 00:53:32 | 2026-05-24 |
-
-### 1KX Media (1)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [Are Rate Cuts Dead?](https://gist.github.com/Rohoe/0e3f28cfdd394befebf8054ba52a4824) | Speaker 2, Speaker 3 | 1KX Media | 00:53:05 | 2026-06-17 |
 
 ### All-In Podcast (1)
 
@@ -96,12 +98,26 @@ _Publishable transcripts produced by Transcript-Scribe._
 
 ## By speaker
 
+### Avi (2)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [SpaceX: Start of the Next Megabubble or End of the Rally?](https://gist.github.com/Rohoe/e4c914cda449da83f7d747e9e7e2c8ab) | Avi, Jonah, Speaker 4, Unknown speaker | 1KX Media | 00:45:41 | 2026-06-18 |
+| [Sticky Inflation + Energy Prices: End of the Rally or Pause?](https://gist.github.com/Rohoe/8400f8a352e356ce1544555082c529fb) | Avi, Jonah | 1000x Podcast | 00:53:32 | 2026-05-24 |
+
 ### Dwarkesh Patel (2)
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Mark Zuckerberg — AI will write most Meta code in 18 months](https://gist.github.com/Rohoe/e827d3f8172ad97c926861c1ff3d46a2) | Dwarkesh Patel, Mark Zuckerberg | Dwarkesh Patel | 01:15:48 | 2026-05-29 |
 | [Jeff Dean & Noam Shazeer — 25 years at Google: from PageRank to AGI](https://gist.github.com/Rohoe/9c9bf7825b3c009460804fc7af664217) | Dwarkesh Patel, Jeff Dean, Noam Shazeer | Dwarkesh Patel | 02:15:29 | 2026-05-27 |
+
+### Jonah (2)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [SpaceX: Start of the Next Megabubble or End of the Rally?](https://gist.github.com/Rohoe/e4c914cda449da83f7d747e9e7e2c8ab) | Avi, Jonah, Speaker 4, Unknown speaker | 1KX Media | 00:45:41 | 2026-06-18 |
+| [Sticky Inflation + Energy Prices: End of the Rally or Pause?](https://gist.github.com/Rohoe/8400f8a352e356ce1544555082c529fb) | Avi, Jonah | 1000x Podcast | 00:53:32 | 2026-05-24 |
 
 ### UNKNOWN (2)
 
@@ -127,12 +143,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Stanford Leadership Forum 2026: Conversation with Ken Griffin](https://gist.github.com/Rohoe/88f0a6365e79158c8686c9a91b490ed5) | Ken Griffin, Amit Saru | Stanford Graduate School of Business | 00:45:41 | 2026-05-17 |
-
-### Avi (1)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [Sticky Inflation + Energy Prices: End of the Rally or Pause?](https://gist.github.com/Rohoe/8400f8a352e356ce1544555082c529fb) | Avi, Jonah | 1000x Podcast | 00:53:32 | 2026-05-24 |
 
 ### Brad Gerstner (1)
 
@@ -199,12 +209,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Brad Gerstner on the market, tech and the flood of mega IPOs](https://gist.github.com/Rohoe/cc4d536a90551ebc656f586930a24665) | Brad Gerstner, CNBC Television, Jim, Josh Brown | CNBC Television | 00:09:24 | 2026-05-29 |
-
-### Jonah (1)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [Sticky Inflation + Energy Prices: End of the Rally or Pause?](https://gist.github.com/Rohoe/8400f8a352e356ce1544555082c529fb) | Avi, Jonah | 1000x Podcast | 00:53:32 | 2026-05-24 |
 
 ### Jonathan Ross (1)
 
@@ -290,6 +294,18 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [Are Rate Cuts Dead?](https://gist.github.com/Rohoe/0e3f28cfdd394befebf8054ba52a4824) | Speaker 2, Speaker 3 | 1KX Media | 00:53:05 | 2026-06-17 |
 
+### Speaker 4 (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [SpaceX: Start of the Next Megabubble or End of the Rally?](https://gist.github.com/Rohoe/e4c914cda449da83f7d747e9e7e2c8ab) | Avi, Jonah, Speaker 4, Unknown speaker | 1KX Media | 00:45:41 | 2026-06-18 |
+
+### Unknown speaker (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [SpaceX: Start of the Next Megabubble or End of the Rally?](https://gist.github.com/Rohoe/e4c914cda449da83f7d747e9e7e2c8ab) | Avi, Jonah, Speaker 4, Unknown speaker | 1KX Media | 00:45:41 | 2026-06-18 |
+
 ## By tag
 
 ### `ai` (4)
@@ -301,10 +317,11 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Running an AI-native engineering org](https://gist.github.com/Rohoe/b13b858c9c6b0027285d08c6e7a76ec0) | Fiona Fung, SPEAKER_00 | Claude | 00:28:20 | 2026-05-24 |
 | [The Inference Revolution: Groq, Nvidia and the Future of AI](https://gist.github.com/Rohoe/ba0a6c2823c40eb1e2ce6d7afbf4b535) | Jonathan Ross | Sohn Conference Foundation | 00:15:58 | 2026-05-18 |
 
-### `markets` (2)
+### `markets` (3)
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
+| [SpaceX: Start of the Next Megabubble or End of the Rally?](https://gist.github.com/Rohoe/e4c914cda449da83f7d747e9e7e2c8ab) | Avi, Jonah, Speaker 4, Unknown speaker | 1KX Media | 00:45:41 | 2026-06-18 |
 | [Are Rate Cuts Dead?](https://gist.github.com/Rohoe/0e3f28cfdd394befebf8054ba52a4824) | Speaker 2, Speaker 3 | 1KX Media | 00:53:05 | 2026-06-17 |
 | [Stanford Leadership Forum 2026: Conversation with Ken Griffin](https://gist.github.com/Rohoe/88f0a6365e79158c8686c9a91b490ed5) | Ken Griffin, Amit Saru | Stanford Graduate School of Business | 00:45:41 | 2026-05-17 |
 
@@ -325,6 +342,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [The Inference Revolution: Groq, Nvidia and the Future of AI](https://gist.github.com/Rohoe/ba0a6c2823c40eb1e2ce6d7afbf4b535) | Jonathan Ross | Sohn Conference Foundation | 00:15:58 | 2026-05-18 |
+
+### `crypto` (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [SpaceX: Start of the Next Megabubble or End of the Rally?](https://gist.github.com/Rohoe/e4c914cda449da83f7d747e9e7e2c8ab) | Avi, Jonah, Speaker 4, Unknown speaker | 1KX Media | 00:45:41 | 2026-06-18 |
 
 ### `dwarkesh` (1)
 
@@ -409,3 +432,9 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Trump-Xi Summit, Benioff: \"Not My First SaaSpocalypse,\" OpenAI vs Apple, Multi-Sensory AI, El Niño](https://gist.github.com/Rohoe/84cf1dc553dd422b2f73e3b818ebfa19) | Chamath, Friedberg, Jason, Mark Benioff | All-In Podcast | 01:16:29 | 2026-05-27 |
+
+### `spacex` (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [SpaceX: Start of the Next Megabubble or End of the Rally?](https://gist.github.com/Rohoe/e4c914cda449da83f7d747e9e7e2c8ab) | Avi, Jonah, Speaker 4, Unknown speaker | 1KX Media | 00:45:41 | 2026-06-18 |
