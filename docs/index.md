@@ -4,13 +4,14 @@
 
 _Publishable transcripts produced by Transcript-Scribe._
 
-**15 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
+**16 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
 
 ## Latest
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Global Liquidity Signals What’s Next for Gold & Markets | Michael Howell](https://gist.github.com/Rohoe/418d1041d2270318303e9bd3ed49bfa0) | Michael Howell, Vladyslav Grabarskyy | Wealth Building Blueprint – Vladyslav Grabarskyy | 00:43:19 | 2026-06-19 |
+| [Re-engineering the Semiconductor Supply Chain with Intel CEO Lip Bu Tan](https://gist.github.com/Rohoe/3b214eb8a02a8831ec64900ac94590ab) | Elad Gil, Guest 1, Lip Bu Tan | Conviction | 00:44:57 | 2026-06-19 |
 | [SpaceX: Start of the Next Megabubble or End of the Rally?](https://gist.github.com/Rohoe/e4c914cda449da83f7d747e9e7e2c8ab) | Avi, Jonah, Speaker 4, Unknown speaker | 1KX Media | 00:45:41 | 2026-06-18 |
 | [Are Rate Cuts Dead?](https://gist.github.com/Rohoe/0e3f28cfdd394befebf8054ba52a4824) | Speaker 2, Speaker 3 | 1KX Media | 00:53:05 | 2026-06-17 |
 | [Mark Zuckerberg — AI will write most Meta code in 18 months](https://gist.github.com/Rohoe/e827d3f8172ad97c926861c1ff3d46a2) | Dwarkesh Patel, Mark Zuckerberg | Dwarkesh Patel | 01:15:48 | 2026-05-29 |
@@ -72,6 +73,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Running an AI-native engineering org](https://gist.github.com/Rohoe/b13b858c9c6b0027285d08c6e7a76ec0) | Fiona Fung, SPEAKER_00 | Claude | 00:28:20 | 2026-05-24 |
+
+### Conviction (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Re-engineering the Semiconductor Supply Chain with Intel CEO Lip Bu Tan](https://gist.github.com/Rohoe/3b214eb8a02a8831ec64900ac94590ab) | Elad Gil, Guest 1, Lip Bu Tan | Conviction | 00:44:57 | 2026-06-19 |
 
 ### Lumida Wealth (1)
 
@@ -181,6 +188,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [What Changed After the U.S.-China Summit?](https://gist.github.com/Rohoe/9d30f0c09509cc735c9032277337adc1) | Disclaimer, Michael Zezas | Morgan Stanley | 00:02:56 | 2026-05-28 |
 
+### Elad Gil (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Re-engineering the Semiconductor Supply Chain with Intel CEO Lip Bu Tan](https://gist.github.com/Rohoe/3b214eb8a02a8831ec64900ac94590ab) | Elad Gil, Guest 1, Lip Bu Tan | Conviction | 00:44:57 | 2026-06-19 |
+
 ### Federico (1)
 
 | Title | Speakers | Host | Duration | Added |
@@ -198,6 +211,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Trump-Xi Summit, Benioff: \"Not My First SaaSpocalypse,\" OpenAI vs Apple, Multi-Sensory AI, El Niño](https://gist.github.com/Rohoe/84cf1dc553dd422b2f73e3b818ebfa19) | Chamath, Friedberg, Jason, Mark Benioff | All-In Podcast | 01:16:29 | 2026-05-27 |
+
+### Guest 1 (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Re-engineering the Semiconductor Supply Chain with Intel CEO Lip Bu Tan](https://gist.github.com/Rohoe/3b214eb8a02a8831ec64900ac94590ab) | Elad Gil, Guest 1, Lip Bu Tan | Conviction | 00:44:57 | 2026-06-19 |
 
 ### Jason (1)
 
@@ -240,6 +259,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Intelligence as Infrastructure: How AI Is Rewiring the Economy](https://gist.github.com/Rohoe/341b407707737b633a750ff150402178) | Alex, Leon, Sohn Conference Foundation | Sohn Conference Foundation | 00:24:18 | 2026-05-27 |
+
+### Lip Bu Tan (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Re-engineering the Semiconductor Supply Chain with Intel CEO Lip Bu Tan](https://gist.github.com/Rohoe/3b214eb8a02a8831ec64900ac94590ab) | Elad Gil, Guest 1, Lip Bu Tan | Conviction | 00:44:57 | 2026-06-19 |
 
 ### Mark Benioff (1)
 
