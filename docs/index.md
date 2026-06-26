@@ -4,12 +4,13 @@
 
 _Publishable transcripts produced by Transcript-Scribe._
 
-**17 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
+**18 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
 
 ## Latest
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
+| [Jeffrey Gundlach and Felix Zulauf: The Second Inning of a Major Shift](https://gist.github.com/Rohoe/6f2ca54226fcd7ebf4cfbc8cef985b88) | Felix Zulauf, Grant Williams, Jeffrey Gundlach, Unknown speaker | DoubleLine Capital | 01:00:56 | 2026-06-26 |
 | [The View Beyond: China’s old and new tech divide](https://gist.github.com/Rohoe/2961d7ae9844cca6483b4ced9a3e20b9) | Hong Hao, Richard Tang, Speaker 4 | Adventurous Media | 00:25:13 | 2026-06-20 |
 | [Global Liquidity Signals What’s Next for Gold & Markets | Michael Howell](https://gist.github.com/Rohoe/418d1041d2270318303e9bd3ed49bfa0) | Michael Howell, Vladyslav Grabarskyy | Wealth Building Blueprint – Vladyslav Grabarskyy | 00:43:19 | 2026-06-19 |
 | [Re-engineering the Semiconductor Supply Chain with Intel CEO Lip Bu Tan](https://gist.github.com/Rohoe/6ad66f2d9c51f13e93713123b5cec9c5) | Elad Gil, Lip Bu Tan, Sarah Guo | Conviction | 00:44:57 | 2026-06-19 |
@@ -87,6 +88,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [Re-engineering the Semiconductor Supply Chain with Intel CEO Lip Bu Tan](https://gist.github.com/Rohoe/6ad66f2d9c51f13e93713123b5cec9c5) | Elad Gil, Lip Bu Tan, Sarah Guo | Conviction | 00:44:57 | 2026-06-19 |
 
+### DoubleLine Capital (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Jeffrey Gundlach and Felix Zulauf: The Second Inning of a Major Shift](https://gist.github.com/Rohoe/6f2ca54226fcd7ebf4cfbc8cef985b88) | Felix Zulauf, Grant Williams, Jeffrey Gundlach, Unknown speaker | DoubleLine Capital | 01:00:56 | 2026-06-26 |
+
 ### Lumida Wealth (1)
 
 | Title | Speakers | Host | Duration | Added |
@@ -154,6 +161,13 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [How Cursor Trained Composer on Fireworks: Distributed Infrastructure for High-Performance RL](https://gist.github.com/Rohoe/a04e88186c91b39cb63895d9827af977) | Dima, Federico, Sequoia Capital, UNKNOWN | Sequoia Capital | 00:45:12 | 2026-05-28 |
 | [Life and Death in the Payments Sector](https://gist.github.com/Rohoe/260a13b35e50ea1793bace38f8b560ea) | Alex Wilson, Rob, UNKNOWN | Lumida Wealth | 01:01:00 | 2026-05-28 |
 
+### Unknown speaker (2)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Jeffrey Gundlach and Felix Zulauf: The Second Inning of a Major Shift](https://gist.github.com/Rohoe/6f2ca54226fcd7ebf4cfbc8cef985b88) | Felix Zulauf, Grant Williams, Jeffrey Gundlach, Unknown speaker | DoubleLine Capital | 01:00:56 | 2026-06-26 |
+| [SpaceX: Start of the Next Megabubble or End of the Rally?](https://gist.github.com/Rohoe/e4c914cda449da83f7d747e9e7e2c8ab) | Avi, Jonah, Speaker 4, Unknown speaker | 1KX Media | 00:45:41 | 2026-06-18 |
+
 ### Alex (1)
 
 | Title | Speakers | Host | Duration | Added |
@@ -214,6 +228,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [How Cursor Trained Composer on Fireworks: Distributed Infrastructure for High-Performance RL](https://gist.github.com/Rohoe/a04e88186c91b39cb63895d9827af977) | Dima, Federico, Sequoia Capital, UNKNOWN | Sequoia Capital | 00:45:12 | 2026-05-28 |
 
+### Felix Zulauf (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Jeffrey Gundlach and Felix Zulauf: The Second Inning of a Major Shift](https://gist.github.com/Rohoe/6f2ca54226fcd7ebf4cfbc8cef985b88) | Felix Zulauf, Grant Williams, Jeffrey Gundlach, Unknown speaker | DoubleLine Capital | 01:00:56 | 2026-06-26 |
+
 ### Fiona Fung (1)
 
 | Title | Speakers | Host | Duration | Added |
@@ -225,6 +245,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Trump-Xi Summit, Benioff: \"Not My First SaaSpocalypse,\" OpenAI vs Apple, Multi-Sensory AI, El Niño](https://gist.github.com/Rohoe/84cf1dc553dd422b2f73e3b818ebfa19) | Chamath, Friedberg, Jason, Mark Benioff | All-In Podcast | 01:16:29 | 2026-05-27 |
+
+### Grant Williams (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Jeffrey Gundlach and Felix Zulauf: The Second Inning of a Major Shift](https://gist.github.com/Rohoe/6f2ca54226fcd7ebf4cfbc8cef985b88) | Felix Zulauf, Grant Williams, Jeffrey Gundlach, Unknown speaker | DoubleLine Capital | 01:00:56 | 2026-06-26 |
 
 ### Hong Hao (1)
 
@@ -243,6 +269,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Jeff Dean & Noam Shazeer — 25 years at Google: from PageRank to AGI](https://gist.github.com/Rohoe/9c9bf7825b3c009460804fc7af664217) | Dwarkesh Patel, Jeff Dean, Noam Shazeer | Dwarkesh Patel | 02:15:29 | 2026-05-27 |
+
+### Jeffrey Gundlach (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Jeffrey Gundlach and Felix Zulauf: The Second Inning of a Major Shift](https://gist.github.com/Rohoe/6f2ca54226fcd7ebf4cfbc8cef985b88) | Felix Zulauf, Grant Williams, Jeffrey Gundlach, Unknown speaker | DoubleLine Capital | 01:00:56 | 2026-06-26 |
 
 ### Jim (1)
 
@@ -357,12 +389,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Are Rate Cuts Dead?](https://gist.github.com/Rohoe/0e3f28cfdd394befebf8054ba52a4824) | Speaker 2, Speaker 3 | 1KX Media | 00:53:05 | 2026-06-17 |
-
-### Unknown speaker (1)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [SpaceX: Start of the Next Megabubble or End of the Rally?](https://gist.github.com/Rohoe/e4c914cda449da83f7d747e9e7e2c8ab) | Avi, Jonah, Speaker 4, Unknown speaker | 1KX Media | 00:45:41 | 2026-06-18 |
 
 ### Vladyslav Grabarskyy (1)
 
