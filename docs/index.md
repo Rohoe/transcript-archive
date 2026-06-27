@@ -4,12 +4,13 @@
 
 _Publishable transcripts produced by Transcript-Scribe._
 
-**18 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
+**19 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
 
 ## Latest
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
+| [Markets Weekly June 27, 2026](https://gist.github.com/Rohoe/a36fe55d37ad373ee2fd945b72f18b89) | Joseph Wang | Joseph Wang | 00:25:04 | 2026-06-27 |
 | [Jeffrey Gundlach and Felix Zulauf: The Second Inning of a Major Shift](https://gist.github.com/Rohoe/6f2ca54226fcd7ebf4cfbc8cef985b88) | Felix Zulauf, Grant Williams, Jeffrey Gundlach, Unknown speaker | DoubleLine Capital | 01:00:56 | 2026-06-26 |
 | [The View Beyond: China’s old and new tech divide](https://gist.github.com/Rohoe/2961d7ae9844cca6483b4ced9a3e20b9) | Hong Hao, Richard Tang, Speaker 4 | Adventurous Media | 00:25:13 | 2026-06-20 |
 | [Global Liquidity Signals What’s Next for Gold & Markets | Michael Howell](https://gist.github.com/Rohoe/418d1041d2270318303e9bd3ed49bfa0) | Michael Howell, Vladyslav Grabarskyy | Wealth Building Blueprint – Vladyslav Grabarskyy | 00:43:19 | 2026-06-19 |
@@ -93,6 +94,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Jeffrey Gundlach and Felix Zulauf: The Second Inning of a Major Shift](https://gist.github.com/Rohoe/6f2ca54226fcd7ebf4cfbc8cef985b88) | Felix Zulauf, Grant Williams, Jeffrey Gundlach, Unknown speaker | DoubleLine Capital | 01:00:56 | 2026-06-26 |
+
+### Joseph Wang (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Markets Weekly June 27, 2026](https://gist.github.com/Rohoe/a36fe55d37ad373ee2fd945b72f18b89) | Joseph Wang | Joseph Wang | 00:25:04 | 2026-06-27 |
 
 ### Lumida Wealth (1)
 
@@ -287,6 +294,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [The Inference Revolution: Groq, Nvidia and the Future of AI](https://gist.github.com/Rohoe/ba0a6c2823c40eb1e2ce6d7afbf4b535) | Jonathan Ross | Sohn Conference Foundation | 00:15:58 | 2026-05-18 |
+
+### Joseph Wang (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Markets Weekly June 27, 2026](https://gist.github.com/Rohoe/a36fe55d37ad373ee2fd945b72f18b89) | Joseph Wang | Joseph Wang | 00:25:04 | 2026-06-27 |
 
 ### Josh Brown (1)
 
