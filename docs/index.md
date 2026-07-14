@@ -4,12 +4,13 @@
 
 _Publishable transcripts produced by Transcript-Scribe._
 
-**21 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
+**22 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
 
 ## Latest
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
+| [Citadel's Ken Griffin on AI, US-China Tensions, and US Data Centers](https://gist.github.com/Rohoe/1be5ecce37e79aee98cc7866b336a053) | Ken Griffin, Raj Mahajan, Speaker 4 | Goldman Sachs | 00:31:22 | 2026-07-14 |
 | [The AI Trade Is Finally Cracking | Weekly Roundup](https://gist.github.com/Rohoe/13803295d59858dc83dc4c0cb3634dd4) | Felix, Quinn | Forward Guidance | 00:46:33 | 2026-07-03 |
 | [Who's Coming For The Market In Q3?](https://gist.github.com/Rohoe/2769ad7769d633634c83abc4e18e8464) | Avi, Jonah, Unknown speaker | 1000x | 00:56:44 | 2026-07-02 |
 | [Markets Weekly June 27, 2026](https://gist.github.com/Rohoe/a36fe55d37ad373ee2fd945b72f18b89) | Joseph Wang | Joseph Wang | 00:25:04 | 2026-06-27 |
@@ -109,6 +110,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [The AI Trade Is Finally Cracking | Weekly Roundup](https://gist.github.com/Rohoe/13803295d59858dc83dc4c0cb3634dd4) | Felix, Quinn | Forward Guidance | 00:46:33 | 2026-07-03 |
 
+### Goldman Sachs (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Citadel's Ken Griffin on AI, US-China Tensions, and US Data Centers](https://gist.github.com/Rohoe/1be5ecce37e79aee98cc7866b336a053) | Ken Griffin, Raj Mahajan, Speaker 4 | Goldman Sachs | 00:31:22 | 2026-07-14 |
+
 ### Joseph Wang (1)
 
 | Title | Speakers | Host | Duration | Added |
@@ -163,6 +170,14 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [SpaceX: Start of the Next Megabubble or End of the Rally?](https://gist.github.com/Rohoe/e4c914cda449da83f7d747e9e7e2c8ab) | Avi, Jonah, Speaker 4, Unknown speaker | 1KX Media | 00:45:41 | 2026-06-18 |
 | [Sticky Inflation + Energy Prices: End of the Rally or Pause?](https://gist.github.com/Rohoe/8400f8a352e356ce1544555082c529fb) | Avi, Jonah | 1000x Podcast | 00:53:32 | 2026-05-24 |
 
+### Speaker 4 (3)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Citadel's Ken Griffin on AI, US-China Tensions, and US Data Centers](https://gist.github.com/Rohoe/1be5ecce37e79aee98cc7866b336a053) | Ken Griffin, Raj Mahajan, Speaker 4 | Goldman Sachs | 00:31:22 | 2026-07-14 |
+| [The View Beyond: China’s old and new tech divide](https://gist.github.com/Rohoe/2961d7ae9844cca6483b4ced9a3e20b9) | Hong Hao, Richard Tang, Speaker 4 | Adventurous Media | 00:25:13 | 2026-06-20 |
+| [SpaceX: Start of the Next Megabubble or End of the Rally?](https://gist.github.com/Rohoe/e4c914cda449da83f7d747e9e7e2c8ab) | Avi, Jonah, Speaker 4, Unknown speaker | 1KX Media | 00:45:41 | 2026-06-18 |
+
 ### Unknown speaker (3)
 
 | Title | Speakers | Host | Duration | Added |
@@ -178,12 +193,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Mark Zuckerberg — AI will write most Meta code in 18 months](https://gist.github.com/Rohoe/e827d3f8172ad97c926861c1ff3d46a2) | Dwarkesh Patel, Mark Zuckerberg | Dwarkesh Patel | 01:15:48 | 2026-05-29 |
 | [Jeff Dean & Noam Shazeer — 25 years at Google: from PageRank to AGI](https://gist.github.com/Rohoe/9c9bf7825b3c009460804fc7af664217) | Dwarkesh Patel, Jeff Dean, Noam Shazeer | Dwarkesh Patel | 02:15:29 | 2026-05-27 |
 
-### Speaker 4 (2)
+### Ken Griffin (2)
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
-| [The View Beyond: China’s old and new tech divide](https://gist.github.com/Rohoe/2961d7ae9844cca6483b4ced9a3e20b9) | Hong Hao, Richard Tang, Speaker 4 | Adventurous Media | 00:25:13 | 2026-06-20 |
-| [SpaceX: Start of the Next Megabubble or End of the Rally?](https://gist.github.com/Rohoe/e4c914cda449da83f7d747e9e7e2c8ab) | Avi, Jonah, Speaker 4, Unknown speaker | 1KX Media | 00:45:41 | 2026-06-18 |
+| [Citadel's Ken Griffin on AI, US-China Tensions, and US Data Centers](https://gist.github.com/Rohoe/1be5ecce37e79aee98cc7866b336a053) | Ken Griffin, Raj Mahajan, Speaker 4 | Goldman Sachs | 00:31:22 | 2026-07-14 |
+| [Stanford Leadership Forum 2026: Conversation with Ken Griffin](https://gist.github.com/Rohoe/88f0a6365e79158c8686c9a91b490ed5) | Ken Griffin, Amit Saru | Stanford Graduate School of Business | 00:45:41 | 2026-05-17 |
 
 ### UNKNOWN (2)
 
@@ -330,12 +345,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [Brad Gerstner on the market, tech and the flood of mega IPOs](https://gist.github.com/Rohoe/cc4d536a90551ebc656f586930a24665) | Brad Gerstner, CNBC Television, Jim, Josh Brown | CNBC Television | 00:09:24 | 2026-05-29 |
 
-### Ken Griffin (1)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [Stanford Leadership Forum 2026: Conversation with Ken Griffin](https://gist.github.com/Rohoe/88f0a6365e79158c8686c9a91b490ed5) | Ken Griffin, Amit Saru | Stanford Graduate School of Business | 00:45:41 | 2026-05-17 |
-
 ### Leon (1)
 
 | Title | Speakers | Host | Duration | Added |
@@ -383,6 +392,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [The AI Trade Is Finally Cracking | Weekly Roundup](https://gist.github.com/Rohoe/13803295d59858dc83dc4c0cb3634dd4) | Felix, Quinn | Forward Guidance | 00:46:33 | 2026-07-03 |
+
+### Raj Mahajan (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Citadel's Ken Griffin on AI, US-China Tensions, and US Data Centers](https://gist.github.com/Rohoe/1be5ecce37e79aee98cc7866b336a053) | Ken Griffin, Raj Mahajan, Speaker 4 | Goldman Sachs | 00:31:22 | 2026-07-14 |
 
 ### Richard Tang (1)
 
