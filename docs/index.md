@@ -4,7 +4,7 @@
 
 _Publishable transcripts produced by Transcript-Scribe._
 
-**24 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
+**25 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
 
 ## Latest
 
@@ -12,6 +12,7 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [From Poker Pro To Trading Giant: Inside The Mind of Selini Capital](https://gist.github.com/Rohoe/af95a67a9f3618a532764614dc29fc11) | Avi Felman, Jordi Alexander, Speaker 3 | 1000x | 00:30:40 | 2026-07-16 |
 | [Why the US Dollar Could Continue to Strengthen](https://gist.github.com/Rohoe/06dbeb7d54e291e3f6fca6183d9d789f) | Brian Dunne, Chris Hussey, Disclaimer | Goldman Sachs | 00:10:30 | 2026-07-16 |
+| [Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding](https://gist.github.com/Rohoe/e5eb6098fcc21575e3c359bfe5c58ea9) | Anton Osika, Jason, Pat Gelsinger, Speaker 3, Speaker 6 | All-In Podcast | 00:49:24 | 2026-07-16 |
 | [Citadel's Ken Griffin on AI, US-China Tensions, and US Data Centers](https://gist.github.com/Rohoe/1be5ecce37e79aee98cc7866b336a053) | Ken Griffin, Raj Mahajan, Speaker 4 | Goldman Sachs | 00:31:22 | 2026-07-14 |
 | [The AI Trade Is Finally Cracking | Weekly Roundup](https://gist.github.com/Rohoe/13803295d59858dc83dc4c0cb3634dd4) | Felix, Quinn | Forward Guidance | 00:46:33 | 2026-07-03 |
 | [Who's Coming For The Market In Q3?](https://gist.github.com/Rohoe/2769ad7769d633634c83abc4e18e8464) | Avi, Jonah, Unknown speaker | 1000x | 00:56:44 | 2026-07-02 |
@@ -51,6 +52,13 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [SpaceX: Start of the Next Megabubble or End of the Rally?](https://gist.github.com/Rohoe/e4c914cda449da83f7d747e9e7e2c8ab) | Avi, Jonah, Speaker 4, Unknown speaker | 1KX Media | 00:45:41 | 2026-06-18 |
 | [Are Rate Cuts Dead?](https://gist.github.com/Rohoe/0e3f28cfdd394befebf8054ba52a4824) | Speaker 2, Speaker 3 | 1KX Media | 00:53:05 | 2026-06-17 |
 
+### All-In Podcast (2)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding](https://gist.github.com/Rohoe/e5eb6098fcc21575e3c359bfe5c58ea9) | Anton Osika, Jason, Pat Gelsinger, Speaker 3, Speaker 6 | All-In Podcast | 00:49:24 | 2026-07-16 |
+| [Trump-Xi Summit, Benioff: \"Not My First SaaSpocalypse,\" OpenAI vs Apple, Multi-Sensory AI, El Niño](https://gist.github.com/Rohoe/84cf1dc553dd422b2f73e3b818ebfa19) | Chamath, Friedberg, Jason, Mark Benioff | All-In Podcast | 01:16:29 | 2026-05-27 |
+
 ### Dwarkesh Patel (2)
 
 | Title | Speakers | Host | Duration | Added |
@@ -83,12 +91,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [The View Beyond: China’s old and new tech divide](https://gist.github.com/Rohoe/2961d7ae9844cca6483b4ced9a3e20b9) | Hong Hao, Richard Tang, Speaker 4 | Adventurous Media | 00:25:13 | 2026-06-20 |
-
-### All-In Podcast (1)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [Trump-Xi Summit, Benioff: \"Not My First SaaSpocalypse,\" OpenAI vs Apple, Multi-Sensory AI, El Niño](https://gist.github.com/Rohoe/84cf1dc553dd422b2f73e3b818ebfa19) | Chamath, Friedberg, Jason, Mark Benioff | All-In Podcast | 01:16:29 | 2026-05-27 |
 
 ### CNBC Television (1)
 
@@ -174,6 +176,14 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [SpaceX: Start of the Next Megabubble or End of the Rally?](https://gist.github.com/Rohoe/e4c914cda449da83f7d747e9e7e2c8ab) | Avi, Jonah, Speaker 4, Unknown speaker | 1KX Media | 00:45:41 | 2026-06-18 |
 | [Sticky Inflation + Energy Prices: End of the Rally or Pause?](https://gist.github.com/Rohoe/8400f8a352e356ce1544555082c529fb) | Avi, Jonah | 1000x Podcast | 00:53:32 | 2026-05-24 |
 
+### Speaker 3 (3)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [From Poker Pro To Trading Giant: Inside The Mind of Selini Capital](https://gist.github.com/Rohoe/af95a67a9f3618a532764614dc29fc11) | Avi Felman, Jordi Alexander, Speaker 3 | 1000x | 00:30:40 | 2026-07-16 |
+| [Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding](https://gist.github.com/Rohoe/e5eb6098fcc21575e3c359bfe5c58ea9) | Anton Osika, Jason, Pat Gelsinger, Speaker 3, Speaker 6 | All-In Podcast | 00:49:24 | 2026-07-16 |
+| [Are Rate Cuts Dead?](https://gist.github.com/Rohoe/0e3f28cfdd394befebf8054ba52a4824) | Speaker 2, Speaker 3 | 1KX Media | 00:53:05 | 2026-06-17 |
+
 ### Speaker 4 (3)
 
 | Title | Speakers | Host | Duration | Added |
@@ -204,19 +214,19 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Mark Zuckerberg — AI will write most Meta code in 18 months](https://gist.github.com/Rohoe/e827d3f8172ad97c926861c1ff3d46a2) | Dwarkesh Patel, Mark Zuckerberg | Dwarkesh Patel | 01:15:48 | 2026-05-29 |
 | [Jeff Dean & Noam Shazeer — 25 years at Google: from PageRank to AGI](https://gist.github.com/Rohoe/9c9bf7825b3c009460804fc7af664217) | Dwarkesh Patel, Jeff Dean, Noam Shazeer | Dwarkesh Patel | 02:15:29 | 2026-05-27 |
 
+### Jason (2)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding](https://gist.github.com/Rohoe/e5eb6098fcc21575e3c359bfe5c58ea9) | Anton Osika, Jason, Pat Gelsinger, Speaker 3, Speaker 6 | All-In Podcast | 00:49:24 | 2026-07-16 |
+| [Trump-Xi Summit, Benioff: \"Not My First SaaSpocalypse,\" OpenAI vs Apple, Multi-Sensory AI, El Niño](https://gist.github.com/Rohoe/84cf1dc553dd422b2f73e3b818ebfa19) | Chamath, Friedberg, Jason, Mark Benioff | All-In Podcast | 01:16:29 | 2026-05-27 |
+
 ### Ken Griffin (2)
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Citadel's Ken Griffin on AI, US-China Tensions, and US Data Centers](https://gist.github.com/Rohoe/1be5ecce37e79aee98cc7866b336a053) | Ken Griffin, Raj Mahajan, Speaker 4 | Goldman Sachs | 00:31:22 | 2026-07-14 |
 | [Stanford Leadership Forum 2026: Conversation with Ken Griffin](https://gist.github.com/Rohoe/88f0a6365e79158c8686c9a91b490ed5) | Ken Griffin, Amit Saru | Stanford Graduate School of Business | 00:45:41 | 2026-05-17 |
-
-### Speaker 3 (2)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [From Poker Pro To Trading Giant: Inside The Mind of Selini Capital](https://gist.github.com/Rohoe/af95a67a9f3618a532764614dc29fc11) | Avi Felman, Jordi Alexander, Speaker 3 | 1000x | 00:30:40 | 2026-07-16 |
-| [Are Rate Cuts Dead?](https://gist.github.com/Rohoe/0e3f28cfdd394befebf8054ba52a4824) | Speaker 2, Speaker 3 | 1KX Media | 00:53:05 | 2026-06-17 |
 
 ### UNKNOWN (2)
 
@@ -242,6 +252,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Stanford Leadership Forum 2026: Conversation with Ken Griffin](https://gist.github.com/Rohoe/88f0a6365e79158c8686c9a91b490ed5) | Ken Griffin, Amit Saru | Stanford Graduate School of Business | 00:45:41 | 2026-05-17 |
+
+### Anton Osika (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding](https://gist.github.com/Rohoe/e5eb6098fcc21575e3c359bfe5c58ea9) | Anton Osika, Jason, Pat Gelsinger, Speaker 3, Speaker 6 | All-In Podcast | 00:49:24 | 2026-07-16 |
 
 ### Avi Felman (1)
 
@@ -333,12 +349,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [The View Beyond: China’s old and new tech divide](https://gist.github.com/Rohoe/2961d7ae9844cca6483b4ced9a3e20b9) | Hong Hao, Richard Tang, Speaker 4 | Adventurous Media | 00:25:13 | 2026-06-20 |
 
-### Jason (1)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [Trump-Xi Summit, Benioff: \"Not My First SaaSpocalypse,\" OpenAI vs Apple, Multi-Sensory AI, El Niño](https://gist.github.com/Rohoe/84cf1dc553dd422b2f73e3b818ebfa19) | Chamath, Friedberg, Jason, Mark Benioff | All-In Podcast | 01:16:29 | 2026-05-27 |
-
 ### Jeff Dean (1)
 
 | Title | Speakers | Host | Duration | Added |
@@ -423,6 +433,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [Jeff Dean & Noam Shazeer — 25 years at Google: from PageRank to AGI](https://gist.github.com/Rohoe/9c9bf7825b3c009460804fc7af664217) | Dwarkesh Patel, Jeff Dean, Noam Shazeer | Dwarkesh Patel | 02:15:29 | 2026-05-27 |
 
+### Pat Gelsinger (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding](https://gist.github.com/Rohoe/e5eb6098fcc21575e3c359bfe5c58ea9) | Anton Osika, Jason, Pat Gelsinger, Speaker 3, Speaker 6 | All-In Podcast | 00:49:24 | 2026-07-16 |
+
 ### Quinn (1)
 
 | Title | Speakers | Host | Duration | Added |
@@ -476,6 +492,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Are Rate Cuts Dead?](https://gist.github.com/Rohoe/0e3f28cfdd394befebf8054ba52a4824) | Speaker 2, Speaker 3 | 1KX Media | 00:53:05 | 2026-06-17 |
+
+### Speaker 6 (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding](https://gist.github.com/Rohoe/e5eb6098fcc21575e3c359bfe5c58ea9) | Anton Osika, Jason, Pat Gelsinger, Speaker 3, Speaker 6 | All-In Podcast | 00:49:24 | 2026-07-16 |
 
 ### Vladyslav Grabarskyy (1)
 
