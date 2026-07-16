@@ -4,12 +4,13 @@
 
 _Publishable transcripts produced by Transcript-Scribe._
 
-**22 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
+**23 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
 
 ## Latest
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
+| [From Poker Pro To Trading Giant: Inside The Mind of Selini Capital](https://gist.github.com/Rohoe/af95a67a9f3618a532764614dc29fc11) | Avi Felman, Jordi Alexander, Speaker 3 | 1000x | 00:30:40 | 2026-07-16 |
 | [Citadel's Ken Griffin on AI, US-China Tensions, and US Data Centers](https://gist.github.com/Rohoe/1be5ecce37e79aee98cc7866b336a053) | Ken Griffin, Raj Mahajan, Speaker 4 | Goldman Sachs | 00:31:22 | 2026-07-14 |
 | [The AI Trade Is Finally Cracking | Weekly Roundup](https://gist.github.com/Rohoe/13803295d59858dc83dc4c0cb3634dd4) | Felix, Quinn | Forward Guidance | 00:46:33 | 2026-07-03 |
 | [Who's Coming For The Market In Q3?](https://gist.github.com/Rohoe/2769ad7769d633634c83abc4e18e8464) | Avi, Jonah, Unknown speaker | 1000x | 00:56:44 | 2026-07-02 |
@@ -35,6 +36,13 @@ _Publishable transcripts produced by Transcript-Scribe._
 
 ## By host
 
+### 1000x (2)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [From Poker Pro To Trading Giant: Inside The Mind of Selini Capital](https://gist.github.com/Rohoe/af95a67a9f3618a532764614dc29fc11) | Avi Felman, Jordi Alexander, Speaker 3 | 1000x | 00:30:40 | 2026-07-16 |
+| [Who's Coming For The Market In Q3?](https://gist.github.com/Rohoe/2769ad7769d633634c83abc4e18e8464) | Avi, Jonah, Unknown speaker | 1000x | 00:56:44 | 2026-07-02 |
+
 ### 1KX Media (2)
 
 | Title | Speakers | Host | Duration | Added |
@@ -55,12 +63,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [Intelligence as Infrastructure: How AI Is Rewiring the Economy](https://gist.github.com/Rohoe/341b407707737b633a750ff150402178) | Alex, Leon, Sohn Conference Foundation | Sohn Conference Foundation | 00:24:18 | 2026-05-27 |
 | [The Inference Revolution: Groq, Nvidia and the Future of AI](https://gist.github.com/Rohoe/ba0a6c2823c40eb1e2ce6d7afbf4b535) | Jonathan Ross | Sohn Conference Foundation | 00:15:58 | 2026-05-18 |
-
-### 1000x (1)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [Who's Coming For The Market In Q3?](https://gist.github.com/Rohoe/2769ad7769d633634c83abc4e18e8464) | Avi, Jonah, Unknown speaker | 1000x | 00:56:44 | 2026-07-02 |
 
 ### 1000x Podcast (1)
 
@@ -200,6 +202,13 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Citadel's Ken Griffin on AI, US-China Tensions, and US Data Centers](https://gist.github.com/Rohoe/1be5ecce37e79aee98cc7866b336a053) | Ken Griffin, Raj Mahajan, Speaker 4 | Goldman Sachs | 00:31:22 | 2026-07-14 |
 | [Stanford Leadership Forum 2026: Conversation with Ken Griffin](https://gist.github.com/Rohoe/88f0a6365e79158c8686c9a91b490ed5) | Ken Griffin, Amit Saru | Stanford Graduate School of Business | 00:45:41 | 2026-05-17 |
 
+### Speaker 3 (2)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [From Poker Pro To Trading Giant: Inside The Mind of Selini Capital](https://gist.github.com/Rohoe/af95a67a9f3618a532764614dc29fc11) | Avi Felman, Jordi Alexander, Speaker 3 | 1000x | 00:30:40 | 2026-07-16 |
+| [Are Rate Cuts Dead?](https://gist.github.com/Rohoe/0e3f28cfdd394befebf8054ba52a4824) | Speaker 2, Speaker 3 | 1KX Media | 00:53:05 | 2026-06-17 |
+
 ### UNKNOWN (2)
 
 | Title | Speakers | Host | Duration | Added |
@@ -224,6 +233,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Stanford Leadership Forum 2026: Conversation with Ken Griffin](https://gist.github.com/Rohoe/88f0a6365e79158c8686c9a91b490ed5) | Ken Griffin, Amit Saru | Stanford Graduate School of Business | 00:45:41 | 2026-05-17 |
+
+### Avi Felman (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [From Poker Pro To Trading Giant: Inside The Mind of Selini Capital](https://gist.github.com/Rohoe/af95a67a9f3618a532764614dc29fc11) | Avi Felman, Jordi Alexander, Speaker 3 | 1000x | 00:30:40 | 2026-07-16 |
 
 ### Brad Gerstner (1)
 
@@ -333,6 +348,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [The Inference Revolution: Groq, Nvidia and the Future of AI](https://gist.github.com/Rohoe/ba0a6c2823c40eb1e2ce6d7afbf4b535) | Jonathan Ross | Sohn Conference Foundation | 00:15:58 | 2026-05-18 |
 
+### Jordi Alexander (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [From Poker Pro To Trading Giant: Inside The Mind of Selini Capital](https://gist.github.com/Rohoe/af95a67a9f3618a532764614dc29fc11) | Avi Felman, Jordi Alexander, Speaker 3 | 1000x | 00:30:40 | 2026-07-16 |
+
 ### Joseph Wang (1)
 
 | Title | Speakers | Host | Duration | Added |
@@ -436,12 +457,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Intelligence as Infrastructure: How AI Is Rewiring the Economy](https://gist.github.com/Rohoe/341b407707737b633a750ff150402178) | Alex, Leon, Sohn Conference Foundation | Sohn Conference Foundation | 00:24:18 | 2026-05-27 |
 
 ### Speaker 2 (1)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [Are Rate Cuts Dead?](https://gist.github.com/Rohoe/0e3f28cfdd394befebf8054ba52a4824) | Speaker 2, Speaker 3 | 1KX Media | 00:53:05 | 2026-06-17 |
-
-### Speaker 3 (1)
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
