@@ -4,13 +4,14 @@
 
 _Publishable transcripts produced by Transcript-Scribe._
 
-**26 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
+**27 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
 
 ## Latest
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [[Emergency Episode] Moonshot’s Kimi K3 has Arrived! China has a Frontier Model](https://gist.github.com/Rohoe/bc5b4278a36250928be0b3f9eda510e6) | Jordan Nanos, Max | Jordan Nanos, Doug O'Laughlin | 00:31:38 | 2026-07-18 |
+| [Top-down macro and bottom-up company results are moving markets today](https://gist.github.com/Rohoe/f6a75a166fae040e6317e5739d970583) | Carsten Menke, David Meyer, Mike Grauber, Mike Rauber, Speaker 5 | Adventurous Media | 00:12:20 | 2026-07-18 |
 | [From Poker Pro To Trading Giant: Inside The Mind of Selini Capital](https://gist.github.com/Rohoe/af95a67a9f3618a532764614dc29fc11) | Avi Felman, Jordi Alexander, Speaker 3 | 1000x | 00:30:40 | 2026-07-16 |
 | [Why the US Dollar Could Continue to Strengthen](https://gist.github.com/Rohoe/06dbeb7d54e291e3f6fca6183d9d789f) | Brian Dunne, Chris Hussey, Disclaimer | Goldman Sachs | 00:10:30 | 2026-07-16 |
 | [Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding](https://gist.github.com/Rohoe/e5eb6098fcc21575e3c359bfe5c58ea9) | Anton Osika, Jason, Pat Gelsinger, Speaker 3, Speaker 6 | All-In Podcast | 00:49:24 | 2026-07-16 |
@@ -53,6 +54,13 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [SpaceX: Start of the Next Megabubble or End of the Rally?](https://gist.github.com/Rohoe/e4c914cda449da83f7d747e9e7e2c8ab) | Avi, Jonah, Speaker 4, Unknown speaker | 1KX Media | 00:45:41 | 2026-06-18 |
 | [Are Rate Cuts Dead?](https://gist.github.com/Rohoe/0e3f28cfdd394befebf8054ba52a4824) | Speaker 2, Speaker 3 | 1KX Media | 00:53:05 | 2026-06-17 |
 
+### Adventurous Media (2)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Top-down macro and bottom-up company results are moving markets today](https://gist.github.com/Rohoe/f6a75a166fae040e6317e5739d970583) | Carsten Menke, David Meyer, Mike Grauber, Mike Rauber, Speaker 5 | Adventurous Media | 00:12:20 | 2026-07-18 |
+| [The View Beyond: China’s old and new tech divide](https://gist.github.com/Rohoe/2961d7ae9844cca6483b4ced9a3e20b9) | Hong Hao, Richard Tang, Speaker 4 | Adventurous Media | 00:25:13 | 2026-06-20 |
+
 ### All-In Podcast (2)
 
 | Title | Speakers | Host | Duration | Added |
@@ -86,12 +94,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Sticky Inflation + Energy Prices: End of the Rally or Pause?](https://gist.github.com/Rohoe/8400f8a352e356ce1544555082c529fb) | Avi, Jonah | 1000x Podcast | 00:53:32 | 2026-05-24 |
-
-### Adventurous Media (1)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [The View Beyond: China’s old and new tech divide](https://gist.github.com/Rohoe/2961d7ae9844cca6483b4ced9a3e20b9) | Hong Hao, Richard Tang, Speaker 4 | Adventurous Media | 00:25:13 | 2026-06-20 |
 
 ### CNBC Television (1)
 
@@ -290,6 +292,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [Brad Gerstner on the market, tech and the flood of mega IPOs](https://gist.github.com/Rohoe/cc4d536a90551ebc656f586930a24665) | Brad Gerstner, CNBC Television, Jim, Josh Brown | CNBC Television | 00:09:24 | 2026-05-29 |
 
+### Carsten Menke (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Top-down macro and bottom-up company results are moving markets today](https://gist.github.com/Rohoe/f6a75a166fae040e6317e5739d970583) | Carsten Menke, David Meyer, Mike Grauber, Mike Rauber, Speaker 5 | Adventurous Media | 00:12:20 | 2026-07-18 |
+
 ### Chamath (1)
 
 | Title | Speakers | Host | Duration | Added |
@@ -301,6 +309,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Why the US Dollar Could Continue to Strengthen](https://gist.github.com/Rohoe/06dbeb7d54e291e3f6fca6183d9d789f) | Brian Dunne, Chris Hussey, Disclaimer | Goldman Sachs | 00:10:30 | 2026-07-16 |
+
+### David Meyer (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Top-down macro and bottom-up company results are moving markets today](https://gist.github.com/Rohoe/f6a75a166fae040e6317e5739d970583) | Carsten Menke, David Meyer, Mike Grauber, Mike Rauber, Speaker 5 | Adventurous Media | 00:12:20 | 2026-07-18 |
 
 ### Dima (1)
 
@@ -446,6 +460,18 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [What Changed After the U.S.-China Summit?](https://gist.github.com/Rohoe/9d30f0c09509cc735c9032277337adc1) | Disclaimer, Michael Zezas | Morgan Stanley | 00:02:56 | 2026-05-28 |
 
+### Mike Grauber (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Top-down macro and bottom-up company results are moving markets today](https://gist.github.com/Rohoe/f6a75a166fae040e6317e5739d970583) | Carsten Menke, David Meyer, Mike Grauber, Mike Rauber, Speaker 5 | Adventurous Media | 00:12:20 | 2026-07-18 |
+
+### Mike Rauber (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Top-down macro and bottom-up company results are moving markets today](https://gist.github.com/Rohoe/f6a75a166fae040e6317e5739d970583) | Carsten Menke, David Meyer, Mike Grauber, Mike Rauber, Speaker 5 | Adventurous Media | 00:12:20 | 2026-07-18 |
+
 ### Noam Shazeer (1)
 
 | Title | Speakers | Host | Duration | Added |
@@ -511,6 +537,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Are Rate Cuts Dead?](https://gist.github.com/Rohoe/0e3f28cfdd394befebf8054ba52a4824) | Speaker 2, Speaker 3 | 1KX Media | 00:53:05 | 2026-06-17 |
+
+### Speaker 5 (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Top-down macro and bottom-up company results are moving markets today](https://gist.github.com/Rohoe/f6a75a166fae040e6317e5739d970583) | Carsten Menke, David Meyer, Mike Grauber, Mike Rauber, Speaker 5 | Adventurous Media | 00:12:20 | 2026-07-18 |
 
 ### Speaker 6 (1)
 
