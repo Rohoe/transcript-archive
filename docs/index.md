@@ -4,7 +4,7 @@
 
 _Publishable transcripts produced by Transcript-Scribe._
 
-**28 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
+**29 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
 
 ## Latest
 
@@ -13,6 +13,7 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [[Emergency Episode] Moonshot’s Kimi K3 has Arrived! China has a Frontier Model](https://gist.github.com/Rohoe/bc5b4278a36250928be0b3f9eda510e6) | Jordan Nanos, Max | Jordan Nanos, Doug O'Laughlin | 00:31:38 | 2026-07-18 |
 | [Top-down macro and bottom-up company results are moving markets today](https://gist.github.com/Rohoe/f6a75a166fae040e6317e5739d970583) | Carsten Menke, David Meyer, Mike Grauber, Mike Rauber, Speaker 5 | Adventurous Media | 00:12:20 | 2026-07-18 |
 | [The View Beyond: China after the AI correction](https://gist.github.com/Rohoe/d627ceb17414d980a0a77a10f0ac1ad9) | Hong Hao, Richard Tang, Speaker 4 | Adventurous Media | 00:18:35 | 2026-07-18 |
+| [Markets Weekly July 18, 2026](https://gist.github.com/Rohoe/bd11ad150c2ba22227106a39143ae47a) | Joseph Wang, Speaker 3 | Joseph Wang | 00:17:33 | 2026-07-18 |
 | [From Poker Pro To Trading Giant: Inside The Mind of Selini Capital](https://gist.github.com/Rohoe/af95a67a9f3618a532764614dc29fc11) | Avi Felman, Jordi Alexander, Speaker 3 | 1000x | 00:30:40 | 2026-07-16 |
 | [Why the US Dollar Could Continue to Strengthen](https://gist.github.com/Rohoe/06dbeb7d54e291e3f6fca6183d9d789f) | Brian Dunne, Chris Hussey, Disclaimer | Goldman Sachs | 00:10:30 | 2026-07-16 |
 | [Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding](https://gist.github.com/Rohoe/e5eb6098fcc21575e3c359bfe5c58ea9) | Anton Osika, Jason, Pat Gelsinger, Speaker 3, Speaker 6 | All-In Podcast | 00:49:24 | 2026-07-16 |
@@ -84,6 +85,13 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Why the US Dollar Could Continue to Strengthen](https://gist.github.com/Rohoe/06dbeb7d54e291e3f6fca6183d9d789f) | Brian Dunne, Chris Hussey, Disclaimer | Goldman Sachs | 00:10:30 | 2026-07-16 |
 | [Citadel's Ken Griffin on AI, US-China Tensions, and US Data Centers](https://gist.github.com/Rohoe/1be5ecce37e79aee98cc7866b336a053) | Ken Griffin, Raj Mahajan, Speaker 4 | Goldman Sachs | 00:31:22 | 2026-07-14 |
 
+### Joseph Wang (2)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Markets Weekly July 18, 2026](https://gist.github.com/Rohoe/bd11ad150c2ba22227106a39143ae47a) | Joseph Wang, Speaker 3 | Joseph Wang | 00:17:33 | 2026-07-18 |
+| [Markets Weekly June 27, 2026](https://gist.github.com/Rohoe/a36fe55d37ad373ee2fd945b72f18b89) | Joseph Wang | Joseph Wang | 00:25:04 | 2026-06-27 |
+
 ### Sohn Conference Foundation (2)
 
 | Title | Speakers | Host | Duration | Added |
@@ -133,12 +141,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [[Emergency Episode] Moonshot’s Kimi K3 has Arrived! China has a Frontier Model](https://gist.github.com/Rohoe/bc5b4278a36250928be0b3f9eda510e6) | Jordan Nanos, Max | Jordan Nanos, Doug O'Laughlin | 00:31:38 | 2026-07-18 |
 
-### Joseph Wang (1)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [Markets Weekly June 27, 2026](https://gist.github.com/Rohoe/a36fe55d37ad373ee2fd945b72f18b89) | Joseph Wang | Joseph Wang | 00:25:04 | 2026-06-27 |
-
 ### Lumida Wealth (1)
 
 | Title | Speakers | Host | Duration | Added |
@@ -171,6 +173,15 @@ _Publishable transcripts produced by Transcript-Scribe._
 
 ## By speaker
 
+### Speaker 3 (4)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Markets Weekly July 18, 2026](https://gist.github.com/Rohoe/bd11ad150c2ba22227106a39143ae47a) | Joseph Wang, Speaker 3 | Joseph Wang | 00:17:33 | 2026-07-18 |
+| [From Poker Pro To Trading Giant: Inside The Mind of Selini Capital](https://gist.github.com/Rohoe/af95a67a9f3618a532764614dc29fc11) | Avi Felman, Jordi Alexander, Speaker 3 | 1000x | 00:30:40 | 2026-07-16 |
+| [Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding](https://gist.github.com/Rohoe/e5eb6098fcc21575e3c359bfe5c58ea9) | Anton Osika, Jason, Pat Gelsinger, Speaker 3, Speaker 6 | All-In Podcast | 00:49:24 | 2026-07-16 |
+| [Are Rate Cuts Dead?](https://gist.github.com/Rohoe/0e3f28cfdd394befebf8054ba52a4824) | Speaker 2, Speaker 3 | 1KX Media | 00:53:05 | 2026-06-17 |
+
 ### Speaker 4 (4)
 
 | Title | Speakers | Host | Duration | Added |
@@ -195,14 +206,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Who's Coming For The Market In Q3?](https://gist.github.com/Rohoe/2769ad7769d633634c83abc4e18e8464) | Avi, Jonah, Unknown speaker | 1000x | 00:56:44 | 2026-07-02 |
 | [SpaceX: Start of the Next Megabubble or End of the Rally?](https://gist.github.com/Rohoe/e4c914cda449da83f7d747e9e7e2c8ab) | Avi, Jonah, Speaker 4, Unknown speaker | 1KX Media | 00:45:41 | 2026-06-18 |
 | [Sticky Inflation + Energy Prices: End of the Rally or Pause?](https://gist.github.com/Rohoe/8400f8a352e356ce1544555082c529fb) | Avi, Jonah | 1000x Podcast | 00:53:32 | 2026-05-24 |
-
-### Speaker 3 (3)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [From Poker Pro To Trading Giant: Inside The Mind of Selini Capital](https://gist.github.com/Rohoe/af95a67a9f3618a532764614dc29fc11) | Avi Felman, Jordi Alexander, Speaker 3 | 1000x | 00:30:40 | 2026-07-16 |
-| [Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding](https://gist.github.com/Rohoe/e5eb6098fcc21575e3c359bfe5c58ea9) | Anton Osika, Jason, Pat Gelsinger, Speaker 3, Speaker 6 | All-In Podcast | 00:49:24 | 2026-07-16 |
-| [Are Rate Cuts Dead?](https://gist.github.com/Rohoe/0e3f28cfdd394befebf8054ba52a4824) | Speaker 2, Speaker 3 | 1KX Media | 00:53:05 | 2026-06-17 |
 
 ### Unknown speaker (3)
 
@@ -239,6 +242,13 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding](https://gist.github.com/Rohoe/e5eb6098fcc21575e3c359bfe5c58ea9) | Anton Osika, Jason, Pat Gelsinger, Speaker 3, Speaker 6 | All-In Podcast | 00:49:24 | 2026-07-16 |
 | [Trump-Xi Summit, Benioff: \"Not My First SaaSpocalypse,\" OpenAI vs Apple, Multi-Sensory AI, El Niño](https://gist.github.com/Rohoe/84cf1dc553dd422b2f73e3b818ebfa19) | Chamath, Friedberg, Jason, Mark Benioff | All-In Podcast | 01:16:29 | 2026-05-27 |
+
+### Joseph Wang (2)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Markets Weekly July 18, 2026](https://gist.github.com/Rohoe/bd11ad150c2ba22227106a39143ae47a) | Joseph Wang, Speaker 3 | Joseph Wang | 00:17:33 | 2026-07-18 |
+| [Markets Weekly June 27, 2026](https://gist.github.com/Rohoe/a36fe55d37ad373ee2fd945b72f18b89) | Joseph Wang | Joseph Wang | 00:25:04 | 2026-06-27 |
 
 ### Ken Griffin (2)
 
@@ -416,12 +426,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [From Poker Pro To Trading Giant: Inside The Mind of Selini Capital](https://gist.github.com/Rohoe/af95a67a9f3618a532764614dc29fc11) | Avi Felman, Jordi Alexander, Speaker 3 | 1000x | 00:30:40 | 2026-07-16 |
-
-### Joseph Wang (1)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [Markets Weekly June 27, 2026](https://gist.github.com/Rohoe/a36fe55d37ad373ee2fd945b72f18b89) | Joseph Wang | Joseph Wang | 00:25:04 | 2026-06-27 |
 
 ### Josh Brown (1)
 
