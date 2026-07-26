@@ -4,12 +4,13 @@
 
 _Publishable transcripts produced by Transcript-Scribe._
 
-**29 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
+**30 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
 
 ## Latest
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
+| [US Midyear Outlook: Geopolitical Shocks, the New Fed Era, and Growth](https://gist.github.com/Rohoe/572b58bbabbe39baf4904f40a98e7224) | Allison Nathan, David Mericle, Speaker 4 | Goldman Sachs | 00:18:46 | 2026-07-26 |
 | [[Emergency Episode] Moonshot’s Kimi K3 has Arrived! China has a Frontier Model](https://gist.github.com/Rohoe/bc5b4278a36250928be0b3f9eda510e6) | Jordan Nanos, Max | Jordan Nanos, Doug O'Laughlin | 00:31:38 | 2026-07-18 |
 | [Top-down macro and bottom-up company results are moving markets today](https://gist.github.com/Rohoe/f6a75a166fae040e6317e5739d970583) | Carsten Menke, David Meyer, Mike Grauber, Mike Rauber, Speaker 5 | Adventurous Media | 00:12:20 | 2026-07-18 |
 | [The View Beyond: China after the AI correction](https://gist.github.com/Rohoe/d627ceb17414d980a0a77a10f0ac1ad9) | Hong Hao, Richard Tang, Speaker 4 | Adventurous Media | 00:18:35 | 2026-07-18 |
@@ -50,6 +51,14 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [The View Beyond: China after the AI correction](https://gist.github.com/Rohoe/d627ceb17414d980a0a77a10f0ac1ad9) | Hong Hao, Richard Tang, Speaker 4 | Adventurous Media | 00:18:35 | 2026-07-18 |
 | [The View Beyond: China’s old and new tech divide](https://gist.github.com/Rohoe/2961d7ae9844cca6483b4ced9a3e20b9) | Hong Hao, Richard Tang, Speaker 4 | Adventurous Media | 00:25:13 | 2026-06-20 |
 
+### Goldman Sachs (3)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [US Midyear Outlook: Geopolitical Shocks, the New Fed Era, and Growth](https://gist.github.com/Rohoe/572b58bbabbe39baf4904f40a98e7224) | Allison Nathan, David Mericle, Speaker 4 | Goldman Sachs | 00:18:46 | 2026-07-26 |
+| [Why the US Dollar Could Continue to Strengthen](https://gist.github.com/Rohoe/06dbeb7d54e291e3f6fca6183d9d789f) | Brian Dunne, Chris Hussey, Disclaimer | Goldman Sachs | 00:10:30 | 2026-07-16 |
+| [Citadel's Ken Griffin on AI, US-China Tensions, and US Data Centers](https://gist.github.com/Rohoe/1be5ecce37e79aee98cc7866b336a053) | Ken Griffin, Raj Mahajan, Speaker 4 | Goldman Sachs | 00:31:22 | 2026-07-14 |
+
 ### 1000x (2)
 
 | Title | Speakers | Host | Duration | Added |
@@ -77,13 +86,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [Mark Zuckerberg — AI will write most Meta code in 18 months](https://gist.github.com/Rohoe/e827d3f8172ad97c926861c1ff3d46a2) | Dwarkesh Patel, Mark Zuckerberg | Dwarkesh Patel | 01:15:48 | 2026-05-29 |
 | [Jeff Dean & Noam Shazeer — 25 years at Google: from PageRank to AGI](https://gist.github.com/Rohoe/9c9bf7825b3c009460804fc7af664217) | Dwarkesh Patel, Jeff Dean, Noam Shazeer | Dwarkesh Patel | 02:15:29 | 2026-05-27 |
-
-### Goldman Sachs (2)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [Why the US Dollar Could Continue to Strengthen](https://gist.github.com/Rohoe/06dbeb7d54e291e3f6fca6183d9d789f) | Brian Dunne, Chris Hussey, Disclaimer | Goldman Sachs | 00:10:30 | 2026-07-16 |
-| [Citadel's Ken Griffin on AI, US-China Tensions, and US Data Centers](https://gist.github.com/Rohoe/1be5ecce37e79aee98cc7866b336a053) | Ken Griffin, Raj Mahajan, Speaker 4 | Goldman Sachs | 00:31:22 | 2026-07-14 |
 
 ### Joseph Wang (2)
 
@@ -173,6 +175,16 @@ _Publishable transcripts produced by Transcript-Scribe._
 
 ## By speaker
 
+### Speaker 4 (5)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [US Midyear Outlook: Geopolitical Shocks, the New Fed Era, and Growth](https://gist.github.com/Rohoe/572b58bbabbe39baf4904f40a98e7224) | Allison Nathan, David Mericle, Speaker 4 | Goldman Sachs | 00:18:46 | 2026-07-26 |
+| [The View Beyond: China after the AI correction](https://gist.github.com/Rohoe/d627ceb17414d980a0a77a10f0ac1ad9) | Hong Hao, Richard Tang, Speaker 4 | Adventurous Media | 00:18:35 | 2026-07-18 |
+| [Citadel's Ken Griffin on AI, US-China Tensions, and US Data Centers](https://gist.github.com/Rohoe/1be5ecce37e79aee98cc7866b336a053) | Ken Griffin, Raj Mahajan, Speaker 4 | Goldman Sachs | 00:31:22 | 2026-07-14 |
+| [The View Beyond: China’s old and new tech divide](https://gist.github.com/Rohoe/2961d7ae9844cca6483b4ced9a3e20b9) | Hong Hao, Richard Tang, Speaker 4 | Adventurous Media | 00:25:13 | 2026-06-20 |
+| [SpaceX: Start of the Next Megabubble or End of the Rally?](https://gist.github.com/Rohoe/e4c914cda449da83f7d747e9e7e2c8ab) | Avi, Jonah, Speaker 4, Unknown speaker | 1KX Media | 00:45:41 | 2026-06-18 |
+
 ### Speaker 3 (4)
 
 | Title | Speakers | Host | Duration | Added |
@@ -181,15 +193,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [From Poker Pro To Trading Giant: Inside The Mind of Selini Capital](https://gist.github.com/Rohoe/af95a67a9f3618a532764614dc29fc11) | Avi Felman, Jordi Alexander, Speaker 3 | 1000x | 00:30:40 | 2026-07-16 |
 | [Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding](https://gist.github.com/Rohoe/e5eb6098fcc21575e3c359bfe5c58ea9) | Anton Osika, Jason, Pat Gelsinger, Speaker 3, Speaker 6 | All-In Podcast | 00:49:24 | 2026-07-16 |
 | [Are Rate Cuts Dead?](https://gist.github.com/Rohoe/0e3f28cfdd394befebf8054ba52a4824) | Speaker 2, Speaker 3 | 1KX Media | 00:53:05 | 2026-06-17 |
-
-### Speaker 4 (4)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [The View Beyond: China after the AI correction](https://gist.github.com/Rohoe/d627ceb17414d980a0a77a10f0ac1ad9) | Hong Hao, Richard Tang, Speaker 4 | Adventurous Media | 00:18:35 | 2026-07-18 |
-| [Citadel's Ken Griffin on AI, US-China Tensions, and US Data Centers](https://gist.github.com/Rohoe/1be5ecce37e79aee98cc7866b336a053) | Ken Griffin, Raj Mahajan, Speaker 4 | Goldman Sachs | 00:31:22 | 2026-07-14 |
-| [The View Beyond: China’s old and new tech divide](https://gist.github.com/Rohoe/2961d7ae9844cca6483b4ced9a3e20b9) | Hong Hao, Richard Tang, Speaker 4 | Adventurous Media | 00:25:13 | 2026-06-20 |
-| [SpaceX: Start of the Next Megabubble or End of the Rally?](https://gist.github.com/Rohoe/e4c914cda449da83f7d747e9e7e2c8ab) | Avi, Jonah, Speaker 4, Unknown speaker | 1KX Media | 00:45:41 | 2026-06-18 |
 
 ### Avi (3)
 
@@ -283,6 +286,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [Life and Death in the Payments Sector](https://gist.github.com/Rohoe/260a13b35e50ea1793bace38f8b560ea) | Alex Wilson, Rob, UNKNOWN | Lumida Wealth | 01:01:00 | 2026-05-28 |
 
+### Allison Nathan (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [US Midyear Outlook: Geopolitical Shocks, the New Fed Era, and Growth](https://gist.github.com/Rohoe/572b58bbabbe39baf4904f40a98e7224) | Allison Nathan, David Mericle, Speaker 4 | Goldman Sachs | 00:18:46 | 2026-07-26 |
+
 ### Amit Saru (1)
 
 | Title | Speakers | Host | Duration | Added |
@@ -336,6 +345,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Why the US Dollar Could Continue to Strengthen](https://gist.github.com/Rohoe/06dbeb7d54e291e3f6fca6183d9d789f) | Brian Dunne, Chris Hussey, Disclaimer | Goldman Sachs | 00:10:30 | 2026-07-16 |
+
+### David Mericle (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [US Midyear Outlook: Geopolitical Shocks, the New Fed Era, and Growth](https://gist.github.com/Rohoe/572b58bbabbe39baf4904f40a98e7224) | Allison Nathan, David Mericle, Speaker 4 | Goldman Sachs | 00:18:46 | 2026-07-26 |
 
 ### David Meyer (1)
 
