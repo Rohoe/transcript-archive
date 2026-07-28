@@ -4,12 +4,13 @@
 
 _Publishable transcripts produced by Transcript-Scribe._
 
-**31 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
+**32 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
 
 ## Latest
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
+| [One Hour of Macro Episode 1 - Louis Vincent Gave - CEO of Gavekal](https://gist.github.com/Rohoe/6396851c6f389fe43581f4d83a8a463c) | Louis Vincent Gave, Martin Tixier, Zoltan Szelyes | Macronomics | 01:06:24 | 2026-07-28 |
 | [US Midyear Outlook: Geopolitical Shocks, the New Fed Era, and Growth](https://gist.github.com/Rohoe/572b58bbabbe39baf4904f40a98e7224) | Allison Nathan, David Mericle, Speaker 4 | Goldman Sachs | 00:18:46 | 2026-07-26 |
 | [Has Memory Bottomed?](https://gist.github.com/Rohoe/c0fddb22bfb1c59939f78bccf2e688f5) | Avi, Jonah | 1000x | 00:55:38 | 2026-07-26 |
 | [[Emergency Episode] Moonshot’s Kimi K3 has Arrived! China has a Frontier Model](https://gist.github.com/Rohoe/bc5b4278a36250928be0b3f9eda510e6) | Jordan Nanos, Max | Jordan Nanos, Doug O'Laughlin | 00:31:38 | 2026-07-18 |
@@ -150,6 +151,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Life and Death in the Payments Sector](https://gist.github.com/Rohoe/260a13b35e50ea1793bace38f8b560ea) | Alex Wilson, Rob, UNKNOWN | Lumida Wealth | 01:01:00 | 2026-05-28 |
+
+### Macronomics (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [One Hour of Macro Episode 1 - Louis Vincent Gave - CEO of Gavekal](https://gist.github.com/Rohoe/6396851c6f389fe43581f4d83a8a463c) | Louis Vincent Gave, Martin Tixier, Zoltan Szelyes | Macronomics | 01:06:24 | 2026-07-28 |
 
 ### Morgan Stanley (1)
 
@@ -464,6 +471,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [Re-engineering the Semiconductor Supply Chain with Intel CEO Lip Bu Tan](https://gist.github.com/Rohoe/6ad66f2d9c51f13e93713123b5cec9c5) | Elad Gil, Lip Bu Tan, Sarah Guo | Conviction | 00:44:57 | 2026-06-19 |
 
+### Louis Vincent Gave (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [One Hour of Macro Episode 1 - Louis Vincent Gave - CEO of Gavekal](https://gist.github.com/Rohoe/6396851c6f389fe43581f4d83a8a463c) | Louis Vincent Gave, Martin Tixier, Zoltan Szelyes | Macronomics | 01:06:24 | 2026-07-28 |
+
 ### Mark Benioff (1)
 
 | Title | Speakers | Host | Duration | Added |
@@ -475,6 +488,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Mark Zuckerberg — AI will write most Meta code in 18 months](https://gist.github.com/Rohoe/e827d3f8172ad97c926861c1ff3d46a2) | Dwarkesh Patel, Mark Zuckerberg | Dwarkesh Patel | 01:15:48 | 2026-05-29 |
+
+### Martin Tixier (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [One Hour of Macro Episode 1 - Louis Vincent Gave - CEO of Gavekal](https://gist.github.com/Rohoe/6396851c6f389fe43581f4d83a8a463c) | Louis Vincent Gave, Martin Tixier, Zoltan Szelyes | Macronomics | 01:06:24 | 2026-07-28 |
 
 ### Max (1)
 
@@ -583,6 +602,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Global Liquidity Signals What’s Next for Gold & Markets | Michael Howell](https://gist.github.com/Rohoe/418d1041d2270318303e9bd3ed49bfa0) | Michael Howell, Vladyslav Grabarskyy | Wealth Building Blueprint – Vladyslav Grabarskyy | 00:43:19 | 2026-06-19 |
+
+### Zoltan Szelyes (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [One Hour of Macro Episode 1 - Louis Vincent Gave - CEO of Gavekal](https://gist.github.com/Rohoe/6396851c6f389fe43581f4d83a8a463c) | Louis Vincent Gave, Martin Tixier, Zoltan Szelyes | Macronomics | 01:06:24 | 2026-07-28 |
 
 ## By tag
 
