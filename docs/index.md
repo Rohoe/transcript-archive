@@ -4,12 +4,13 @@
 
 _Publishable transcripts produced by Transcript-Scribe._
 
-**32 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
+**33 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
 
 ## Latest
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
+| [Ex-Palantir Analyst On The Inner Workings Of Intelligence & Markets In A World Of Socialism](https://gist.github.com/Rohoe/e7dbf7ff61c3a8bcab8771fc959deb29) | Alex Good, Avi, Avi Felman | 1000x | 00:49:02 | 2026-07-29 |
 | [One Hour of Macro Episode 1 - Louis Vincent Gave - CEO of Gavekal](https://gist.github.com/Rohoe/6396851c6f389fe43581f4d83a8a463c) | Louis Vincent Gave, Martin Tixier, Zoltan Szelyes | Macronomics | 01:06:24 | 2026-07-28 |
 | [US Midyear Outlook: Geopolitical Shocks, the New Fed Era, and Growth](https://gist.github.com/Rohoe/572b58bbabbe39baf4904f40a98e7224) | Allison Nathan, David Mericle, Speaker 4 | Goldman Sachs | 00:18:46 | 2026-07-26 |
 | [Has Memory Bottomed?](https://gist.github.com/Rohoe/c0fddb22bfb1c59939f78bccf2e688f5) | Avi, Jonah | 1000x | 00:55:38 | 2026-07-26 |
@@ -45,10 +46,11 @@ _Publishable transcripts produced by Transcript-Scribe._
 
 ## By host
 
-### 1000x (3)
+### 1000x (4)
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
+| [Ex-Palantir Analyst On The Inner Workings Of Intelligence & Markets In A World Of Socialism](https://gist.github.com/Rohoe/e7dbf7ff61c3a8bcab8771fc959deb29) | Alex Good, Avi, Avi Felman | 1000x | 00:49:02 | 2026-07-29 |
 | [Has Memory Bottomed?](https://gist.github.com/Rohoe/c0fddb22bfb1c59939f78bccf2e688f5) | Avi, Jonah | 1000x | 00:55:38 | 2026-07-26 |
 | [From Poker Pro To Trading Giant: Inside The Mind of Selini Capital](https://gist.github.com/Rohoe/af95a67a9f3618a532764614dc29fc11) | Avi Felman, Jordi Alexander, Speaker 3 | 1000x | 00:30:40 | 2026-07-16 |
 | [Who's Coming For The Market In Q3?](https://gist.github.com/Rohoe/2769ad7769d633634c83abc4e18e8464) | Avi, Jonah, Unknown speaker | 1000x | 00:56:44 | 2026-07-02 |
@@ -184,6 +186,16 @@ _Publishable transcripts produced by Transcript-Scribe._
 
 ## By speaker
 
+### Avi (5)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Ex-Palantir Analyst On The Inner Workings Of Intelligence & Markets In A World Of Socialism](https://gist.github.com/Rohoe/e7dbf7ff61c3a8bcab8771fc959deb29) | Alex Good, Avi, Avi Felman | 1000x | 00:49:02 | 2026-07-29 |
+| [Has Memory Bottomed?](https://gist.github.com/Rohoe/c0fddb22bfb1c59939f78bccf2e688f5) | Avi, Jonah | 1000x | 00:55:38 | 2026-07-26 |
+| [Who's Coming For The Market In Q3?](https://gist.github.com/Rohoe/2769ad7769d633634c83abc4e18e8464) | Avi, Jonah, Unknown speaker | 1000x | 00:56:44 | 2026-07-02 |
+| [SpaceX: Start of the Next Megabubble or End of the Rally?](https://gist.github.com/Rohoe/e4c914cda449da83f7d747e9e7e2c8ab) | Avi, Jonah, Speaker 4, Unknown speaker | 1KX Media | 00:45:41 | 2026-06-18 |
+| [Sticky Inflation + Energy Prices: End of the Rally or Pause?](https://gist.github.com/Rohoe/8400f8a352e356ce1544555082c529fb) | Avi, Jonah | 1000x Podcast | 00:53:32 | 2026-05-24 |
+
 ### Speaker 4 (5)
 
 | Title | Speakers | Host | Duration | Added |
@@ -193,15 +205,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Citadel's Ken Griffin on AI, US-China Tensions, and US Data Centers](https://gist.github.com/Rohoe/1be5ecce37e79aee98cc7866b336a053) | Ken Griffin, Raj Mahajan, Speaker 4 | Goldman Sachs | 00:31:22 | 2026-07-14 |
 | [The View Beyond: China’s old and new tech divide](https://gist.github.com/Rohoe/2961d7ae9844cca6483b4ced9a3e20b9) | Hong Hao, Richard Tang, Speaker 4 | Adventurous Media | 00:25:13 | 2026-06-20 |
 | [SpaceX: Start of the Next Megabubble or End of the Rally?](https://gist.github.com/Rohoe/e4c914cda449da83f7d747e9e7e2c8ab) | Avi, Jonah, Speaker 4, Unknown speaker | 1KX Media | 00:45:41 | 2026-06-18 |
-
-### Avi (4)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [Has Memory Bottomed?](https://gist.github.com/Rohoe/c0fddb22bfb1c59939f78bccf2e688f5) | Avi, Jonah | 1000x | 00:55:38 | 2026-07-26 |
-| [Who's Coming For The Market In Q3?](https://gist.github.com/Rohoe/2769ad7769d633634c83abc4e18e8464) | Avi, Jonah, Unknown speaker | 1000x | 00:56:44 | 2026-07-02 |
-| [SpaceX: Start of the Next Megabubble or End of the Rally?](https://gist.github.com/Rohoe/e4c914cda449da83f7d747e9e7e2c8ab) | Avi, Jonah, Speaker 4, Unknown speaker | 1KX Media | 00:45:41 | 2026-06-18 |
-| [Sticky Inflation + Energy Prices: End of the Rally or Pause?](https://gist.github.com/Rohoe/8400f8a352e356ce1544555082c529fb) | Avi, Jonah | 1000x Podcast | 00:53:32 | 2026-05-24 |
 
 ### Jonah (4)
 
@@ -228,6 +231,13 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Who's Coming For The Market In Q3?](https://gist.github.com/Rohoe/2769ad7769d633634c83abc4e18e8464) | Avi, Jonah, Unknown speaker | 1000x | 00:56:44 | 2026-07-02 |
 | [Jeffrey Gundlach and Felix Zulauf: The Second Inning of a Major Shift](https://gist.github.com/Rohoe/6f2ca54226fcd7ebf4cfbc8cef985b88) | Felix Zulauf, Grant Williams, Jeffrey Gundlach, Unknown speaker | DoubleLine Capital | 01:00:56 | 2026-06-26 |
 | [SpaceX: Start of the Next Megabubble or End of the Rally?](https://gist.github.com/Rohoe/e4c914cda449da83f7d747e9e7e2c8ab) | Avi, Jonah, Speaker 4, Unknown speaker | 1KX Media | 00:45:41 | 2026-06-18 |
+
+### Avi Felman (2)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Ex-Palantir Analyst On The Inner Workings Of Intelligence & Markets In A World Of Socialism](https://gist.github.com/Rohoe/e7dbf7ff61c3a8bcab8771fc959deb29) | Alex Good, Avi, Avi Felman | 1000x | 00:49:02 | 2026-07-29 |
+| [From Poker Pro To Trading Giant: Inside The Mind of Selini Capital](https://gist.github.com/Rohoe/af95a67a9f3618a532764614dc29fc11) | Avi Felman, Jordi Alexander, Speaker 3 | 1000x | 00:30:40 | 2026-07-16 |
 
 ### Disclaimer (2)
 
@@ -291,6 +301,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [Intelligence as Infrastructure: How AI Is Rewiring the Economy](https://gist.github.com/Rohoe/341b407707737b633a750ff150402178) | Alex, Leon, Sohn Conference Foundation | Sohn Conference Foundation | 00:24:18 | 2026-05-27 |
 
+### Alex Good (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Ex-Palantir Analyst On The Inner Workings Of Intelligence & Markets In A World Of Socialism](https://gist.github.com/Rohoe/e7dbf7ff61c3a8bcab8771fc959deb29) | Alex Good, Avi, Avi Felman | 1000x | 00:49:02 | 2026-07-29 |
+
 ### Alex Wilson (1)
 
 | Title | Speakers | Host | Duration | Added |
@@ -314,12 +330,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding](https://gist.github.com/Rohoe/e5eb6098fcc21575e3c359bfe5c58ea9) | Anton Osika, Jason, Pat Gelsinger, Speaker 3, Speaker 6 | All-In Podcast | 00:49:24 | 2026-07-16 |
-
-### Avi Felman (1)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [From Poker Pro To Trading Giant: Inside The Mind of Selini Capital](https://gist.github.com/Rohoe/af95a67a9f3618a532764614dc29fc11) | Avi Felman, Jordi Alexander, Speaker 3 | 1000x | 00:30:40 | 2026-07-16 |
 
 ### Brad Gerstner (1)
 
