@@ -4,12 +4,13 @@
 
 _Publishable transcripts produced by Transcript-Scribe._
 
-**34 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
+**35 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
 
 ## Latest
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
+| [Blackstone on the AI Revolution, IPOs, and Real Estate | Jon Gray's Market Views July 2026](https://gist.github.com/Rohoe/e76a413d6cccd075fe59caefe130dc88) | Jon Gray | Blackstone | 00:09:17 | 2026-07-31 |
 | [Ex-Palantir Analyst On The Inner Workings Of Intelligence & Markets In A World Of Socialism](https://gist.github.com/Rohoe/e7dbf7ff61c3a8bcab8771fc959deb29) | Alex Good, Avi, Avi Felman | 1000x | 00:49:02 | 2026-07-29 |
 | [July 2026 FOMC Debrief](https://gist.github.com/Rohoe/f46d17bd8938fcbeb85b324400355938) | Guest 1, Joseph Wang, Kevin | Joseph Wang | 00:11:20 | 2026-07-29 |
 | [One Hour of Macro Episode 1 - Louis Vincent Gave - CEO of Gavekal](https://gist.github.com/Rohoe/6396851c6f389fe43581f4d83a8a463c) | Louis Vincent Gave, Martin Tixier, Zoltan Szelyes | Macronomics | 01:06:24 | 2026-07-28 |
@@ -113,6 +114,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Sticky Inflation + Energy Prices: End of the Rally or Pause?](https://gist.github.com/Rohoe/8400f8a352e356ce1544555082c529fb) | Avi, Jonah | 1000x Podcast | 00:53:32 | 2026-05-24 |
+
+### Blackstone (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Blackstone on the AI Revolution, IPOs, and Real Estate | Jon Gray's Market Views July 2026](https://gist.github.com/Rohoe/e76a413d6cccd075fe59caefe130dc88) | Jon Gray | Blackstone | 00:09:17 | 2026-07-31 |
 
 ### CNBC Television (1)
 
@@ -453,6 +460,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Brad Gerstner on the market, tech and the flood of mega IPOs](https://gist.github.com/Rohoe/cc4d536a90551ebc656f586930a24665) | Brad Gerstner, CNBC Television, Jim, Josh Brown | CNBC Television | 00:09:24 | 2026-05-29 |
+
+### Jon Gray (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Blackstone on the AI Revolution, IPOs, and Real Estate | Jon Gray's Market Views July 2026](https://gist.github.com/Rohoe/e76a413d6cccd075fe59caefe130dc88) | Jon Gray | Blackstone | 00:09:17 | 2026-07-31 |
 
 ### Jonathan Ross (1)
 
