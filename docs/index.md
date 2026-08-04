@@ -4,12 +4,13 @@
 
 _Publishable transcripts produced by Transcript-Scribe._
 
-**38 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
+**39 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
 
 ## Latest
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
+| [Alec Litowitz, Founder of Magnetar Capital and QStar Capital](https://gist.github.com/Rohoe/c851f8f8c3db2d2d6cf6732a1e6aa9e1) | Alec Litowitz, Dean Curnutt, Speaker 4 | Dean Curnutt | 01:10:29 | 2026-08-04 |
 | [Jeffrey Gundlach on the Fed: Talk Is Cheap | CNBC](https://gist.github.com/Rohoe/8ee28e9d7e2873ea50aa6e18c130a069) | Host, Jeffrey Gundlach, Scott Wapner | DoubleLine Capital | 00:25:50 | 2026-08-02 |
 | [MARKET UPDATE: How Situational Awareness Blew Up, Will Rates Nuke Us, What’s Next?](https://gist.github.com/Rohoe/85edc28dd84607a6d8c8f0b815da3291) | Avi, Jonah | 1KX Media | 00:57:44 | 2026-08-02 |
 | [Markets Weekly August 1, 2026](https://gist.github.com/Rohoe/1c9f4db9f659ecb298ecc2f5a8f379ae) | Joseph Wang | Joseph Wang | 00:20:05 | 2026-08-01 |
@@ -151,6 +152,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [Re-engineering the Semiconductor Supply Chain with Intel CEO Lip Bu Tan](https://gist.github.com/Rohoe/6ad66f2d9c51f13e93713123b5cec9c5) | Elad Gil, Lip Bu Tan, Sarah Guo | Conviction | 00:44:57 | 2026-06-19 |
 
+### Dean Curnutt (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Alec Litowitz, Founder of Magnetar Capital and QStar Capital](https://gist.github.com/Rohoe/c851f8f8c3db2d2d6cf6732a1e6aa9e1) | Alec Litowitz, Dean Curnutt, Speaker 4 | Dean Curnutt | 01:10:29 | 2026-08-04 |
+
 ### Forward Guidance (1)
 
 | Title | Speakers | Host | Duration | Added |
@@ -212,6 +219,17 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [SpaceX: Start of the Next Megabubble or End of the Rally?](https://gist.github.com/Rohoe/e4c914cda449da83f7d747e9e7e2c8ab) | Avi, Jonah, Speaker 4, Unknown speaker | 1KX Media | 00:45:41 | 2026-06-18 |
 | [Sticky Inflation + Energy Prices: End of the Rally or Pause?](https://gist.github.com/Rohoe/8400f8a352e356ce1544555082c529fb) | Avi, Jonah | 1000x Podcast | 00:53:32 | 2026-05-24 |
 
+### Speaker 4 (6)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Alec Litowitz, Founder of Magnetar Capital and QStar Capital](https://gist.github.com/Rohoe/c851f8f8c3db2d2d6cf6732a1e6aa9e1) | Alec Litowitz, Dean Curnutt, Speaker 4 | Dean Curnutt | 01:10:29 | 2026-08-04 |
+| [US Midyear Outlook: Geopolitical Shocks, the New Fed Era, and Growth](https://gist.github.com/Rohoe/572b58bbabbe39baf4904f40a98e7224) | Allison Nathan, David Mericle, Speaker 4 | Goldman Sachs | 00:18:46 | 2026-07-26 |
+| [The View Beyond: China after the AI correction](https://gist.github.com/Rohoe/d627ceb17414d980a0a77a10f0ac1ad9) | Hong Hao, Richard Tang, Speaker 4 | Adventurous Media | 00:18:35 | 2026-07-18 |
+| [Citadel's Ken Griffin on AI, US-China Tensions, and US Data Centers](https://gist.github.com/Rohoe/1be5ecce37e79aee98cc7866b336a053) | Ken Griffin, Raj Mahajan, Speaker 4 | Goldman Sachs | 00:31:22 | 2026-07-14 |
+| [The View Beyond: China’s old and new tech divide](https://gist.github.com/Rohoe/2961d7ae9844cca6483b4ced9a3e20b9) | Hong Hao, Richard Tang, Speaker 4 | Adventurous Media | 00:25:13 | 2026-06-20 |
+| [SpaceX: Start of the Next Megabubble or End of the Rally?](https://gist.github.com/Rohoe/e4c914cda449da83f7d747e9e7e2c8ab) | Avi, Jonah, Speaker 4, Unknown speaker | 1KX Media | 00:45:41 | 2026-06-18 |
+
 ### Jonah (5)
 
 | Title | Speakers | Host | Duration | Added |
@@ -221,16 +239,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Who's Coming For The Market In Q3?](https://gist.github.com/Rohoe/2769ad7769d633634c83abc4e18e8464) | Avi, Jonah, Unknown speaker | 1000x | 00:56:44 | 2026-07-02 |
 | [SpaceX: Start of the Next Megabubble or End of the Rally?](https://gist.github.com/Rohoe/e4c914cda449da83f7d747e9e7e2c8ab) | Avi, Jonah, Speaker 4, Unknown speaker | 1KX Media | 00:45:41 | 2026-06-18 |
 | [Sticky Inflation + Energy Prices: End of the Rally or Pause?](https://gist.github.com/Rohoe/8400f8a352e356ce1544555082c529fb) | Avi, Jonah | 1000x Podcast | 00:53:32 | 2026-05-24 |
-
-### Speaker 4 (5)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [US Midyear Outlook: Geopolitical Shocks, the New Fed Era, and Growth](https://gist.github.com/Rohoe/572b58bbabbe39baf4904f40a98e7224) | Allison Nathan, David Mericle, Speaker 4 | Goldman Sachs | 00:18:46 | 2026-07-26 |
-| [The View Beyond: China after the AI correction](https://gist.github.com/Rohoe/d627ceb17414d980a0a77a10f0ac1ad9) | Hong Hao, Richard Tang, Speaker 4 | Adventurous Media | 00:18:35 | 2026-07-18 |
-| [Citadel's Ken Griffin on AI, US-China Tensions, and US Data Centers](https://gist.github.com/Rohoe/1be5ecce37e79aee98cc7866b336a053) | Ken Griffin, Raj Mahajan, Speaker 4 | Goldman Sachs | 00:31:22 | 2026-07-14 |
-| [The View Beyond: China’s old and new tech divide](https://gist.github.com/Rohoe/2961d7ae9844cca6483b4ced9a3e20b9) | Hong Hao, Richard Tang, Speaker 4 | Adventurous Media | 00:25:13 | 2026-06-20 |
-| [SpaceX: Start of the Next Megabubble or End of the Rally?](https://gist.github.com/Rohoe/e4c914cda449da83f7d747e9e7e2c8ab) | Avi, Jonah, Speaker 4, Unknown speaker | 1KX Media | 00:45:41 | 2026-06-18 |
 
 ### Joseph Wang (4)
 
@@ -321,6 +329,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [How Cursor Trained Composer on Fireworks: Distributed Infrastructure for High-Performance RL](https://gist.github.com/Rohoe/a04e88186c91b39cb63895d9827af977) | Dima, Federico, Sequoia Capital, UNKNOWN | Sequoia Capital | 00:45:12 | 2026-05-28 |
 | [Life and Death in the Payments Sector](https://gist.github.com/Rohoe/260a13b35e50ea1793bace38f8b560ea) | Alex Wilson, Rob, UNKNOWN | Lumida Wealth | 01:01:00 | 2026-05-28 |
 
+### Alec Litowitz (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Alec Litowitz, Founder of Magnetar Capital and QStar Capital](https://gist.github.com/Rohoe/c851f8f8c3db2d2d6cf6732a1e6aa9e1) | Alec Litowitz, Dean Curnutt, Speaker 4 | Dean Curnutt | 01:10:29 | 2026-08-04 |
+
 ### Alex (1)
 
 | Title | Speakers | Host | Duration | Added |
@@ -404,6 +418,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Top-down macro and bottom-up company results are moving markets today](https://gist.github.com/Rohoe/f6a75a166fae040e6317e5739d970583) | Carsten Menke, David Meyer, Mike Grauber, Mike Rauber, Speaker 5 | Adventurous Media | 00:12:20 | 2026-07-18 |
+
+### Dean Curnutt (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Alec Litowitz, Founder of Magnetar Capital and QStar Capital](https://gist.github.com/Rohoe/c851f8f8c3db2d2d6cf6732a1e6aa9e1) | Alec Litowitz, Dean Curnutt, Speaker 4 | Dean Curnutt | 01:10:29 | 2026-08-04 |
 
 ### Dima (1)
 
