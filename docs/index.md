@@ -4,12 +4,13 @@
 
 _Publishable transcripts produced by Transcript-Scribe._
 
-**39 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
+**40 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
 
 ## Latest
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
+| [MARKET UPDATE: FED Backstops The Yen, Metals Rip, And Neoclouds Rebound](https://gist.github.com/Rohoe/80ac2c98b57efd6a910ef50d03ee538b) | Avi, Jonah | 1KX Media | 00:52:37 | 2026-08-06 |
 | [Alec Litowitz, Founder of Magnetar Capital and QStar Capital](https://gist.github.com/Rohoe/c851f8f8c3db2d2d6cf6732a1e6aa9e1) | Alec Litowitz, Dean Curnutt, Speaker 4 | Dean Curnutt | 01:10:29 | 2026-08-04 |
 | [Jeffrey Gundlach on the Fed: Talk Is Cheap | CNBC](https://gist.github.com/Rohoe/8ee28e9d7e2873ea50aa6e18c130a069) | Host, Jeffrey Gundlach, Scott Wapner | DoubleLine Capital | 00:25:50 | 2026-08-02 |
 | [MARKET UPDATE: How Situational Awareness Blew Up, Will Rates Nuke Us, What’s Next?](https://gist.github.com/Rohoe/85edc28dd84607a6d8c8f0b815da3291) | Avi, Jonah | 1KX Media | 00:57:44 | 2026-08-02 |
@@ -61,6 +62,15 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [From Poker Pro To Trading Giant: Inside The Mind of Selini Capital](https://gist.github.com/Rohoe/af95a67a9f3618a532764614dc29fc11) | Avi Felman, Jordi Alexander, Speaker 3 | 1000x | 00:30:40 | 2026-07-16 |
 | [Who's Coming For The Market In Q3?](https://gist.github.com/Rohoe/2769ad7769d633634c83abc4e18e8464) | Avi, Jonah, Unknown speaker | 1000x | 00:56:44 | 2026-07-02 |
 
+### 1KX Media (4)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [MARKET UPDATE: FED Backstops The Yen, Metals Rip, And Neoclouds Rebound](https://gist.github.com/Rohoe/80ac2c98b57efd6a910ef50d03ee538b) | Avi, Jonah | 1KX Media | 00:52:37 | 2026-08-06 |
+| [MARKET UPDATE: How Situational Awareness Blew Up, Will Rates Nuke Us, What’s Next?](https://gist.github.com/Rohoe/85edc28dd84607a6d8c8f0b815da3291) | Avi, Jonah | 1KX Media | 00:57:44 | 2026-08-02 |
+| [SpaceX: Start of the Next Megabubble or End of the Rally?](https://gist.github.com/Rohoe/e4c914cda449da83f7d747e9e7e2c8ab) | Avi, Jonah, Speaker 4, Unknown speaker | 1KX Media | 00:45:41 | 2026-06-18 |
+| [Are Rate Cuts Dead?](https://gist.github.com/Rohoe/0e3f28cfdd394befebf8054ba52a4824) | Speaker 2, Speaker 3 | 1KX Media | 00:53:05 | 2026-06-17 |
+
 ### Joseph Wang (4)
 
 | Title | Speakers | Host | Duration | Added |
@@ -69,14 +79,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [July 2026 FOMC Debrief](https://gist.github.com/Rohoe/f46d17bd8938fcbeb85b324400355938) | Guest 1, Joseph Wang, Kevin | Joseph Wang | 00:11:20 | 2026-07-29 |
 | [Markets Weekly July 18, 2026](https://gist.github.com/Rohoe/bd11ad150c2ba22227106a39143ae47a) | Joseph Wang, Speaker 3 | Joseph Wang | 00:17:33 | 2026-07-18 |
 | [Markets Weekly June 27, 2026](https://gist.github.com/Rohoe/a36fe55d37ad373ee2fd945b72f18b89) | Joseph Wang | Joseph Wang | 00:25:04 | 2026-06-27 |
-
-### 1KX Media (3)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [MARKET UPDATE: How Situational Awareness Blew Up, Will Rates Nuke Us, What’s Next?](https://gist.github.com/Rohoe/85edc28dd84607a6d8c8f0b815da3291) | Avi, Jonah | 1KX Media | 00:57:44 | 2026-08-02 |
-| [SpaceX: Start of the Next Megabubble or End of the Rally?](https://gist.github.com/Rohoe/e4c914cda449da83f7d747e9e7e2c8ab) | Avi, Jonah, Speaker 4, Unknown speaker | 1KX Media | 00:45:41 | 2026-06-18 |
-| [Are Rate Cuts Dead?](https://gist.github.com/Rohoe/0e3f28cfdd394befebf8054ba52a4824) | Speaker 2, Speaker 3 | 1KX Media | 00:53:05 | 2026-06-17 |
 
 ### Adventurous Media (3)
 
@@ -208,12 +210,24 @@ _Publishable transcripts produced by Transcript-Scribe._
 
 ## By speaker
 
-### Avi (6)
+### Avi (7)
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
+| [MARKET UPDATE: FED Backstops The Yen, Metals Rip, And Neoclouds Rebound](https://gist.github.com/Rohoe/80ac2c98b57efd6a910ef50d03ee538b) | Avi, Jonah | 1KX Media | 00:52:37 | 2026-08-06 |
 | [MARKET UPDATE: How Situational Awareness Blew Up, Will Rates Nuke Us, What’s Next?](https://gist.github.com/Rohoe/85edc28dd84607a6d8c8f0b815da3291) | Avi, Jonah | 1KX Media | 00:57:44 | 2026-08-02 |
 | [Ex-Palantir Analyst On The Inner Workings Of Intelligence & Markets In A World Of Socialism](https://gist.github.com/Rohoe/e7dbf7ff61c3a8bcab8771fc959deb29) | Alex Good, Avi, Avi Felman | 1000x | 00:49:02 | 2026-07-29 |
+| [Has Memory Bottomed?](https://gist.github.com/Rohoe/c0fddb22bfb1c59939f78bccf2e688f5) | Avi, Jonah | 1000x | 00:55:38 | 2026-07-26 |
+| [Who's Coming For The Market In Q3?](https://gist.github.com/Rohoe/2769ad7769d633634c83abc4e18e8464) | Avi, Jonah, Unknown speaker | 1000x | 00:56:44 | 2026-07-02 |
+| [SpaceX: Start of the Next Megabubble or End of the Rally?](https://gist.github.com/Rohoe/e4c914cda449da83f7d747e9e7e2c8ab) | Avi, Jonah, Speaker 4, Unknown speaker | 1KX Media | 00:45:41 | 2026-06-18 |
+| [Sticky Inflation + Energy Prices: End of the Rally or Pause?](https://gist.github.com/Rohoe/8400f8a352e356ce1544555082c529fb) | Avi, Jonah | 1000x Podcast | 00:53:32 | 2026-05-24 |
+
+### Jonah (6)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [MARKET UPDATE: FED Backstops The Yen, Metals Rip, And Neoclouds Rebound](https://gist.github.com/Rohoe/80ac2c98b57efd6a910ef50d03ee538b) | Avi, Jonah | 1KX Media | 00:52:37 | 2026-08-06 |
+| [MARKET UPDATE: How Situational Awareness Blew Up, Will Rates Nuke Us, What’s Next?](https://gist.github.com/Rohoe/85edc28dd84607a6d8c8f0b815da3291) | Avi, Jonah | 1KX Media | 00:57:44 | 2026-08-02 |
 | [Has Memory Bottomed?](https://gist.github.com/Rohoe/c0fddb22bfb1c59939f78bccf2e688f5) | Avi, Jonah | 1000x | 00:55:38 | 2026-07-26 |
 | [Who's Coming For The Market In Q3?](https://gist.github.com/Rohoe/2769ad7769d633634c83abc4e18e8464) | Avi, Jonah, Unknown speaker | 1000x | 00:56:44 | 2026-07-02 |
 | [SpaceX: Start of the Next Megabubble or End of the Rally?](https://gist.github.com/Rohoe/e4c914cda449da83f7d747e9e7e2c8ab) | Avi, Jonah, Speaker 4, Unknown speaker | 1KX Media | 00:45:41 | 2026-06-18 |
@@ -229,16 +243,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Citadel's Ken Griffin on AI, US-China Tensions, and US Data Centers](https://gist.github.com/Rohoe/1be5ecce37e79aee98cc7866b336a053) | Ken Griffin, Raj Mahajan, Speaker 4 | Goldman Sachs | 00:31:22 | 2026-07-14 |
 | [The View Beyond: China’s old and new tech divide](https://gist.github.com/Rohoe/2961d7ae9844cca6483b4ced9a3e20b9) | Hong Hao, Richard Tang, Speaker 4 | Adventurous Media | 00:25:13 | 2026-06-20 |
 | [SpaceX: Start of the Next Megabubble or End of the Rally?](https://gist.github.com/Rohoe/e4c914cda449da83f7d747e9e7e2c8ab) | Avi, Jonah, Speaker 4, Unknown speaker | 1KX Media | 00:45:41 | 2026-06-18 |
-
-### Jonah (5)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [MARKET UPDATE: How Situational Awareness Blew Up, Will Rates Nuke Us, What’s Next?](https://gist.github.com/Rohoe/85edc28dd84607a6d8c8f0b815da3291) | Avi, Jonah | 1KX Media | 00:57:44 | 2026-08-02 |
-| [Has Memory Bottomed?](https://gist.github.com/Rohoe/c0fddb22bfb1c59939f78bccf2e688f5) | Avi, Jonah | 1000x | 00:55:38 | 2026-07-26 |
-| [Who's Coming For The Market In Q3?](https://gist.github.com/Rohoe/2769ad7769d633634c83abc4e18e8464) | Avi, Jonah, Unknown speaker | 1000x | 00:56:44 | 2026-07-02 |
-| [SpaceX: Start of the Next Megabubble or End of the Rally?](https://gist.github.com/Rohoe/e4c914cda449da83f7d747e9e7e2c8ab) | Avi, Jonah, Speaker 4, Unknown speaker | 1KX Media | 00:45:41 | 2026-06-18 |
-| [Sticky Inflation + Energy Prices: End of the Rally or Pause?](https://gist.github.com/Rohoe/8400f8a352e356ce1544555082c529fb) | Avi, Jonah | 1000x Podcast | 00:53:32 | 2026-05-24 |
 
 ### Joseph Wang (4)
 
