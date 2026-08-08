@@ -830,20 +830,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Are Rate Cuts Dead?](https://gist.github.com/Rohoe/0e3f28cfdd394befebf8054ba52a4824) | Speaker 2, Speaker 3 | 1KX Media | 00:53:05 | 2026-06-17 |
 | [Stanford Leadership Forum 2026: Conversation with Ken Griffin](https://gist.github.com/Rohoe/88f0a6365e79158c8686c9a91b490ed5) | Ken Griffin, Amit Saru | Stanford Graduate School of Business | 00:45:41 | 2026-05-17 |
 
-### `benchmark` (2)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [Matthew Smith - Natural Gas: The Next Bottleneck](https://gist.github.com/Rohoe/693e9ca0e97e9a2a936ecd362d61d2c4) | Matthew Smith, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 00:56:37 | 2026-08-08 |
-| [John Kim - How to Raise a Few Billion Dollars](https://gist.github.com/Rohoe/ef635ee232d69a959d52ed683e99a820) | John Kim, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 00:50:20 | 2026-08-08 |
-
-### `iltb` (2)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [Matthew Smith - Natural Gas: The Next Bottleneck](https://gist.github.com/Rohoe/693e9ca0e97e9a2a936ecd362d61d2c4) | Matthew Smith, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 00:56:37 | 2026-08-08 |
-| [John Kim - How to Raise a Few Billion Dollars](https://gist.github.com/Rohoe/ef635ee232d69a959d52ed683e99a820) | John Kim, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 00:50:20 | 2026-08-08 |
-
 ### `agi` (1)
 
 | Title | Speakers | Host | Duration | Added |
@@ -855,6 +841,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Running an AI-native engineering org](https://gist.github.com/Rohoe/b13b858c9c6b0027285d08c6e7a76ec0) | Fiona Fung, SPEAKER_00 | Claude | 00:28:20 | 2026-05-24 |
+
+### `benchmark` (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [John Kim - How to Raise a Few Billion Dollars](https://gist.github.com/Rohoe/ef635ee232d69a959d52ed683e99a820) | John Kim, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 00:50:20 | 2026-08-08 |
 
 ### `chips` (1)
 
@@ -903,6 +895,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [The Inference Revolution: Groq, Nvidia and the Future of AI](https://gist.github.com/Rohoe/ba0a6c2823c40eb1e2ce6d7afbf4b535) | Jonathan Ross | Sohn Conference Foundation | 00:15:58 | 2026-05-18 |
+
+### `iltb` (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [John Kim - How to Raise a Few Billion Dollars](https://gist.github.com/Rohoe/ef635ee232d69a959d52ed683e99a820) | John Kim, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 00:50:20 | 2026-08-08 |
 
 ### `inference` (1)
 
