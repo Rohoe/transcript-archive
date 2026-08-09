@@ -4,7 +4,7 @@
 
 _Publishable transcripts produced by Transcript-Scribe._
 
-**57 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
+**58 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
 
 ## Latest
 
@@ -14,6 +14,7 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Gavin Baker - Nvidia v. Google, Scaling Laws, and the Economics of AI](https://gist.github.com/Rohoe/cf23ee087cfda4db0f1956a064d2a169) | Gavin Baker, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 01:24:13 | 2026-08-09 |
 | [David George - Building a16z Growth, Investing Across the AI Stack, and Why Markets Misprice Growth](https://gist.github.com/Rohoe/d9d9493d4d09ee05c382166de827553b) | David George, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 01:05:41 | 2026-08-09 |
 | [Sergey Levine - Building LLMs for the Physical World](https://gist.github.com/Rohoe/4fa0bfb2deea882ac86f26b98a8bcd1c) | Patrick O'Shaughnessy, Sergey Levine | Patrick O'Shaughnessy | 01:06:35 | 2026-08-09 |
+| [Michael Nielsen – How science actually progresses](https://gist.github.com/Rohoe/0f43bf96a68387864487fa44baf81351) | Dwarkesh Patel, Michael Nielsen | Dwarkesh Patel | 02:03:03 | 2026-08-09 |
 | [Gavin Baker - AI Market Jitters - [Invest Like the Best, EP.485]](https://gist.github.com/Rohoe/132f5101f3fd7374b05c9f03300dae8a) | Gavin Baker, Patrick O'Shaughnessy | Colossus | 01:06:04 | 2026-08-08 |
 | [Jeremy Giffon - The Billion Dollar PDF - [Invest Like the Best, EP.481]](https://gist.github.com/Rohoe/2e1500289b8aeed53769a92189bd9abe) | Jeremy Giffon, Patrick O'Shaughnessy | Colossus | 01:15:19 | 2026-08-08 |
 | [Markets Weekly August 8, 2026](https://gist.github.com/Rohoe/5cee2c29d6eef7ef9b549d285f537c9c) | Joseph Wang | Joseph Wang | 00:21:23 | 2026-08-08 |
@@ -123,6 +124,14 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [The View Beyond: China after the AI correction](https://gist.github.com/Rohoe/d627ceb17414d980a0a77a10f0ac1ad9) | Hong Hao, Richard Tang, Speaker 4 | Adventurous Media | 00:18:35 | 2026-07-18 |
 | [The View Beyond: China’s old and new tech divide](https://gist.github.com/Rohoe/2961d7ae9844cca6483b4ced9a3e20b9) | Hong Hao, Richard Tang, Speaker 4 | Adventurous Media | 00:25:13 | 2026-06-20 |
 
+### Dwarkesh Patel (3)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Michael Nielsen – How science actually progresses](https://gist.github.com/Rohoe/0f43bf96a68387864487fa44baf81351) | Dwarkesh Patel, Michael Nielsen | Dwarkesh Patel | 02:03:03 | 2026-08-09 |
+| [Mark Zuckerberg — AI will write most Meta code in 18 months](https://gist.github.com/Rohoe/e827d3f8172ad97c926861c1ff3d46a2) | Dwarkesh Patel, Mark Zuckerberg | Dwarkesh Patel | 01:15:48 | 2026-05-29 |
+| [Jeff Dean & Noam Shazeer — 25 years at Google: from PageRank to AGI](https://gist.github.com/Rohoe/9c9bf7825b3c009460804fc7af664217) | Dwarkesh Patel, Jeff Dean, Noam Shazeer | Dwarkesh Patel | 02:15:29 | 2026-05-27 |
+
 ### Goldman Sachs (3)
 
 | Title | Speakers | Host | Duration | Added |
@@ -151,13 +160,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [Jeffrey Gundlach on the Fed: Talk Is Cheap | CNBC](https://gist.github.com/Rohoe/8ee28e9d7e2873ea50aa6e18c130a069) | Host, Jeffrey Gundlach, Scott Wapner | DoubleLine Capital | 00:25:50 | 2026-08-02 |
 | [Jeffrey Gundlach and Felix Zulauf: The Second Inning of a Major Shift](https://gist.github.com/Rohoe/6f2ca54226fcd7ebf4cfbc8cef985b88) | Felix Zulauf, Grant Williams, Jeffrey Gundlach, Unknown speaker | DoubleLine Capital | 01:00:56 | 2026-06-26 |
-
-### Dwarkesh Patel (2)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [Mark Zuckerberg — AI will write most Meta code in 18 months](https://gist.github.com/Rohoe/e827d3f8172ad97c926861c1ff3d46a2) | Dwarkesh Patel, Mark Zuckerberg | Dwarkesh Patel | 01:15:48 | 2026-05-29 |
-| [Jeff Dean & Noam Shazeer — 25 years at Google: from PageRank to AGI](https://gist.github.com/Rohoe/9c9bf7825b3c009460804fc7af664217) | Dwarkesh Patel, Jeff Dean, Noam Shazeer | Dwarkesh Patel | 02:15:29 | 2026-05-27 |
 
 ### Sohn Conference Foundation (2)
 
@@ -337,6 +339,14 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding](https://gist.github.com/Rohoe/e5eb6098fcc21575e3c359bfe5c58ea9) | Anton Osika, Jason, Pat Gelsinger, Speaker 3, Speaker 6 | All-In Podcast | 00:49:24 | 2026-07-16 |
 | [Are Rate Cuts Dead?](https://gist.github.com/Rohoe/0e3f28cfdd394befebf8054ba52a4824) | Speaker 2, Speaker 3 | 1KX Media | 00:53:05 | 2026-06-17 |
 
+### Dwarkesh Patel (3)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Michael Nielsen – How science actually progresses](https://gist.github.com/Rohoe/0f43bf96a68387864487fa44baf81351) | Dwarkesh Patel, Michael Nielsen | Dwarkesh Patel | 02:03:03 | 2026-08-09 |
+| [Mark Zuckerberg — AI will write most Meta code in 18 months](https://gist.github.com/Rohoe/e827d3f8172ad97c926861c1ff3d46a2) | Dwarkesh Patel, Mark Zuckerberg | Dwarkesh Patel | 01:15:48 | 2026-05-29 |
+| [Jeff Dean & Noam Shazeer — 25 years at Google: from PageRank to AGI](https://gist.github.com/Rohoe/9c9bf7825b3c009460804fc7af664217) | Dwarkesh Patel, Jeff Dean, Noam Shazeer | Dwarkesh Patel | 02:15:29 | 2026-05-27 |
+
 ### Unknown speaker (3)
 
 | Title | Speakers | Host | Duration | Added |
@@ -358,13 +368,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [Why the US Dollar Could Continue to Strengthen](https://gist.github.com/Rohoe/06dbeb7d54e291e3f6fca6183d9d789f) | Brian Dunne, Chris Hussey, Disclaimer | Goldman Sachs | 00:10:30 | 2026-07-16 |
 | [What Changed After the U.S.-China Summit?](https://gist.github.com/Rohoe/9d30f0c09509cc735c9032277337adc1) | Disclaimer, Michael Zezas | Morgan Stanley | 00:02:56 | 2026-05-28 |
-
-### Dwarkesh Patel (2)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [Mark Zuckerberg — AI will write most Meta code in 18 months](https://gist.github.com/Rohoe/e827d3f8172ad97c926861c1ff3d46a2) | Dwarkesh Patel, Mark Zuckerberg | Dwarkesh Patel | 01:15:48 | 2026-05-29 |
-| [Jeff Dean & Noam Shazeer — 25 years at Google: from PageRank to AGI](https://gist.github.com/Rohoe/9c9bf7825b3c009460804fc7af664217) | Dwarkesh Patel, Jeff Dean, Noam Shazeer | Dwarkesh Patel | 02:15:29 | 2026-05-27 |
 
 ### Felix (2)
 
@@ -741,6 +744,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [Global Liquidity Signals What’s Next for Gold & Markets | Michael Howell](https://gist.github.com/Rohoe/418d1041d2270318303e9bd3ed49bfa0) | Michael Howell, Vladyslav Grabarskyy | Wealth Building Blueprint – Vladyslav Grabarskyy | 00:43:19 | 2026-06-19 |
 
+### Michael Nielsen (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Michael Nielsen – How science actually progresses](https://gist.github.com/Rohoe/0f43bf96a68387864487fa44baf81351) | Dwarkesh Patel, Michael Nielsen | Dwarkesh Patel | 02:03:03 | 2026-08-09 |
+
 ### Michael Zezas (1)
 
 | Title | Speakers | Host | Duration | Added |
@@ -912,6 +921,13 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Are Rate Cuts Dead?](https://gist.github.com/Rohoe/0e3f28cfdd394befebf8054ba52a4824) | Speaker 2, Speaker 3 | 1KX Media | 00:53:05 | 2026-06-17 |
 | [Stanford Leadership Forum 2026: Conversation with Ken Griffin](https://gist.github.com/Rohoe/88f0a6365e79158c8686c9a91b490ed5) | Ken Griffin, Amit Saru | Stanford Graduate School of Business | 00:45:41 | 2026-05-17 |
 
+### `dwarkesh` (2)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Michael Nielsen – How science actually progresses](https://gist.github.com/Rohoe/0f43bf96a68387864487fa44baf81351) | Dwarkesh Patel, Michael Nielsen | Dwarkesh Patel | 02:03:03 | 2026-08-09 |
+| [Jeff Dean & Noam Shazeer — 25 years at Google: from PageRank to AGI](https://gist.github.com/Rohoe/9c9bf7825b3c009460804fc7af664217) | Dwarkesh Patel, Jeff Dean, Noam Shazeer | Dwarkesh Patel | 02:15:29 | 2026-05-27 |
+
 ### `investing` (2)
 
 | Title | Speakers | Host | Duration | Added |
@@ -948,12 +964,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [SpaceX: Start of the Next Megabubble or End of the Rally?](https://gist.github.com/Rohoe/e4c914cda449da83f7d747e9e7e2c8ab) | Avi, Jonah, Speaker 4, Unknown speaker | 1KX Media | 00:45:41 | 2026-06-18 |
-
-### `dwarkesh` (1)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [Jeff Dean & Noam Shazeer — 25 years at Google: from PageRank to AGI](https://gist.github.com/Rohoe/9c9bf7825b3c009460804fc7af664217) | Dwarkesh Patel, Jeff Dean, Noam Shazeer | Dwarkesh Patel | 02:15:29 | 2026-05-27 |
 
 ### `education` (1)
 
@@ -1068,6 +1078,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Trump-Xi Summit, Benioff: \"Not My First SaaSpocalypse,\" OpenAI vs Apple, Multi-Sensory AI, El Niño](https://gist.github.com/Rohoe/84cf1dc553dd422b2f73e3b818ebfa19) | Chamath, Friedberg, Jason, Mark Benioff | All-In Podcast | 01:16:29 | 2026-05-27 |
+
+### `science` (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Michael Nielsen – How science actually progresses](https://gist.github.com/Rohoe/0f43bf96a68387864487fa44baf81351) | Dwarkesh Patel, Michael Nielsen | Dwarkesh Patel | 02:03:03 | 2026-08-09 |
 
 ### `semiconductors` (1)
 
