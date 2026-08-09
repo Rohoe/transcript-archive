@@ -4,7 +4,7 @@
 
 _Publishable transcripts produced by Transcript-Scribe._
 
-**59 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
+**60 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
 
 ## Latest
 
@@ -16,6 +16,7 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Sergey Levine - Building LLMs for the Physical World](https://gist.github.com/Rohoe/4fa0bfb2deea882ac86f26b98a8bcd1c) | Patrick O'Shaughnessy, Sergey Levine | Patrick O'Shaughnessy | 01:06:35 | 2026-08-09 |
 | [Michael Nielsen – How science actually progresses](https://gist.github.com/Rohoe/0f43bf96a68387864487fa44baf81351) | Dwarkesh Patel, Michael Nielsen | Dwarkesh Patel | 02:03:03 | 2026-08-09 |
 | [Terence Tao – Kepler, Newton, and the true nature of mathematical discovery](https://gist.github.com/Rohoe/7bb3048db8785fd2c81a39fafa77bc19) | Dwarkesh Patel, Terence Tao | Dwarkesh Patel | 01:23:43 | 2026-08-09 |
+| [Why Leonardo was a saboteur, Gutenberg went broke, and Florence was weird – Ada Palmer](https://gist.github.com/Rohoe/a9e063d9795a5f20d7f965579217aa6d) | Ada Palmer, Dwarkesh Patel | Dwarkesh Patel | 02:02:19 | 2026-08-09 |
 | [Gavin Baker - AI Market Jitters - [Invest Like the Best, EP.485]](https://gist.github.com/Rohoe/132f5101f3fd7374b05c9f03300dae8a) | Gavin Baker, Patrick O'Shaughnessy | Colossus | 01:06:04 | 2026-08-08 |
 | [Jeremy Giffon - The Billion Dollar PDF - [Invest Like the Best, EP.481]](https://gist.github.com/Rohoe/2e1500289b8aeed53769a92189bd9abe) | Jeremy Giffon, Patrick O'Shaughnessy | Colossus | 01:15:19 | 2026-08-08 |
 | [Markets Weekly August 8, 2026](https://gist.github.com/Rohoe/5cee2c29d6eef7ef9b549d285f537c9c) | Joseph Wang | Joseph Wang | 00:21:23 | 2026-08-08 |
@@ -89,6 +90,16 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Joe Liemandt  - Building Alpha School, and The Future of Education](https://gist.github.com/Rohoe/7b45b0c8bcfbd47517eb84cc2280f5f8) | Joe Liemandt, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 02:26:11 | 2026-08-08 |
 | [Tobi Lütke - Building Islands of Innovation](https://gist.github.com/Rohoe/59553fdae6c58501bd5e483a23688c27) | Patrick O'Shaughnessy, Tobi Lütke | Patrick O'Shaughnessy | 01:06:21 | 2026-08-08 |
 
+### Dwarkesh Patel (5)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Michael Nielsen – How science actually progresses](https://gist.github.com/Rohoe/0f43bf96a68387864487fa44baf81351) | Dwarkesh Patel, Michael Nielsen | Dwarkesh Patel | 02:03:03 | 2026-08-09 |
+| [Terence Tao – Kepler, Newton, and the true nature of mathematical discovery](https://gist.github.com/Rohoe/7bb3048db8785fd2c81a39fafa77bc19) | Dwarkesh Patel, Terence Tao | Dwarkesh Patel | 01:23:43 | 2026-08-09 |
+| [Why Leonardo was a saboteur, Gutenberg went broke, and Florence was weird – Ada Palmer](https://gist.github.com/Rohoe/a9e063d9795a5f20d7f965579217aa6d) | Ada Palmer, Dwarkesh Patel | Dwarkesh Patel | 02:02:19 | 2026-08-09 |
+| [Mark Zuckerberg — AI will write most Meta code in 18 months](https://gist.github.com/Rohoe/e827d3f8172ad97c926861c1ff3d46a2) | Dwarkesh Patel, Mark Zuckerberg | Dwarkesh Patel | 01:15:48 | 2026-05-29 |
+| [Jeff Dean & Noam Shazeer — 25 years at Google: from PageRank to AGI](https://gist.github.com/Rohoe/9c9bf7825b3c009460804fc7af664217) | Dwarkesh Patel, Jeff Dean, Noam Shazeer | Dwarkesh Patel | 02:15:29 | 2026-05-27 |
+
 ### Joseph Wang (5)
 
 | Title | Speakers | Host | Duration | Added |
@@ -116,15 +127,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [MARKET UPDATE: How Situational Awareness Blew Up, Will Rates Nuke Us, What’s Next?](https://gist.github.com/Rohoe/85edc28dd84607a6d8c8f0b815da3291) | Avi, Jonah | 1KX Media | 00:57:44 | 2026-08-02 |
 | [SpaceX: Start of the Next Megabubble or End of the Rally?](https://gist.github.com/Rohoe/e4c914cda449da83f7d747e9e7e2c8ab) | Avi, Jonah, Speaker 4, Unknown speaker | 1KX Media | 00:45:41 | 2026-06-18 |
 | [Are Rate Cuts Dead?](https://gist.github.com/Rohoe/0e3f28cfdd394befebf8054ba52a4824) | Speaker 2, Speaker 3 | 1KX Media | 00:53:05 | 2026-06-17 |
-
-### Dwarkesh Patel (4)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [Michael Nielsen – How science actually progresses](https://gist.github.com/Rohoe/0f43bf96a68387864487fa44baf81351) | Dwarkesh Patel, Michael Nielsen | Dwarkesh Patel | 02:03:03 | 2026-08-09 |
-| [Terence Tao – Kepler, Newton, and the true nature of mathematical discovery](https://gist.github.com/Rohoe/7bb3048db8785fd2c81a39fafa77bc19) | Dwarkesh Patel, Terence Tao | Dwarkesh Patel | 01:23:43 | 2026-08-09 |
-| [Mark Zuckerberg — AI will write most Meta code in 18 months](https://gist.github.com/Rohoe/e827d3f8172ad97c926861c1ff3d46a2) | Dwarkesh Patel, Mark Zuckerberg | Dwarkesh Patel | 01:15:48 | 2026-05-29 |
-| [Jeff Dean & Noam Shazeer — 25 years at Google: from PageRank to AGI](https://gist.github.com/Rohoe/9c9bf7825b3c009460804fc7af664217) | Dwarkesh Patel, Jeff Dean, Noam Shazeer | Dwarkesh Patel | 02:15:29 | 2026-05-27 |
 
 ### Adventurous Media (3)
 
@@ -322,6 +324,16 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [SpaceX: Start of the Next Megabubble or End of the Rally?](https://gist.github.com/Rohoe/e4c914cda449da83f7d747e9e7e2c8ab) | Avi, Jonah, Speaker 4, Unknown speaker | 1KX Media | 00:45:41 | 2026-06-18 |
 | [Sticky Inflation + Energy Prices: End of the Rally or Pause?](https://gist.github.com/Rohoe/8400f8a352e356ce1544555082c529fb) | Avi, Jonah | 1000x Podcast | 00:53:32 | 2026-05-24 |
 
+### Dwarkesh Patel (5)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Michael Nielsen – How science actually progresses](https://gist.github.com/Rohoe/0f43bf96a68387864487fa44baf81351) | Dwarkesh Patel, Michael Nielsen | Dwarkesh Patel | 02:03:03 | 2026-08-09 |
+| [Terence Tao – Kepler, Newton, and the true nature of mathematical discovery](https://gist.github.com/Rohoe/7bb3048db8785fd2c81a39fafa77bc19) | Dwarkesh Patel, Terence Tao | Dwarkesh Patel | 01:23:43 | 2026-08-09 |
+| [Why Leonardo was a saboteur, Gutenberg went broke, and Florence was weird – Ada Palmer](https://gist.github.com/Rohoe/a9e063d9795a5f20d7f965579217aa6d) | Ada Palmer, Dwarkesh Patel | Dwarkesh Patel | 02:02:19 | 2026-08-09 |
+| [Mark Zuckerberg — AI will write most Meta code in 18 months](https://gist.github.com/Rohoe/e827d3f8172ad97c926861c1ff3d46a2) | Dwarkesh Patel, Mark Zuckerberg | Dwarkesh Patel | 01:15:48 | 2026-05-29 |
+| [Jeff Dean & Noam Shazeer — 25 years at Google: from PageRank to AGI](https://gist.github.com/Rohoe/9c9bf7825b3c009460804fc7af664217) | Dwarkesh Patel, Jeff Dean, Noam Shazeer | Dwarkesh Patel | 02:15:29 | 2026-05-27 |
+
 ### Joseph Wang (5)
 
 | Title | Speakers | Host | Duration | Added |
@@ -331,15 +343,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [July 2026 FOMC Debrief](https://gist.github.com/Rohoe/f46d17bd8938fcbeb85b324400355938) | Guest 1, Joseph Wang, Kevin | Joseph Wang | 00:11:20 | 2026-07-29 |
 | [Markets Weekly July 18, 2026](https://gist.github.com/Rohoe/bd11ad150c2ba22227106a39143ae47a) | Joseph Wang, Speaker 3 | Joseph Wang | 00:17:33 | 2026-07-18 |
 | [Markets Weekly June 27, 2026](https://gist.github.com/Rohoe/a36fe55d37ad373ee2fd945b72f18b89) | Joseph Wang | Joseph Wang | 00:25:04 | 2026-06-27 |
-
-### Dwarkesh Patel (4)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [Michael Nielsen – How science actually progresses](https://gist.github.com/Rohoe/0f43bf96a68387864487fa44baf81351) | Dwarkesh Patel, Michael Nielsen | Dwarkesh Patel | 02:03:03 | 2026-08-09 |
-| [Terence Tao – Kepler, Newton, and the true nature of mathematical discovery](https://gist.github.com/Rohoe/7bb3048db8785fd2c81a39fafa77bc19) | Dwarkesh Patel, Terence Tao | Dwarkesh Patel | 01:23:43 | 2026-08-09 |
-| [Mark Zuckerberg — AI will write most Meta code in 18 months](https://gist.github.com/Rohoe/e827d3f8172ad97c926861c1ff3d46a2) | Dwarkesh Patel, Mark Zuckerberg | Dwarkesh Patel | 01:15:48 | 2026-05-29 |
-| [Jeff Dean & Noam Shazeer — 25 years at Google: from PageRank to AGI](https://gist.github.com/Rohoe/9c9bf7825b3c009460804fc7af664217) | Dwarkesh Patel, Jeff Dean, Noam Shazeer | Dwarkesh Patel | 02:15:29 | 2026-05-27 |
 
 ### Speaker 3 (4)
 
@@ -434,6 +437,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [How Cursor Trained Composer on Fireworks: Distributed Infrastructure for High-Performance RL](https://gist.github.com/Rohoe/a04e88186c91b39cb63895d9827af977) | Dima, Federico, Sequoia Capital, UNKNOWN | Sequoia Capital | 00:45:12 | 2026-05-28 |
 | [Life and Death in the Payments Sector](https://gist.github.com/Rohoe/260a13b35e50ea1793bace38f8b560ea) | Alex Wilson, Rob, UNKNOWN | Lumida Wealth | 01:01:00 | 2026-05-28 |
+
+### Ada Palmer (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Why Leonardo was a saboteur, Gutenberg went broke, and Florence was weird – Ada Palmer](https://gist.github.com/Rohoe/a9e063d9795a5f20d7f965579217aa6d) | Ada Palmer, Dwarkesh Patel | Dwarkesh Patel | 02:02:19 | 2026-08-09 |
 
 ### Alec Litowitz (1)
 
@@ -921,6 +930,15 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Running an AI-native engineering org](https://gist.github.com/Rohoe/b13b858c9c6b0027285d08c6e7a76ec0) | Fiona Fung, SPEAKER_00 | Claude | 00:28:20 | 2026-05-24 |
 | [The Inference Revolution: Groq, Nvidia and the Future of AI](https://gist.github.com/Rohoe/ba0a6c2823c40eb1e2ce6d7afbf4b535) | Jonathan Ross | Sohn Conference Foundation | 00:15:58 | 2026-05-18 |
 
+### `dwarkesh` (4)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Michael Nielsen – How science actually progresses](https://gist.github.com/Rohoe/0f43bf96a68387864487fa44baf81351) | Dwarkesh Patel, Michael Nielsen | Dwarkesh Patel | 02:03:03 | 2026-08-09 |
+| [Terence Tao – Kepler, Newton, and the true nature of mathematical discovery](https://gist.github.com/Rohoe/7bb3048db8785fd2c81a39fafa77bc19) | Dwarkesh Patel, Terence Tao | Dwarkesh Patel | 01:23:43 | 2026-08-09 |
+| [Why Leonardo was a saboteur, Gutenberg went broke, and Florence was weird – Ada Palmer](https://gist.github.com/Rohoe/a9e063d9795a5f20d7f965579217aa6d) | Ada Palmer, Dwarkesh Patel | Dwarkesh Patel | 02:02:19 | 2026-08-09 |
+| [Jeff Dean & Noam Shazeer — 25 years at Google: from PageRank to AGI](https://gist.github.com/Rohoe/9c9bf7825b3c009460804fc7af664217) | Dwarkesh Patel, Jeff Dean, Noam Shazeer | Dwarkesh Patel | 02:15:29 | 2026-05-27 |
+
 ### `markets` (4)
 
 | Title | Speakers | Host | Duration | Added |
@@ -929,14 +947,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [SpaceX: Start of the Next Megabubble or End of the Rally?](https://gist.github.com/Rohoe/e4c914cda449da83f7d747e9e7e2c8ab) | Avi, Jonah, Speaker 4, Unknown speaker | 1KX Media | 00:45:41 | 2026-06-18 |
 | [Are Rate Cuts Dead?](https://gist.github.com/Rohoe/0e3f28cfdd394befebf8054ba52a4824) | Speaker 2, Speaker 3 | 1KX Media | 00:53:05 | 2026-06-17 |
 | [Stanford Leadership Forum 2026: Conversation with Ken Griffin](https://gist.github.com/Rohoe/88f0a6365e79158c8686c9a91b490ed5) | Ken Griffin, Amit Saru | Stanford Graduate School of Business | 00:45:41 | 2026-05-17 |
-
-### `dwarkesh` (3)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [Michael Nielsen – How science actually progresses](https://gist.github.com/Rohoe/0f43bf96a68387864487fa44baf81351) | Dwarkesh Patel, Michael Nielsen | Dwarkesh Patel | 02:03:03 | 2026-08-09 |
-| [Terence Tao – Kepler, Newton, and the true nature of mathematical discovery](https://gist.github.com/Rohoe/7bb3048db8785fd2c81a39fafa77bc19) | Dwarkesh Patel, Terence Tao | Dwarkesh Patel | 01:23:43 | 2026-08-09 |
-| [Jeff Dean & Noam Shazeer — 25 years at Google: from PageRank to AGI](https://gist.github.com/Rohoe/9c9bf7825b3c009460804fc7af664217) | Dwarkesh Patel, Jeff Dean, Noam Shazeer | Dwarkesh Patel | 02:15:29 | 2026-05-27 |
 
 ### `investing` (2)
 
@@ -1028,6 +1038,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [The Inference Revolution: Groq, Nvidia and the Future of AI](https://gist.github.com/Rohoe/ba0a6c2823c40eb1e2ce6d7afbf4b535) | Jonathan Ross | Sohn Conference Foundation | 00:15:58 | 2026-05-18 |
+
+### `history` (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Why Leonardo was a saboteur, Gutenberg went broke, and Florence was weird – Ada Palmer](https://gist.github.com/Rohoe/a9e063d9795a5f20d7f965579217aa6d) | Ada Palmer, Dwarkesh Patel | Dwarkesh Patel | 02:02:19 | 2026-08-09 |
 
 ### `iltb` (1)
 
