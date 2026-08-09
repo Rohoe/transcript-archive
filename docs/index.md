@@ -10,6 +10,7 @@ _Publishable transcripts produced by Transcript-Scribe._
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
+| [Wolfgang Hammer - The Power of Story](https://gist.github.com/Rohoe/c0dc4b15c2098b134dda66e9473906c6) | Patrick O'Shaughnessy, Wolfgang Hammer | Patrick O'Shaughnessy | 00:40:53 | 2026-08-09 |
 | [Gavin Baker - Nvidia v. Google, Scaling Laws, and the Economics of AI](https://gist.github.com/Rohoe/cf23ee087cfda4db0f1956a064d2a169) | Gavin Baker, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 01:24:13 | 2026-08-09 |
 | [David George - Building a16z Growth, Investing Across the AI Stack, and Why Markets Misprice Growth](https://gist.github.com/Rohoe/d9d9493d4d09ee05c382166de827553b) | David George, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 01:05:41 | 2026-08-09 |
 | [Sergey Levine - Building LLMs for the Physical World](https://gist.github.com/Rohoe/4fa0bfb2deea882ac86f26b98a8bcd1c) | Patrick O'Shaughnessy, Sergey Levine | Patrick O'Shaughnessy | 01:06:35 | 2026-08-09 |
@@ -20,7 +21,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [John Kim - How to Raise a Few Billion Dollars](https://gist.github.com/Rohoe/ef635ee232d69a959d52ed683e99a820) | John Kim, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 00:50:20 | 2026-08-08 |
 | [Gavin Uberti and Rob Wachen - The Future of AI Hardware](https://gist.github.com/Rohoe/abc9690448e27c2e8e656e77a910639f) | Gavin Uberti, Patrick O'Shaughnessy, Rob Wachen | Patrick O'Shaughnessy | 01:27:21 | 2026-08-08 |
 | [Sam Altman - How to Make an Abundant Future](https://gist.github.com/Rohoe/49250fe0cf2b755033b5697dd695ce07) | Patrick O'Shaughnessy, Sam Altman | Patrick O'Shaughnessy | 00:53:34 | 2026-08-08 |
-| [Wolfgang Hammer - The Power of Story](https://gist.github.com/Rohoe/c0dc4b15c2098b134dda66e9473906c6) | Patrick O'Shaughnessy, Wolfgang Hammer | Patrick O'Shaughnessy | 00:40:53 | 2026-08-08 |
 | [Jack Kokko - Building AlphaSense](https://gist.github.com/Rohoe/89e22bfd8e8f2581d464d3b335e6b4fc) | Jack Kokko, Patrick O'Shaughnessy, Speaker 4 | Patrick O'Shaughnessy | 00:48:30 | 2026-08-08 |
 | [Gaurav Misra & Dwight Churchill - Building Captions](https://gist.github.com/Rohoe/40484f262d7963a56ca98372dc969092) | Dwight Churchill, Gaurav Misra, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 01:04:04 | 2026-08-08 |
 | [Joe Liemandt  - Building Alpha School, and The Future of Education](https://gist.github.com/Rohoe/7b45b0c8bcfbd47517eb84cc2280f5f8) | Joe Liemandt, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 02:26:11 | 2026-08-08 |
@@ -74,6 +74,7 @@ _Publishable transcripts produced by Transcript-Scribe._
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
+| [Wolfgang Hammer - The Power of Story](https://gist.github.com/Rohoe/c0dc4b15c2098b134dda66e9473906c6) | Patrick O'Shaughnessy, Wolfgang Hammer | Patrick O'Shaughnessy | 00:40:53 | 2026-08-09 |
 | [Gavin Baker - Nvidia v. Google, Scaling Laws, and the Economics of AI](https://gist.github.com/Rohoe/cf23ee087cfda4db0f1956a064d2a169) | Gavin Baker, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 01:24:13 | 2026-08-09 |
 | [David George - Building a16z Growth, Investing Across the AI Stack, and Why Markets Misprice Growth](https://gist.github.com/Rohoe/d9d9493d4d09ee05c382166de827553b) | David George, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 01:05:41 | 2026-08-09 |
 | [Sergey Levine - Building LLMs for the Physical World](https://gist.github.com/Rohoe/4fa0bfb2deea882ac86f26b98a8bcd1c) | Patrick O'Shaughnessy, Sergey Levine | Patrick O'Shaughnessy | 01:06:35 | 2026-08-09 |
@@ -81,7 +82,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [John Kim - How to Raise a Few Billion Dollars](https://gist.github.com/Rohoe/ef635ee232d69a959d52ed683e99a820) | John Kim, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 00:50:20 | 2026-08-08 |
 | [Gavin Uberti and Rob Wachen - The Future of AI Hardware](https://gist.github.com/Rohoe/abc9690448e27c2e8e656e77a910639f) | Gavin Uberti, Patrick O'Shaughnessy, Rob Wachen | Patrick O'Shaughnessy | 01:27:21 | 2026-08-08 |
 | [Sam Altman - How to Make an Abundant Future](https://gist.github.com/Rohoe/49250fe0cf2b755033b5697dd695ce07) | Patrick O'Shaughnessy, Sam Altman | Patrick O'Shaughnessy | 00:53:34 | 2026-08-08 |
-| [Wolfgang Hammer - The Power of Story](https://gist.github.com/Rohoe/c0dc4b15c2098b134dda66e9473906c6) | Patrick O'Shaughnessy, Wolfgang Hammer | Patrick O'Shaughnessy | 00:40:53 | 2026-08-08 |
 | [Jack Kokko - Building AlphaSense](https://gist.github.com/Rohoe/89e22bfd8e8f2581d464d3b335e6b4fc) | Jack Kokko, Patrick O'Shaughnessy, Speaker 4 | Patrick O'Shaughnessy | 00:48:30 | 2026-08-08 |
 | [Gaurav Misra & Dwight Churchill - Building Captions](https://gist.github.com/Rohoe/40484f262d7963a56ca98372dc969092) | Dwight Churchill, Gaurav Misra, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 01:04:04 | 2026-08-08 |
 | [Joe Liemandt  - Building Alpha School, and The Future of Education](https://gist.github.com/Rohoe/7b45b0c8bcfbd47517eb84cc2280f5f8) | Joe Liemandt, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 02:26:11 | 2026-08-08 |
@@ -268,6 +268,7 @@ _Publishable transcripts produced by Transcript-Scribe._
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
+| [Wolfgang Hammer - The Power of Story](https://gist.github.com/Rohoe/c0dc4b15c2098b134dda66e9473906c6) | Patrick O'Shaughnessy, Wolfgang Hammer | Patrick O'Shaughnessy | 00:40:53 | 2026-08-09 |
 | [Gavin Baker - Nvidia v. Google, Scaling Laws, and the Economics of AI](https://gist.github.com/Rohoe/cf23ee087cfda4db0f1956a064d2a169) | Gavin Baker, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 01:24:13 | 2026-08-09 |
 | [David George - Building a16z Growth, Investing Across the AI Stack, and Why Markets Misprice Growth](https://gist.github.com/Rohoe/d9d9493d4d09ee05c382166de827553b) | David George, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 01:05:41 | 2026-08-09 |
 | [Sergey Levine - Building LLMs for the Physical World](https://gist.github.com/Rohoe/4fa0bfb2deea882ac86f26b98a8bcd1c) | Patrick O'Shaughnessy, Sergey Levine | Patrick O'Shaughnessy | 01:06:35 | 2026-08-09 |
@@ -277,7 +278,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [John Kim - How to Raise a Few Billion Dollars](https://gist.github.com/Rohoe/ef635ee232d69a959d52ed683e99a820) | John Kim, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 00:50:20 | 2026-08-08 |
 | [Gavin Uberti and Rob Wachen - The Future of AI Hardware](https://gist.github.com/Rohoe/abc9690448e27c2e8e656e77a910639f) | Gavin Uberti, Patrick O'Shaughnessy, Rob Wachen | Patrick O'Shaughnessy | 01:27:21 | 2026-08-08 |
 | [Sam Altman - How to Make an Abundant Future](https://gist.github.com/Rohoe/49250fe0cf2b755033b5697dd695ce07) | Patrick O'Shaughnessy, Sam Altman | Patrick O'Shaughnessy | 00:53:34 | 2026-08-08 |
-| [Wolfgang Hammer - The Power of Story](https://gist.github.com/Rohoe/c0dc4b15c2098b134dda66e9473906c6) | Patrick O'Shaughnessy, Wolfgang Hammer | Patrick O'Shaughnessy | 00:40:53 | 2026-08-08 |
 | [Jack Kokko - Building AlphaSense](https://gist.github.com/Rohoe/89e22bfd8e8f2581d464d3b335e6b4fc) | Jack Kokko, Patrick O'Shaughnessy, Speaker 4 | Patrick O'Shaughnessy | 00:48:30 | 2026-08-08 |
 | [Gaurav Misra & Dwight Churchill - Building Captions](https://gist.github.com/Rohoe/40484f262d7963a56ca98372dc969092) | Dwight Churchill, Gaurav Misra, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 01:04:04 | 2026-08-08 |
 | [Joe Liemandt  - Building Alpha School, and The Future of Education](https://gist.github.com/Rohoe/7b45b0c8bcfbd47517eb84cc2280f5f8) | Joe Liemandt, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 02:26:11 | 2026-08-08 |
@@ -877,7 +877,7 @@ _Publishable transcripts produced by Transcript-Scribe._
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
-| [Wolfgang Hammer - The Power of Story](https://gist.github.com/Rohoe/c0dc4b15c2098b134dda66e9473906c6) | Patrick O'Shaughnessy, Wolfgang Hammer | Patrick O'Shaughnessy | 00:40:53 | 2026-08-08 |
+| [Wolfgang Hammer - The Power of Story](https://gist.github.com/Rohoe/c0dc4b15c2098b134dda66e9473906c6) | Patrick O'Shaughnessy, Wolfgang Hammer | Patrick O'Shaughnessy | 00:40:53 | 2026-08-09 |
 
 ### Zoltan Szelyes (1)
 
@@ -983,7 +983,7 @@ _Publishable transcripts produced by Transcript-Scribe._
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
-| [Wolfgang Hammer - The Power of Story](https://gist.github.com/Rohoe/c0dc4b15c2098b134dda66e9473906c6) | Patrick O'Shaughnessy, Wolfgang Hammer | Patrick O'Shaughnessy | 00:40:53 | 2026-08-08 |
+| [Wolfgang Hammer - The Power of Story](https://gist.github.com/Rohoe/c0dc4b15c2098b134dda66e9473906c6) | Patrick O'Shaughnessy, Wolfgang Hammer | Patrick O'Shaughnessy | 00:40:53 | 2026-08-09 |
 
 ### `finance` (1)
 
@@ -1091,7 +1091,7 @@ _Publishable transcripts produced by Transcript-Scribe._
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
-| [Wolfgang Hammer - The Power of Story](https://gist.github.com/Rohoe/c0dc4b15c2098b134dda66e9473906c6) | Patrick O'Shaughnessy, Wolfgang Hammer | Patrick O'Shaughnessy | 00:40:53 | 2026-08-08 |
+| [Wolfgang Hammer - The Power of Story](https://gist.github.com/Rohoe/c0dc4b15c2098b134dda66e9473906c6) | Patrick O'Shaughnessy, Wolfgang Hammer | Patrick O'Shaughnessy | 00:40:53 | 2026-08-09 |
 
 ### `venture` (1)
 
