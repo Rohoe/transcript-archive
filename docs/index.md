@@ -4,7 +4,7 @@
 
 _Publishable transcripts produced by Transcript-Scribe._
 
-**50 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
+**51 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
 
 ## Latest
 
@@ -18,6 +18,7 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Gavin Uberti and Rob Wachen - The Future of AI Hardware](https://gist.github.com/Rohoe/abc9690448e27c2e8e656e77a910639f) | Gavin Uberti, Patrick O'Shaughnessy, Rob Wachen | Patrick O'Shaughnessy | 01:27:21 | 2026-08-08 |
 | [Sam Altman - How to Make an Abundant Future](https://gist.github.com/Rohoe/49250fe0cf2b755033b5697dd695ce07) | Patrick O'Shaughnessy, Sam Altman | Patrick O'Shaughnessy | 00:53:34 | 2026-08-08 |
 | [Wolfgang Hammer - The Power of Story](https://gist.github.com/Rohoe/c0dc4b15c2098b134dda66e9473906c6) | Patrick O'Shaughnessy, Wolfgang Hammer | Patrick O'Shaughnessy | 00:40:53 | 2026-08-08 |
+| [Jack Kokko - Building AlphaSense](https://gist.github.com/Rohoe/89e22bfd8e8f2581d464d3b335e6b4fc) | Jack Kokko, Patrick O'Shaughnessy, Speaker 4 | Patrick O'Shaughnessy | 00:48:30 | 2026-08-08 |
 | [Washington Is Suppressing Volatility To Keep The AI Boom Alive | Weekly Roundup](https://gist.github.com/Rohoe/79711e1934ec849daf56348d1bdab58d) | Felix, Quinn, Tyler | Blockworks | 00:59:54 | 2026-08-07 |
 | [MARKET UPDATE: FED Backstops The Yen, Metals Rip, And Neoclouds Rebound](https://gist.github.com/Rohoe/80ac2c98b57efd6a910ef50d03ee538b) | Avi, Jonah | 1KX Media | 00:52:37 | 2026-08-06 |
 | [Brad Setser on the US's Unusual Japanese Yen Intervention](https://gist.github.com/Rohoe/fe615504c76556e3f0c2e1827934dd9d) | Brad Setser, Joe Weisenthal, Tracy Alloway | Bloomberg | 00:47:39 | 2026-08-06 |
@@ -63,6 +64,17 @@ _Publishable transcripts produced by Transcript-Scribe._
 
 ## By host
 
+### Patrick O'Shaughnessy (6)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Matthew Smith - Natural Gas: The Next Bottleneck](https://gist.github.com/Rohoe/693e9ca0e97e9a2a936ecd362d61d2c4) | Matthew Smith, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 00:56:37 | 2026-08-08 |
+| [John Kim - How to Raise a Few Billion Dollars](https://gist.github.com/Rohoe/ef635ee232d69a959d52ed683e99a820) | John Kim, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 00:50:20 | 2026-08-08 |
+| [Gavin Uberti and Rob Wachen - The Future of AI Hardware](https://gist.github.com/Rohoe/abc9690448e27c2e8e656e77a910639f) | Gavin Uberti, Patrick O'Shaughnessy, Rob Wachen | Patrick O'Shaughnessy | 01:27:21 | 2026-08-08 |
+| [Sam Altman - How to Make an Abundant Future](https://gist.github.com/Rohoe/49250fe0cf2b755033b5697dd695ce07) | Patrick O'Shaughnessy, Sam Altman | Patrick O'Shaughnessy | 00:53:34 | 2026-08-08 |
+| [Wolfgang Hammer - The Power of Story](https://gist.github.com/Rohoe/c0dc4b15c2098b134dda66e9473906c6) | Patrick O'Shaughnessy, Wolfgang Hammer | Patrick O'Shaughnessy | 00:40:53 | 2026-08-08 |
+| [Jack Kokko - Building AlphaSense](https://gist.github.com/Rohoe/89e22bfd8e8f2581d464d3b335e6b4fc) | Jack Kokko, Patrick O'Shaughnessy, Speaker 4 | Patrick O'Shaughnessy | 00:48:30 | 2026-08-08 |
+
 ### Joseph Wang (5)
 
 | Title | Speakers | Host | Duration | Added |
@@ -72,16 +84,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [July 2026 FOMC Debrief](https://gist.github.com/Rohoe/f46d17bd8938fcbeb85b324400355938) | Guest 1, Joseph Wang, Kevin | Joseph Wang | 00:11:20 | 2026-07-29 |
 | [Markets Weekly July 18, 2026](https://gist.github.com/Rohoe/bd11ad150c2ba22227106a39143ae47a) | Joseph Wang, Speaker 3 | Joseph Wang | 00:17:33 | 2026-07-18 |
 | [Markets Weekly June 27, 2026](https://gist.github.com/Rohoe/a36fe55d37ad373ee2fd945b72f18b89) | Joseph Wang | Joseph Wang | 00:25:04 | 2026-06-27 |
-
-### Patrick O'Shaughnessy (5)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [Matthew Smith - Natural Gas: The Next Bottleneck](https://gist.github.com/Rohoe/693e9ca0e97e9a2a936ecd362d61d2c4) | Matthew Smith, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 00:56:37 | 2026-08-08 |
-| [John Kim - How to Raise a Few Billion Dollars](https://gist.github.com/Rohoe/ef635ee232d69a959d52ed683e99a820) | John Kim, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 00:50:20 | 2026-08-08 |
-| [Gavin Uberti and Rob Wachen - The Future of AI Hardware](https://gist.github.com/Rohoe/abc9690448e27c2e8e656e77a910639f) | Gavin Uberti, Patrick O'Shaughnessy, Rob Wachen | Patrick O'Shaughnessy | 01:27:21 | 2026-08-08 |
-| [Sam Altman - How to Make an Abundant Future](https://gist.github.com/Rohoe/49250fe0cf2b755033b5697dd695ce07) | Patrick O'Shaughnessy, Sam Altman | Patrick O'Shaughnessy | 00:53:34 | 2026-08-08 |
-| [Wolfgang Hammer - The Power of Story](https://gist.github.com/Rohoe/c0dc4b15c2098b134dda66e9473906c6) | Patrick O'Shaughnessy, Wolfgang Hammer | Patrick O'Shaughnessy | 00:40:53 | 2026-08-08 |
 
 ### 1000x (4)
 
@@ -250,6 +252,19 @@ _Publishable transcripts produced by Transcript-Scribe._
 
 ## By speaker
 
+### Patrick O'Shaughnessy (8)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Gavin Baker - AI Market Jitters - [Invest Like the Best, EP.485]](https://gist.github.com/Rohoe/132f5101f3fd7374b05c9f03300dae8a) | Gavin Baker, Patrick O'Shaughnessy | Colossus | 01:06:04 | 2026-08-08 |
+| [Jeremy Giffon - The Billion Dollar PDF - [Invest Like the Best, EP.481]](https://gist.github.com/Rohoe/2e1500289b8aeed53769a92189bd9abe) | Jeremy Giffon, Patrick O'Shaughnessy | Colossus | 01:15:19 | 2026-08-08 |
+| [Matthew Smith - Natural Gas: The Next Bottleneck](https://gist.github.com/Rohoe/693e9ca0e97e9a2a936ecd362d61d2c4) | Matthew Smith, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 00:56:37 | 2026-08-08 |
+| [John Kim - How to Raise a Few Billion Dollars](https://gist.github.com/Rohoe/ef635ee232d69a959d52ed683e99a820) | John Kim, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 00:50:20 | 2026-08-08 |
+| [Gavin Uberti and Rob Wachen - The Future of AI Hardware](https://gist.github.com/Rohoe/abc9690448e27c2e8e656e77a910639f) | Gavin Uberti, Patrick O'Shaughnessy, Rob Wachen | Patrick O'Shaughnessy | 01:27:21 | 2026-08-08 |
+| [Sam Altman - How to Make an Abundant Future](https://gist.github.com/Rohoe/49250fe0cf2b755033b5697dd695ce07) | Patrick O'Shaughnessy, Sam Altman | Patrick O'Shaughnessy | 00:53:34 | 2026-08-08 |
+| [Wolfgang Hammer - The Power of Story](https://gist.github.com/Rohoe/c0dc4b15c2098b134dda66e9473906c6) | Patrick O'Shaughnessy, Wolfgang Hammer | Patrick O'Shaughnessy | 00:40:53 | 2026-08-08 |
+| [Jack Kokko - Building AlphaSense](https://gist.github.com/Rohoe/89e22bfd8e8f2581d464d3b335e6b4fc) | Jack Kokko, Patrick O'Shaughnessy, Speaker 4 | Patrick O'Shaughnessy | 00:48:30 | 2026-08-08 |
+
 ### Avi (7)
 
 | Title | Speakers | Host | Duration | Added |
@@ -262,17 +277,17 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [SpaceX: Start of the Next Megabubble or End of the Rally?](https://gist.github.com/Rohoe/e4c914cda449da83f7d747e9e7e2c8ab) | Avi, Jonah, Speaker 4, Unknown speaker | 1KX Media | 00:45:41 | 2026-06-18 |
 | [Sticky Inflation + Energy Prices: End of the Rally or Pause?](https://gist.github.com/Rohoe/8400f8a352e356ce1544555082c529fb) | Avi, Jonah | 1000x Podcast | 00:53:32 | 2026-05-24 |
 
-### Patrick O'Shaughnessy (7)
+### Speaker 4 (7)
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
-| [Gavin Baker - AI Market Jitters - [Invest Like the Best, EP.485]](https://gist.github.com/Rohoe/132f5101f3fd7374b05c9f03300dae8a) | Gavin Baker, Patrick O'Shaughnessy | Colossus | 01:06:04 | 2026-08-08 |
-| [Jeremy Giffon - The Billion Dollar PDF - [Invest Like the Best, EP.481]](https://gist.github.com/Rohoe/2e1500289b8aeed53769a92189bd9abe) | Jeremy Giffon, Patrick O'Shaughnessy | Colossus | 01:15:19 | 2026-08-08 |
-| [Matthew Smith - Natural Gas: The Next Bottleneck](https://gist.github.com/Rohoe/693e9ca0e97e9a2a936ecd362d61d2c4) | Matthew Smith, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 00:56:37 | 2026-08-08 |
-| [John Kim - How to Raise a Few Billion Dollars](https://gist.github.com/Rohoe/ef635ee232d69a959d52ed683e99a820) | John Kim, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 00:50:20 | 2026-08-08 |
-| [Gavin Uberti and Rob Wachen - The Future of AI Hardware](https://gist.github.com/Rohoe/abc9690448e27c2e8e656e77a910639f) | Gavin Uberti, Patrick O'Shaughnessy, Rob Wachen | Patrick O'Shaughnessy | 01:27:21 | 2026-08-08 |
-| [Sam Altman - How to Make an Abundant Future](https://gist.github.com/Rohoe/49250fe0cf2b755033b5697dd695ce07) | Patrick O'Shaughnessy, Sam Altman | Patrick O'Shaughnessy | 00:53:34 | 2026-08-08 |
-| [Wolfgang Hammer - The Power of Story](https://gist.github.com/Rohoe/c0dc4b15c2098b134dda66e9473906c6) | Patrick O'Shaughnessy, Wolfgang Hammer | Patrick O'Shaughnessy | 00:40:53 | 2026-08-08 |
+| [Jack Kokko - Building AlphaSense](https://gist.github.com/Rohoe/89e22bfd8e8f2581d464d3b335e6b4fc) | Jack Kokko, Patrick O'Shaughnessy, Speaker 4 | Patrick O'Shaughnessy | 00:48:30 | 2026-08-08 |
+| [Alec Litowitz, Founder of Magnetar Capital and QStar Capital](https://gist.github.com/Rohoe/c851f8f8c3db2d2d6cf6732a1e6aa9e1) | Alec Litowitz, Dean Curnutt, Speaker 4 | Dean Curnutt | 01:10:29 | 2026-08-04 |
+| [US Midyear Outlook: Geopolitical Shocks, the New Fed Era, and Growth](https://gist.github.com/Rohoe/572b58bbabbe39baf4904f40a98e7224) | Allison Nathan, David Mericle, Speaker 4 | Goldman Sachs | 00:18:46 | 2026-07-26 |
+| [The View Beyond: China after the AI correction](https://gist.github.com/Rohoe/d627ceb17414d980a0a77a10f0ac1ad9) | Hong Hao, Richard Tang, Speaker 4 | Adventurous Media | 00:18:35 | 2026-07-18 |
+| [Citadel's Ken Griffin on AI, US-China Tensions, and US Data Centers](https://gist.github.com/Rohoe/1be5ecce37e79aee98cc7866b336a053) | Ken Griffin, Raj Mahajan, Speaker 4 | Goldman Sachs | 00:31:22 | 2026-07-14 |
+| [The View Beyond: China’s old and new tech divide](https://gist.github.com/Rohoe/2961d7ae9844cca6483b4ced9a3e20b9) | Hong Hao, Richard Tang, Speaker 4 | Adventurous Media | 00:25:13 | 2026-06-20 |
+| [SpaceX: Start of the Next Megabubble or End of the Rally?](https://gist.github.com/Rohoe/e4c914cda449da83f7d747e9e7e2c8ab) | Avi, Jonah, Speaker 4, Unknown speaker | 1KX Media | 00:45:41 | 2026-06-18 |
 
 ### Jonah (6)
 
@@ -284,17 +299,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Who's Coming For The Market In Q3?](https://gist.github.com/Rohoe/2769ad7769d633634c83abc4e18e8464) | Avi, Jonah, Unknown speaker | 1000x | 00:56:44 | 2026-07-02 |
 | [SpaceX: Start of the Next Megabubble or End of the Rally?](https://gist.github.com/Rohoe/e4c914cda449da83f7d747e9e7e2c8ab) | Avi, Jonah, Speaker 4, Unknown speaker | 1KX Media | 00:45:41 | 2026-06-18 |
 | [Sticky Inflation + Energy Prices: End of the Rally or Pause?](https://gist.github.com/Rohoe/8400f8a352e356ce1544555082c529fb) | Avi, Jonah | 1000x Podcast | 00:53:32 | 2026-05-24 |
-
-### Speaker 4 (6)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [Alec Litowitz, Founder of Magnetar Capital and QStar Capital](https://gist.github.com/Rohoe/c851f8f8c3db2d2d6cf6732a1e6aa9e1) | Alec Litowitz, Dean Curnutt, Speaker 4 | Dean Curnutt | 01:10:29 | 2026-08-04 |
-| [US Midyear Outlook: Geopolitical Shocks, the New Fed Era, and Growth](https://gist.github.com/Rohoe/572b58bbabbe39baf4904f40a98e7224) | Allison Nathan, David Mericle, Speaker 4 | Goldman Sachs | 00:18:46 | 2026-07-26 |
-| [The View Beyond: China after the AI correction](https://gist.github.com/Rohoe/d627ceb17414d980a0a77a10f0ac1ad9) | Hong Hao, Richard Tang, Speaker 4 | Adventurous Media | 00:18:35 | 2026-07-18 |
-| [Citadel's Ken Griffin on AI, US-China Tensions, and US Data Centers](https://gist.github.com/Rohoe/1be5ecce37e79aee98cc7866b336a053) | Ken Griffin, Raj Mahajan, Speaker 4 | Goldman Sachs | 00:31:22 | 2026-07-14 |
-| [The View Beyond: China’s old and new tech divide](https://gist.github.com/Rohoe/2961d7ae9844cca6483b4ced9a3e20b9) | Hong Hao, Richard Tang, Speaker 4 | Adventurous Media | 00:25:13 | 2026-06-20 |
-| [SpaceX: Start of the Next Megabubble or End of the Rally?](https://gist.github.com/Rohoe/e4c914cda449da83f7d747e9e7e2c8ab) | Avi, Jonah, Speaker 4, Unknown speaker | 1KX Media | 00:45:41 | 2026-06-18 |
 
 ### Joseph Wang (5)
 
@@ -568,6 +572,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [Jeffrey Gundlach on the Fed: Talk Is Cheap | CNBC](https://gist.github.com/Rohoe/8ee28e9d7e2873ea50aa6e18c130a069) | Host, Jeffrey Gundlach, Scott Wapner | DoubleLine Capital | 00:25:50 | 2026-08-02 |
 
+### Jack Kokko (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Jack Kokko - Building AlphaSense](https://gist.github.com/Rohoe/89e22bfd8e8f2581d464d3b335e6b4fc) | Jack Kokko, Patrick O'Shaughnessy, Speaker 4 | Patrick O'Shaughnessy | 00:48:30 | 2026-08-08 |
+
 ### Jeff Dean (1)
 
 | Title | Speakers | Host | Duration | Added |
@@ -822,10 +832,11 @@ _Publishable transcripts produced by Transcript-Scribe._
 
 ## By tag
 
-### `ai` (4)
+### `ai` (5)
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
+| [Jack Kokko - Building AlphaSense](https://gist.github.com/Rohoe/89e22bfd8e8f2581d464d3b335e6b4fc) | Jack Kokko, Patrick O'Shaughnessy, Speaker 4 | Patrick O'Shaughnessy | 00:48:30 | 2026-08-08 |
 | [Jeff Dean & Noam Shazeer — 25 years at Google: from PageRank to AGI](https://gist.github.com/Rohoe/9c9bf7825b3c009460804fc7af664217) | Dwarkesh Patel, Jeff Dean, Noam Shazeer | Dwarkesh Patel | 02:15:29 | 2026-05-27 |
 | [Trump-Xi Summit, Benioff: \"Not My First SaaSpocalypse,\" OpenAI vs Apple, Multi-Sensory AI, El Niño](https://gist.github.com/Rohoe/84cf1dc553dd422b2f73e3b818ebfa19) | Chamath, Friedberg, Jason, Mark Benioff | All-In Podcast | 01:16:29 | 2026-05-27 |
 | [Running an AI-native engineering org](https://gist.github.com/Rohoe/b13b858c9c6b0027285d08c6e7a76ec0) | Fiona Fung, SPEAKER_00 | Claude | 00:28:20 | 2026-05-24 |
@@ -881,6 +892,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [Running an AI-native engineering org](https://gist.github.com/Rohoe/b13b858c9c6b0027285d08c6e7a76ec0) | Fiona Fung, SPEAKER_00 | Claude | 00:28:20 | 2026-05-24 |
 
+### `enterprise` (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Jack Kokko - Building AlphaSense](https://gist.github.com/Rohoe/89e22bfd8e8f2581d464d3b335e6b4fc) | Jack Kokko, Patrick O'Shaughnessy, Speaker 4 | Patrick O'Shaughnessy | 00:48:30 | 2026-08-08 |
+
 ### `film` (1)
 
 | Title | Speakers | Host | Duration | Added |
@@ -922,6 +939,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [The Inference Revolution: Groq, Nvidia and the Future of AI](https://gist.github.com/Rohoe/ba0a6c2823c40eb1e2ce6d7afbf4b535) | Jonathan Ross | Sohn Conference Foundation | 00:15:58 | 2026-05-18 |
+
+### `investing` (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Jack Kokko - Building AlphaSense](https://gist.github.com/Rohoe/89e22bfd8e8f2581d464d3b335e6b4fc) | Jack Kokko, Patrick O'Shaughnessy, Speaker 4 | Patrick O'Shaughnessy | 00:48:30 | 2026-08-08 |
 
 ### `leadership` (1)
 
