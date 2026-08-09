@@ -4,7 +4,7 @@
 
 _Publishable transcripts produced by Transcript-Scribe._
 
-**53 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
+**54 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
 
 ## Latest
 
@@ -21,6 +21,7 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Jack Kokko - Building AlphaSense](https://gist.github.com/Rohoe/89e22bfd8e8f2581d464d3b335e6b4fc) | Jack Kokko, Patrick O'Shaughnessy, Speaker 4 | Patrick O'Shaughnessy | 00:48:30 | 2026-08-08 |
 | [Gaurav Misra & Dwight Churchill - Building Captions](https://gist.github.com/Rohoe/40484f262d7963a56ca98372dc969092) | Dwight Churchill, Gaurav Misra, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 01:04:04 | 2026-08-08 |
 | [Joe Liemandt  - Building Alpha School, and The Future of Education](https://gist.github.com/Rohoe/7b45b0c8bcfbd47517eb84cc2280f5f8) | Joe Liemandt, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 02:26:11 | 2026-08-08 |
+| [Tobi Lütke - Building Islands of Innovation](https://gist.github.com/Rohoe/59553fdae6c58501bd5e483a23688c27) | Patrick O'Shaughnessy, Tobi Lütke | Patrick O'Shaughnessy | 01:06:21 | 2026-08-08 |
 | [Washington Is Suppressing Volatility To Keep The AI Boom Alive | Weekly Roundup](https://gist.github.com/Rohoe/79711e1934ec849daf56348d1bdab58d) | Felix, Quinn, Tyler | Blockworks | 00:59:54 | 2026-08-07 |
 | [MARKET UPDATE: FED Backstops The Yen, Metals Rip, And Neoclouds Rebound](https://gist.github.com/Rohoe/80ac2c98b57efd6a910ef50d03ee538b) | Avi, Jonah | 1KX Media | 00:52:37 | 2026-08-06 |
 | [Brad Setser on the US's Unusual Japanese Yen Intervention](https://gist.github.com/Rohoe/fe615504c76556e3f0c2e1827934dd9d) | Brad Setser, Joe Weisenthal, Tracy Alloway | Bloomberg | 00:47:39 | 2026-08-06 |
@@ -66,7 +67,7 @@ _Publishable transcripts produced by Transcript-Scribe._
 
 ## By host
 
-### Patrick O'Shaughnessy (8)
+### Patrick O'Shaughnessy (9)
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
@@ -78,6 +79,7 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Jack Kokko - Building AlphaSense](https://gist.github.com/Rohoe/89e22bfd8e8f2581d464d3b335e6b4fc) | Jack Kokko, Patrick O'Shaughnessy, Speaker 4 | Patrick O'Shaughnessy | 00:48:30 | 2026-08-08 |
 | [Gaurav Misra & Dwight Churchill - Building Captions](https://gist.github.com/Rohoe/40484f262d7963a56ca98372dc969092) | Dwight Churchill, Gaurav Misra, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 01:04:04 | 2026-08-08 |
 | [Joe Liemandt  - Building Alpha School, and The Future of Education](https://gist.github.com/Rohoe/7b45b0c8bcfbd47517eb84cc2280f5f8) | Joe Liemandt, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 02:26:11 | 2026-08-08 |
+| [Tobi Lütke - Building Islands of Innovation](https://gist.github.com/Rohoe/59553fdae6c58501bd5e483a23688c27) | Patrick O'Shaughnessy, Tobi Lütke | Patrick O'Shaughnessy | 01:06:21 | 2026-08-08 |
 
 ### Joseph Wang (5)
 
@@ -256,7 +258,7 @@ _Publishable transcripts produced by Transcript-Scribe._
 
 ## By speaker
 
-### Patrick O'Shaughnessy (10)
+### Patrick O'Shaughnessy (11)
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
@@ -270,6 +272,7 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Jack Kokko - Building AlphaSense](https://gist.github.com/Rohoe/89e22bfd8e8f2581d464d3b335e6b4fc) | Jack Kokko, Patrick O'Shaughnessy, Speaker 4 | Patrick O'Shaughnessy | 00:48:30 | 2026-08-08 |
 | [Gaurav Misra & Dwight Churchill - Building Captions](https://gist.github.com/Rohoe/40484f262d7963a56ca98372dc969092) | Dwight Churchill, Gaurav Misra, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 01:04:04 | 2026-08-08 |
 | [Joe Liemandt  - Building Alpha School, and The Future of Education](https://gist.github.com/Rohoe/7b45b0c8bcfbd47517eb84cc2280f5f8) | Joe Liemandt, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 02:26:11 | 2026-08-08 |
+| [Tobi Lütke - Building Islands of Innovation](https://gist.github.com/Rohoe/59553fdae6c58501bd5e483a23688c27) | Patrick O'Shaughnessy, Tobi Lütke | Patrick O'Shaughnessy | 01:06:21 | 2026-08-08 |
 
 ### Avi (7)
 
@@ -824,6 +827,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding](https://gist.github.com/Rohoe/e5eb6098fcc21575e3c359bfe5c58ea9) | Anton Osika, Jason, Pat Gelsinger, Speaker 3, Speaker 6 | All-In Podcast | 00:49:24 | 2026-07-16 |
 
+### Tobi Lütke (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Tobi Lütke - Building Islands of Innovation](https://gist.github.com/Rohoe/59553fdae6c58501bd5e483a23688c27) | Patrick O'Shaughnessy, Tobi Lütke | Patrick O'Shaughnessy | 01:06:21 | 2026-08-08 |
+
 ### Tracy Alloway (1)
 
 | Title | Speakers | Host | Duration | Added |
@@ -856,13 +865,14 @@ _Publishable transcripts produced by Transcript-Scribe._
 
 ## By tag
 
-### `ai` (7)
+### `ai` (8)
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Jack Kokko - Building AlphaSense](https://gist.github.com/Rohoe/89e22bfd8e8f2581d464d3b335e6b4fc) | Jack Kokko, Patrick O'Shaughnessy, Speaker 4 | Patrick O'Shaughnessy | 00:48:30 | 2026-08-08 |
 | [Gaurav Misra & Dwight Churchill - Building Captions](https://gist.github.com/Rohoe/40484f262d7963a56ca98372dc969092) | Dwight Churchill, Gaurav Misra, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 01:04:04 | 2026-08-08 |
 | [Joe Liemandt  - Building Alpha School, and The Future of Education](https://gist.github.com/Rohoe/7b45b0c8bcfbd47517eb84cc2280f5f8) | Joe Liemandt, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 02:26:11 | 2026-08-08 |
+| [Tobi Lütke - Building Islands of Innovation](https://gist.github.com/Rohoe/59553fdae6c58501bd5e483a23688c27) | Patrick O'Shaughnessy, Tobi Lütke | Patrick O'Shaughnessy | 01:06:21 | 2026-08-08 |
 | [Jeff Dean & Noam Shazeer — 25 years at Google: from PageRank to AGI](https://gist.github.com/Rohoe/9c9bf7825b3c009460804fc7af664217) | Dwarkesh Patel, Jeff Dean, Noam Shazeer | Dwarkesh Patel | 02:15:29 | 2026-05-27 |
 | [Trump-Xi Summit, Benioff: \"Not My First SaaSpocalypse,\" OpenAI vs Apple, Multi-Sensory AI, El Niño](https://gist.github.com/Rohoe/84cf1dc553dd422b2f73e3b818ebfa19) | Chamath, Friedberg, Jason, Mark Benioff | All-In Podcast | 01:16:29 | 2026-05-27 |
 | [Running an AI-native engineering org](https://gist.github.com/Rohoe/b13b858c9c6b0027285d08c6e7a76ec0) | Fiona Fung, SPEAKER_00 | Claude | 00:28:20 | 2026-05-24 |
@@ -929,6 +939,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Jack Kokko - Building AlphaSense](https://gist.github.com/Rohoe/89e22bfd8e8f2581d464d3b335e6b4fc) | Jack Kokko, Patrick O'Shaughnessy, Speaker 4 | Patrick O'Shaughnessy | 00:48:30 | 2026-08-08 |
+
+### `entrepreneurship` (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Tobi Lütke - Building Islands of Innovation](https://gist.github.com/Rohoe/59553fdae6c58501bd5e483a23688c27) | Patrick O'Shaughnessy, Tobi Lütke | Patrick O'Shaughnessy | 01:06:21 | 2026-08-08 |
 
 ### `film` (1)
 
@@ -1019,6 +1035,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Trump-Xi Summit, Benioff: \"Not My First SaaSpocalypse,\" OpenAI vs Apple, Multi-Sensory AI, El Niño](https://gist.github.com/Rohoe/84cf1dc553dd422b2f73e3b818ebfa19) | Chamath, Friedberg, Jason, Mark Benioff | All-In Podcast | 01:16:29 | 2026-05-27 |
+
+### `shopify` (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Tobi Lütke - Building Islands of Innovation](https://gist.github.com/Rohoe/59553fdae6c58501bd5e483a23688c27) | Patrick O'Shaughnessy, Tobi Lütke | Patrick O'Shaughnessy | 01:06:21 | 2026-08-08 |
 
 ### `spacex` (1)
 
