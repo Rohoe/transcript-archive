@@ -4,13 +4,14 @@
 
 _Publishable transcripts produced by Transcript-Scribe._
 
-**55 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
+**56 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
 
 ## Latest
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Gavin Baker - Nvidia v. Google, Scaling Laws, and the Economics of AI](https://gist.github.com/Rohoe/cf23ee087cfda4db0f1956a064d2a169) | Gavin Baker, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 01:24:13 | 2026-08-09 |
+| [David George - Building a16z Growth, Investing Across the AI Stack, and Why Markets Misprice Growth](https://gist.github.com/Rohoe/d9d9493d4d09ee05c382166de827553b) | David George, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 01:05:41 | 2026-08-09 |
 | [Gavin Baker - AI Market Jitters - [Invest Like the Best, EP.485]](https://gist.github.com/Rohoe/132f5101f3fd7374b05c9f03300dae8a) | Gavin Baker, Patrick O'Shaughnessy | Colossus | 01:06:04 | 2026-08-08 |
 | [Jeremy Giffon - The Billion Dollar PDF - [Invest Like the Best, EP.481]](https://gist.github.com/Rohoe/2e1500289b8aeed53769a92189bd9abe) | Jeremy Giffon, Patrick O'Shaughnessy | Colossus | 01:15:19 | 2026-08-08 |
 | [Markets Weekly August 8, 2026](https://gist.github.com/Rohoe/5cee2c29d6eef7ef9b549d285f537c9c) | Joseph Wang | Joseph Wang | 00:21:23 | 2026-08-08 |
@@ -68,11 +69,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 
 ## By host
 
-### Patrick O'Shaughnessy (10)
+### Patrick O'Shaughnessy (11)
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Gavin Baker - Nvidia v. Google, Scaling Laws, and the Economics of AI](https://gist.github.com/Rohoe/cf23ee087cfda4db0f1956a064d2a169) | Gavin Baker, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 01:24:13 | 2026-08-09 |
+| [David George - Building a16z Growth, Investing Across the AI Stack, and Why Markets Misprice Growth](https://gist.github.com/Rohoe/d9d9493d4d09ee05c382166de827553b) | David George, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 01:05:41 | 2026-08-09 |
 | [Matthew Smith - Natural Gas: The Next Bottleneck](https://gist.github.com/Rohoe/693e9ca0e97e9a2a936ecd362d61d2c4) | Matthew Smith, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 00:56:37 | 2026-08-08 |
 | [John Kim - How to Raise a Few Billion Dollars](https://gist.github.com/Rohoe/ef635ee232d69a959d52ed683e99a820) | John Kim, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 00:50:20 | 2026-08-08 |
 | [Gavin Uberti and Rob Wachen - The Future of AI Hardware](https://gist.github.com/Rohoe/abc9690448e27c2e8e656e77a910639f) | Gavin Uberti, Patrick O'Shaughnessy, Rob Wachen | Patrick O'Shaughnessy | 01:27:21 | 2026-08-08 |
@@ -260,11 +262,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 
 ## By speaker
 
-### Patrick O'Shaughnessy (12)
+### Patrick O'Shaughnessy (13)
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Gavin Baker - Nvidia v. Google, Scaling Laws, and the Economics of AI](https://gist.github.com/Rohoe/cf23ee087cfda4db0f1956a064d2a169) | Gavin Baker, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 01:24:13 | 2026-08-09 |
+| [David George - Building a16z Growth, Investing Across the AI Stack, and Why Markets Misprice Growth](https://gist.github.com/Rohoe/d9d9493d4d09ee05c382166de827553b) | David George, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 01:05:41 | 2026-08-09 |
 | [Gavin Baker - AI Market Jitters - [Invest Like the Best, EP.485]](https://gist.github.com/Rohoe/132f5101f3fd7374b05c9f03300dae8a) | Gavin Baker, Patrick O'Shaughnessy | Colossus | 01:06:04 | 2026-08-08 |
 | [Jeremy Giffon - The Billion Dollar PDF - [Invest Like the Best, EP.481]](https://gist.github.com/Rohoe/2e1500289b8aeed53769a92189bd9abe) | Jeremy Giffon, Patrick O'Shaughnessy | Colossus | 01:15:19 | 2026-08-08 |
 | [Matthew Smith - Natural Gas: The Next Bottleneck](https://gist.github.com/Rohoe/693e9ca0e97e9a2a936ecd362d61d2c4) | Matthew Smith, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 00:56:37 | 2026-08-08 |
@@ -506,6 +509,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Why the US Dollar Could Continue to Strengthen](https://gist.github.com/Rohoe/06dbeb7d54e291e3f6fca6183d9d789f) | Brian Dunne, Chris Hussey, Disclaimer | Goldman Sachs | 00:10:30 | 2026-07-16 |
+
+### David George (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [David George - Building a16z Growth, Investing Across the AI Stack, and Why Markets Misprice Growth](https://gist.github.com/Rohoe/d9d9493d4d09ee05c382166de827553b) | David George, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 01:05:41 | 2026-08-09 |
 
 ### David Mericle (1)
 
@@ -869,11 +878,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 
 ## By tag
 
-### `ai` (9)
+### `ai` (10)
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Gavin Baker - Nvidia v. Google, Scaling Laws, and the Economics of AI](https://gist.github.com/Rohoe/cf23ee087cfda4db0f1956a064d2a169) | Gavin Baker, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 01:24:13 | 2026-08-09 |
+| [David George - Building a16z Growth, Investing Across the AI Stack, and Why Markets Misprice Growth](https://gist.github.com/Rohoe/d9d9493d4d09ee05c382166de827553b) | David George, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 01:05:41 | 2026-08-09 |
 | [Jack Kokko - Building AlphaSense](https://gist.github.com/Rohoe/89e22bfd8e8f2581d464d3b335e6b4fc) | Jack Kokko, Patrick O'Shaughnessy, Speaker 4 | Patrick O'Shaughnessy | 00:48:30 | 2026-08-08 |
 | [Gaurav Misra & Dwight Churchill - Building Captions](https://gist.github.com/Rohoe/40484f262d7963a56ca98372dc969092) | Dwight Churchill, Gaurav Misra, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 01:04:04 | 2026-08-08 |
 | [Joe Liemandt  - Building Alpha School, and The Future of Education](https://gist.github.com/Rohoe/7b45b0c8bcfbd47517eb84cc2280f5f8) | Joe Liemandt, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 02:26:11 | 2026-08-08 |
@@ -891,6 +901,13 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [SpaceX: Start of the Next Megabubble or End of the Rally?](https://gist.github.com/Rohoe/e4c914cda449da83f7d747e9e7e2c8ab) | Avi, Jonah, Speaker 4, Unknown speaker | 1KX Media | 00:45:41 | 2026-06-18 |
 | [Are Rate Cuts Dead?](https://gist.github.com/Rohoe/0e3f28cfdd394befebf8054ba52a4824) | Speaker 2, Speaker 3 | 1KX Media | 00:53:05 | 2026-06-17 |
 | [Stanford Leadership Forum 2026: Conversation with Ken Griffin](https://gist.github.com/Rohoe/88f0a6365e79158c8686c9a91b490ed5) | Ken Griffin, Amit Saru | Stanford Graduate School of Business | 00:45:41 | 2026-05-17 |
+
+### `investing` (2)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [David George - Building a16z Growth, Investing Across the AI Stack, and Why Markets Misprice Growth](https://gist.github.com/Rohoe/d9d9493d4d09ee05c382166de827553b) | David George, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 01:05:41 | 2026-08-09 |
+| [Jack Kokko - Building AlphaSense](https://gist.github.com/Rohoe/89e22bfd8e8f2581d464d3b335e6b4fc) | Jack Kokko, Patrick O'Shaughnessy, Speaker 4 | Patrick O'Shaughnessy | 00:48:30 | 2026-08-08 |
 
 ### `agi` (1)
 
@@ -994,12 +1011,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [The Inference Revolution: Groq, Nvidia and the Future of AI](https://gist.github.com/Rohoe/ba0a6c2823c40eb1e2ce6d7afbf4b535) | Jonathan Ross | Sohn Conference Foundation | 00:15:58 | 2026-05-18 |
 
-### `investing` (1)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [Jack Kokko - Building AlphaSense](https://gist.github.com/Rohoe/89e22bfd8e8f2581d464d3b335e6b4fc) | Jack Kokko, Patrick O'Shaughnessy, Speaker 4 | Patrick O'Shaughnessy | 00:48:30 | 2026-08-08 |
-
 ### `leadership` (1)
 
 | Title | Speakers | Host | Duration | Added |
@@ -1065,6 +1076,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Wolfgang Hammer - The Power of Story](https://gist.github.com/Rohoe/c0dc4b15c2098b134dda66e9473906c6) | Patrick O'Shaughnessy, Wolfgang Hammer | Patrick O'Shaughnessy | 00:40:53 | 2026-08-08 |
+
+### `venture` (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [David George - Building a16z Growth, Investing Across the AI Stack, and Why Markets Misprice Growth](https://gist.github.com/Rohoe/d9d9493d4d09ee05c382166de827553b) | David George, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 01:05:41 | 2026-08-09 |
 
 ### `video` (1)
 
