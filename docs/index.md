@@ -4,12 +4,13 @@
 
 _Publishable transcripts produced by Transcript-Scribe._
 
-**62 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
+**63 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
 
 ## Latest
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
+| [Ep. 021 - The AI Project Trinity: Capital, Offtake, Data Center (Datacenter, Energy)](https://gist.github.com/Rohoe/6924f509b037e27e6ce8cab6a2549d9f) | Dan Nishball, Jordan Nanos, Kang Wen Cheang, Zane Fong | SemiAnalysis | 00:52:40 | 2026-08-11 |
 | [Wolfgang Hammer - The Power of Story](https://gist.github.com/Rohoe/c0dc4b15c2098b134dda66e9473906c6) | Patrick O'Shaughnessy, Wolfgang Hammer | Patrick O'Shaughnessy | 00:40:53 | 2026-08-09 |
 | [Gavin Baker - Nvidia v. Google, Scaling Laws, and the Economics of AI](https://gist.github.com/Rohoe/cf23ee087cfda4db0f1956a064d2a169) | Gavin Baker, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 01:24:13 | 2026-08-09 |
 | [David George - Building a16z Growth, Investing Across the AI Stack, and Why Markets Misprice Growth](https://gist.github.com/Rohoe/d9d9493d4d09ee05c382166de827553b) | David George, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 01:05:41 | 2026-08-09 |
@@ -254,6 +255,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [What Changed After the U.S.-China Summit?](https://gist.github.com/Rohoe/9d30f0c09509cc735c9032277337adc1) | Disclaimer, Michael Zezas | Morgan Stanley | 00:02:56 | 2026-05-28 |
 
+### SemiAnalysis (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Ep. 021 - The AI Project Trinity: Capital, Offtake, Data Center (Datacenter, Energy)](https://gist.github.com/Rohoe/6924f509b037e27e6ce8cab6a2549d9f) | Dan Nishball, Jordan Nanos, Kang Wen Cheang, Zane Fong | SemiAnalysis | 00:52:40 | 2026-08-11 |
+
 ### Sequoia Capital (1)
 
 | Title | Speakers | Host | Duration | Added |
@@ -416,6 +423,13 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Jeffrey Gundlach on the Fed: Talk Is Cheap | CNBC](https://gist.github.com/Rohoe/8ee28e9d7e2873ea50aa6e18c130a069) | Host, Jeffrey Gundlach, Scott Wapner | DoubleLine Capital | 00:25:50 | 2026-08-02 |
 | [Jeffrey Gundlach and Felix Zulauf: The Second Inning of a Major Shift](https://gist.github.com/Rohoe/6f2ca54226fcd7ebf4cfbc8cef985b88) | Felix Zulauf, Grant Williams, Jeffrey Gundlach, Unknown speaker | DoubleLine Capital | 01:00:56 | 2026-06-26 |
 
+### Jordan Nanos (2)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Ep. 021 - The AI Project Trinity: Capital, Offtake, Data Center (Datacenter, Energy)](https://gist.github.com/Rohoe/6924f509b037e27e6ce8cab6a2549d9f) | Dan Nishball, Jordan Nanos, Kang Wen Cheang, Zane Fong | SemiAnalysis | 00:52:40 | 2026-08-11 |
+| [[Emergency Episode] Moonshot’s Kimi K3 has Arrived! China has a Frontier Model](https://gist.github.com/Rohoe/bc5b4278a36250928be0b3f9eda510e6) | Jordan Nanos, Max | Jordan Nanos, Doug O'Laughlin | 00:31:38 | 2026-07-18 |
+
 ### Ken Griffin (2)
 
 | Title | Speakers | Host | Duration | Added |
@@ -533,6 +547,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Why the US Dollar Could Continue to Strengthen](https://gist.github.com/Rohoe/06dbeb7d54e291e3f6fca6183d9d789f) | Brian Dunne, Chris Hussey, Disclaimer | Goldman Sachs | 00:10:30 | 2026-07-16 |
+
+### Dan Nishball (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Ep. 021 - The AI Project Trinity: Capital, Offtake, Data Center (Datacenter, Energy)](https://gist.github.com/Rohoe/6924f509b037e27e6ce8cab6a2549d9f) | Dan Nishball, Jordan Nanos, Kang Wen Cheang, Zane Fong | SemiAnalysis | 00:52:40 | 2026-08-11 |
 
 ### Dario Amodei (1)
 
@@ -696,12 +716,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [The Inference Revolution: Groq, Nvidia and the Future of AI](https://gist.github.com/Rohoe/ba0a6c2823c40eb1e2ce6d7afbf4b535) | Jonathan Ross | Sohn Conference Foundation | 00:15:58 | 2026-05-18 |
 
-### Jordan Nanos (1)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [[Emergency Episode] Moonshot’s Kimi K3 has Arrived! China has a Frontier Model](https://gist.github.com/Rohoe/bc5b4278a36250928be0b3f9eda510e6) | Jordan Nanos, Max | Jordan Nanos, Doug O'Laughlin | 00:31:38 | 2026-07-18 |
-
 ### Jordi Alexander (1)
 
 | Title | Speakers | Host | Duration | Added |
@@ -713,6 +727,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Brad Gerstner on the market, tech and the flood of mega IPOs](https://gist.github.com/Rohoe/cc4d536a90551ebc656f586930a24665) | Brad Gerstner, CNBC Television, Jim, Josh Brown | CNBC Television | 00:09:24 | 2026-05-29 |
+
+### Kang Wen Cheang (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Ep. 021 - The AI Project Trinity: Capital, Offtake, Data Center (Datacenter, Energy)](https://gist.github.com/Rohoe/6924f509b037e27e6ce8cab6a2549d9f) | Dan Nishball, Jordan Nanos, Kang Wen Cheang, Zane Fong | SemiAnalysis | 00:52:40 | 2026-08-11 |
 
 ### Kevin (1)
 
@@ -923,6 +943,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Wolfgang Hammer - The Power of Story](https://gist.github.com/Rohoe/c0dc4b15c2098b134dda66e9473906c6) | Patrick O'Shaughnessy, Wolfgang Hammer | Patrick O'Shaughnessy | 00:40:53 | 2026-08-09 |
+
+### Zane Fong (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Ep. 021 - The AI Project Trinity: Capital, Offtake, Data Center (Datacenter, Energy)](https://gist.github.com/Rohoe/6924f509b037e27e6ce8cab6a2549d9f) | Dan Nishball, Jordan Nanos, Kang Wen Cheang, Zane Fong | SemiAnalysis | 00:52:40 | 2026-08-11 |
 
 ### Zoltan Szelyes (1)
 
