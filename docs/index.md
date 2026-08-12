@@ -4,12 +4,13 @@
 
 _Publishable transcripts produced by Transcript-Scribe._
 
-**63 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
+**64 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
 
 ## Latest
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
+| [Brookfield's Bruce Flatt discusses NVIDIA strategic partnership on CNBC](https://gist.github.com/Rohoe/028ac823e3a97a5f6c628632d6aaa553) | Bruce Flatt, David Solomon, Host, Jensen Huang, Jim Zelter, John Gray, Larry Fink, Vladimir Zlazak | Brookfield | 00:35:07 | 2026-08-12 |
 | [Ep. 021 - The AI Project Trinity: Capital, Offtake, Data Center (Datacenter, Energy)](https://gist.github.com/Rohoe/6924f509b037e27e6ce8cab6a2549d9f) | Dan Nishball, Jordan Nanos, Kang Wen Cheang, Zane Fong | SemiAnalysis | 00:52:40 | 2026-08-11 |
 | [Wolfgang Hammer - The Power of Story](https://gist.github.com/Rohoe/c0dc4b15c2098b134dda66e9473906c6) | Patrick O'Shaughnessy, Wolfgang Hammer | Patrick O'Shaughnessy | 00:40:53 | 2026-08-09 |
 | [Gavin Baker - Nvidia v. Google, Scaling Laws, and the Economics of AI](https://gist.github.com/Rohoe/cf23ee087cfda4db0f1956a064d2a169) | Gavin Baker, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 01:24:13 | 2026-08-09 |
@@ -200,6 +201,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Brad Setser on the US's Unusual Japanese Yen Intervention](https://gist.github.com/Rohoe/fe615504c76556e3f0c2e1827934dd9d) | Brad Setser, Joe Weisenthal, Tracy Alloway | Bloomberg | 00:47:39 | 2026-08-06 |
+
+### Brookfield (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Brookfield's Bruce Flatt discusses NVIDIA strategic partnership on CNBC](https://gist.github.com/Rohoe/028ac823e3a97a5f6c628632d6aaa553) | Bruce Flatt, David Solomon, Host, Jensen Huang, Jim Zelter, John Gray, Larry Fink, Vladimir Zlazak | Brookfield | 00:35:07 | 2026-08-12 |
 
 ### CNBC Television (1)
 
@@ -409,6 +416,13 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [The View Beyond: China after the AI correction](https://gist.github.com/Rohoe/d627ceb17414d980a0a77a10f0ac1ad9) | Hong Hao, Richard Tang, Speaker 4 | Adventurous Media | 00:18:35 | 2026-07-18 |
 | [The View Beyond: China’s old and new tech divide](https://gist.github.com/Rohoe/2961d7ae9844cca6483b4ced9a3e20b9) | Hong Hao, Richard Tang, Speaker 4 | Adventurous Media | 00:25:13 | 2026-06-20 |
 
+### Host (2)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Brookfield's Bruce Flatt discusses NVIDIA strategic partnership on CNBC](https://gist.github.com/Rohoe/028ac823e3a97a5f6c628632d6aaa553) | Bruce Flatt, David Solomon, Host, Jensen Huang, Jim Zelter, John Gray, Larry Fink, Vladimir Zlazak | Brookfield | 00:35:07 | 2026-08-12 |
+| [Jeffrey Gundlach on the Fed: Talk Is Cheap | CNBC](https://gist.github.com/Rohoe/8ee28e9d7e2873ea50aa6e18c130a069) | Host, Jeffrey Gundlach, Scott Wapner | DoubleLine Capital | 00:25:50 | 2026-08-02 |
+
 ### Jason (2)
 
 | Title | Speakers | Host | Duration | Added |
@@ -524,6 +538,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [Why the US Dollar Could Continue to Strengthen](https://gist.github.com/Rohoe/06dbeb7d54e291e3f6fca6183d9d789f) | Brian Dunne, Chris Hussey, Disclaimer | Goldman Sachs | 00:10:30 | 2026-07-16 |
 
+### Bruce Flatt (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Brookfield's Bruce Flatt discusses NVIDIA strategic partnership on CNBC](https://gist.github.com/Rohoe/028ac823e3a97a5f6c628632d6aaa553) | Bruce Flatt, David Solomon, Host, Jensen Huang, Jim Zelter, John Gray, Larry Fink, Vladimir Zlazak | Brookfield | 00:35:07 | 2026-08-12 |
+
 ### CNBC Television (1)
 
 | Title | Speakers | Host | Duration | Added |
@@ -577,6 +597,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Top-down macro and bottom-up company results are moving markets today](https://gist.github.com/Rohoe/f6a75a166fae040e6317e5739d970583) | Carsten Menke, David Meyer, Mike Grauber, Mike Rauber, Speaker 5 | Adventurous Media | 00:12:20 | 2026-07-18 |
+
+### David Solomon (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Brookfield's Bruce Flatt discusses NVIDIA strategic partnership on CNBC](https://gist.github.com/Rohoe/028ac823e3a97a5f6c628632d6aaa553) | Bruce Flatt, David Solomon, Host, Jensen Huang, Jim Zelter, John Gray, Larry Fink, Vladimir Zlazak | Brookfield | 00:35:07 | 2026-08-12 |
 
 ### Dean Curnutt (1)
 
@@ -656,12 +682,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [July 2026 FOMC Debrief](https://gist.github.com/Rohoe/f46d17bd8938fcbeb85b324400355938) | Guest 1, Joseph Wang, Kevin | Joseph Wang | 00:11:20 | 2026-07-29 |
 
-### Host (1)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [Jeffrey Gundlach on the Fed: Talk Is Cheap | CNBC](https://gist.github.com/Rohoe/8ee28e9d7e2873ea50aa6e18c130a069) | Host, Jeffrey Gundlach, Scott Wapner | DoubleLine Capital | 00:25:50 | 2026-08-02 |
-
 ### Jack Kokko (1)
 
 | Title | Speakers | Host | Duration | Added |
@@ -673,6 +693,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Jeff Dean & Noam Shazeer — 25 years at Google: from PageRank to AGI](https://gist.github.com/Rohoe/9c9bf7825b3c009460804fc7af664217) | Dwarkesh Patel, Jeff Dean, Noam Shazeer | Dwarkesh Patel | 02:15:29 | 2026-05-27 |
+
+### Jensen Huang (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Brookfield's Bruce Flatt discusses NVIDIA strategic partnership on CNBC](https://gist.github.com/Rohoe/028ac823e3a97a5f6c628632d6aaa553) | Bruce Flatt, David Solomon, Host, Jensen Huang, Jim Zelter, John Gray, Larry Fink, Vladimir Zlazak | Brookfield | 00:35:07 | 2026-08-12 |
 
 ### Jeremy Giffon (1)
 
@@ -686,6 +712,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [Brad Gerstner on the market, tech and the flood of mega IPOs](https://gist.github.com/Rohoe/cc4d536a90551ebc656f586930a24665) | Brad Gerstner, CNBC Television, Jim, Josh Brown | CNBC Television | 00:09:24 | 2026-05-29 |
 
+### Jim Zelter (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Brookfield's Bruce Flatt discusses NVIDIA strategic partnership on CNBC](https://gist.github.com/Rohoe/028ac823e3a97a5f6c628632d6aaa553) | Bruce Flatt, David Solomon, Host, Jensen Huang, Jim Zelter, John Gray, Larry Fink, Vladimir Zlazak | Brookfield | 00:35:07 | 2026-08-12 |
+
 ### Joe Liemandt (1)
 
 | Title | Speakers | Host | Duration | Added |
@@ -697,6 +729,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Brad Setser on the US's Unusual Japanese Yen Intervention](https://gist.github.com/Rohoe/fe615504c76556e3f0c2e1827934dd9d) | Brad Setser, Joe Weisenthal, Tracy Alloway | Bloomberg | 00:47:39 | 2026-08-06 |
+
+### John Gray (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Brookfield's Bruce Flatt discusses NVIDIA strategic partnership on CNBC](https://gist.github.com/Rohoe/028ac823e3a97a5f6c628632d6aaa553) | Bruce Flatt, David Solomon, Host, Jensen Huang, Jim Zelter, John Gray, Larry Fink, Vladimir Zlazak | Brookfield | 00:35:07 | 2026-08-12 |
 
 ### John Kim (1)
 
@@ -739,6 +777,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [July 2026 FOMC Debrief](https://gist.github.com/Rohoe/f46d17bd8938fcbeb85b324400355938) | Guest 1, Joseph Wang, Kevin | Joseph Wang | 00:11:20 | 2026-07-29 |
+
+### Larry Fink (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Brookfield's Bruce Flatt discusses NVIDIA strategic partnership on CNBC](https://gist.github.com/Rohoe/028ac823e3a97a5f6c628632d6aaa553) | Bruce Flatt, David Solomon, Host, Jensen Huang, Jim Zelter, John Gray, Larry Fink, Vladimir Zlazak | Brookfield | 00:35:07 | 2026-08-12 |
 
 ### Leon (1)
 
@@ -931,6 +975,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Washington Is Suppressing Volatility To Keep The AI Boom Alive | Weekly Roundup](https://gist.github.com/Rohoe/79711e1934ec849daf56348d1bdab58d) | Felix, Quinn, Tyler | Blockworks | 00:59:54 | 2026-08-07 |
+
+### Vladimir Zlazak (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Brookfield's Bruce Flatt discusses NVIDIA strategic partnership on CNBC](https://gist.github.com/Rohoe/028ac823e3a97a5f6c628632d6aaa553) | Bruce Flatt, David Solomon, Host, Jensen Huang, Jim Zelter, John Gray, Larry Fink, Vladimir Zlazak | Brookfield | 00:35:07 | 2026-08-12 |
 
 ### Vladyslav Grabarskyy (1)
 
