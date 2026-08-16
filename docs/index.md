@@ -4,7 +4,7 @@
 
 _Publishable transcripts produced by Transcript-Scribe._
 
-**67 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
+**68 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
 
 ## Latest
 
@@ -12,6 +12,7 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [Markets Weekly August 15, 2026](https://gist.github.com/Rohoe/f140552fdbf5b64e7e94aa7fb41924bf) | Joseph Wang | Joseph Wang | 00:10:46 | 2026-08-16 |
 | [Louis-Vincent Gave: Inside China's Plan to Kill the Dollar's Dominance](https://gist.github.com/Rohoe/84d1e2d411ec8a873abcd5b49bfa92e6) | Dan Nathan, Louis-Vincent Gave, Peter Boockvar | RiskReversal Media | 01:07:38 | 2026-08-16 |
+| [Mike Wilson's Second-Half Outlook](https://gist.github.com/Rohoe/b6291cf31d74c4499c9c3b10a5b81df1) | Dan Nathan, Guy Adami, Mike Wilson | RiskReversal Media | 01:03:35 | 2026-08-16 |
 | [The View Beyond: Has the AI correction bottomed out?](https://gist.github.com/Rohoe/a988ee073b74deae6d919f59eae5bcef) | Hong Hao, Richard Tang | Adventurous Media | 00:23:34 | 2026-08-15 |
 | [Brookfield's Bruce Flatt discusses NVIDIA strategic partnership on CNBC](https://gist.github.com/Rohoe/028ac823e3a97a5f6c628632d6aaa553) | Bruce Flatt, David Solomon, Host, Jensen Huang, Jim Zelter, John Gray, Larry Fink, Vladimir Zlazak | Brookfield | 00:35:07 | 2026-08-12 |
 | [Ep. 021 - The AI Project Trinity: Capital, Offtake, Data Center (Datacenter, Energy)](https://gist.github.com/Rohoe/6924f509b037e27e6ce8cab6a2549d9f) | Dan Nishball, Jordan Nanos, Kang Wen Cheang, Zane Fong | SemiAnalysis | 00:52:40 | 2026-08-11 |
@@ -176,6 +177,13 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Jeffrey Gundlach on the Fed: Talk Is Cheap | CNBC](https://gist.github.com/Rohoe/8ee28e9d7e2873ea50aa6e18c130a069) | Host, Jeffrey Gundlach, Scott Wapner | DoubleLine Capital | 00:25:50 | 2026-08-02 |
 | [Jeffrey Gundlach and Felix Zulauf: The Second Inning of a Major Shift](https://gist.github.com/Rohoe/6f2ca54226fcd7ebf4cfbc8cef985b88) | Felix Zulauf, Grant Williams, Jeffrey Gundlach, Unknown speaker | DoubleLine Capital | 01:00:56 | 2026-06-26 |
 
+### RiskReversal Media (2)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Louis-Vincent Gave: Inside China's Plan to Kill the Dollar's Dominance](https://gist.github.com/Rohoe/84d1e2d411ec8a873abcd5b49bfa92e6) | Dan Nathan, Louis-Vincent Gave, Peter Boockvar | RiskReversal Media | 01:07:38 | 2026-08-16 |
+| [Mike Wilson's Second-Half Outlook](https://gist.github.com/Rohoe/b6291cf31d74c4499c9c3b10a5b81df1) | Dan Nathan, Guy Adami, Mike Wilson | RiskReversal Media | 01:03:35 | 2026-08-16 |
+
 ### Sohn Conference Foundation (2)
 
 | Title | Speakers | Host | Duration | Added |
@@ -266,12 +274,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [What Changed After the U.S.-China Summit?](https://gist.github.com/Rohoe/9d30f0c09509cc735c9032277337adc1) | Disclaimer, Michael Zezas | Morgan Stanley | 00:02:56 | 2026-05-28 |
-
-### RiskReversal Media (1)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [Louis-Vincent Gave: Inside China's Plan to Kill the Dollar's Dominance](https://gist.github.com/Rohoe/84d1e2d411ec8a873abcd5b49bfa92e6) | Dan Nathan, Louis-Vincent Gave, Peter Boockvar | RiskReversal Media | 01:07:38 | 2026-08-16 |
 
 ### SemiAnalysis (1)
 
@@ -415,6 +417,13 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [Ex-Palantir Analyst On The Inner Workings Of Intelligence & Markets In A World Of Socialism](https://gist.github.com/Rohoe/e7dbf7ff61c3a8bcab8771fc959deb29) | Alex Good, Avi, Avi Felman | 1000x | 00:49:02 | 2026-07-29 |
 | [From Poker Pro To Trading Giant: Inside The Mind of Selini Capital](https://gist.github.com/Rohoe/af95a67a9f3618a532764614dc29fc11) | Avi Felman, Jordi Alexander, Speaker 3 | 1000x | 00:30:40 | 2026-07-16 |
+
+### Dan Nathan (2)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Louis-Vincent Gave: Inside China's Plan to Kill the Dollar's Dominance](https://gist.github.com/Rohoe/84d1e2d411ec8a873abcd5b49bfa92e6) | Dan Nathan, Louis-Vincent Gave, Peter Boockvar | RiskReversal Media | 01:07:38 | 2026-08-16 |
+| [Mike Wilson's Second-Half Outlook](https://gist.github.com/Rohoe/b6291cf31d74c4499c9c3b10a5b81df1) | Dan Nathan, Guy Adami, Mike Wilson | RiskReversal Media | 01:03:35 | 2026-08-16 |
 
 ### Disclaimer (2)
 
@@ -582,12 +591,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [Why the US Dollar Could Continue to Strengthen](https://gist.github.com/Rohoe/06dbeb7d54e291e3f6fca6183d9d789f) | Brian Dunne, Chris Hussey, Disclaimer | Goldman Sachs | 00:10:30 | 2026-07-16 |
 
-### Dan Nathan (1)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [Louis-Vincent Gave: Inside China's Plan to Kill the Dollar's Dominance](https://gist.github.com/Rohoe/84d1e2d411ec8a873abcd5b49bfa92e6) | Dan Nathan, Louis-Vincent Gave, Peter Boockvar | RiskReversal Media | 01:07:38 | 2026-08-16 |
-
 ### Dan Nishball (1)
 
 | Title | Speakers | Host | Duration | Added |
@@ -701,6 +704,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [July 2026 FOMC Debrief](https://gist.github.com/Rohoe/f46d17bd8938fcbeb85b324400355938) | Guest 1, Joseph Wang, Kevin | Joseph Wang | 00:11:20 | 2026-07-29 |
+
+### Guy Adami (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Mike Wilson's Second-Half Outlook](https://gist.github.com/Rohoe/b6291cf31d74c4499c9c3b10a5b81df1) | Dan Nathan, Guy Adami, Mike Wilson | RiskReversal Media | 01:03:35 | 2026-08-16 |
 
 ### Jack Kokko (1)
 
@@ -887,6 +896,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Top-down macro and bottom-up company results are moving markets today](https://gist.github.com/Rohoe/f6a75a166fae040e6317e5739d970583) | Carsten Menke, David Meyer, Mike Grauber, Mike Rauber, Speaker 5 | Adventurous Media | 00:12:20 | 2026-07-18 |
+
+### Mike Wilson (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Mike Wilson's Second-Half Outlook](https://gist.github.com/Rohoe/b6291cf31d74c4499c9c3b10a5b81df1) | Dan Nathan, Guy Adami, Mike Wilson | RiskReversal Media | 01:03:35 | 2026-08-16 |
 
 ### Noam Shazeer (1)
 
