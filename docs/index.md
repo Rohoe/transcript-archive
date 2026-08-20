@@ -4,12 +4,13 @@
 
 _Publishable transcripts produced by Transcript-Scribe._
 
-**69 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
+**70 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
 
 ## Latest
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
+| [Treasury-Led Financial Repression Is Ushering In A Debasement Regime | Weekly Roundup](https://gist.github.com/Rohoe/fcafaa53688bc7abbd63eac27d3e2e80) | Felix, Quinn | Forward Guidance | 00:53:42 | 2026-08-20 |
 | [FSD: My Visit to Anthropic & The State of VC](https://gist.github.com/Rohoe/e76b69a297e1c1a70e2f25be5ca2b008) | Ram Ahluwalia | Lumida Wealth | 00:10:55 | 2026-08-19 |
 | [Markets Weekly August 15, 2026](https://gist.github.com/Rohoe/f140552fdbf5b64e7e94aa7fb41924bf) | Joseph Wang | Joseph Wang | 00:10:46 | 2026-08-16 |
 | [Louis-Vincent Gave: Inside China's Plan to Kill the Dollar's Dominance](https://gist.github.com/Rohoe/84d1e2d411ec8a873abcd5b49bfa92e6) | Dan Nathan, Louis-Vincent Gave, Peter Boockvar | RiskReversal Media | 01:07:38 | 2026-08-16 |
@@ -178,6 +179,13 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Jeffrey Gundlach on the Fed: Talk Is Cheap | CNBC](https://gist.github.com/Rohoe/8ee28e9d7e2873ea50aa6e18c130a069) | Host, Jeffrey Gundlach, Scott Wapner | DoubleLine Capital | 00:25:50 | 2026-08-02 |
 | [Jeffrey Gundlach and Felix Zulauf: The Second Inning of a Major Shift](https://gist.github.com/Rohoe/6f2ca54226fcd7ebf4cfbc8cef985b88) | Felix Zulauf, Grant Williams, Jeffrey Gundlach, Unknown speaker | DoubleLine Capital | 01:00:56 | 2026-06-26 |
 
+### Forward Guidance (2)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Treasury-Led Financial Repression Is Ushering In A Debasement Regime | Weekly Roundup](https://gist.github.com/Rohoe/fcafaa53688bc7abbd63eac27d3e2e80) | Felix, Quinn | Forward Guidance | 00:53:42 | 2026-08-20 |
+| [The AI Trade Is Finally Cracking | Weekly Roundup](https://gist.github.com/Rohoe/13803295d59858dc83dc4c0cb3634dd4) | Felix, Quinn | Forward Guidance | 00:46:33 | 2026-07-03 |
+
 ### Lumida Wealth (2)
 
 | Title | Speakers | Host | Duration | Added |
@@ -252,12 +260,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Alec Litowitz, Founder of Magnetar Capital and QStar Capital](https://gist.github.com/Rohoe/c851f8f8c3db2d2d6cf6732a1e6aa9e1) | Alec Litowitz, Dean Curnutt, Speaker 4 | Dean Curnutt | 01:10:29 | 2026-08-04 |
-
-### Forward Guidance (1)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [The AI Trade Is Finally Cracking | Weekly Roundup](https://gist.github.com/Rohoe/13803295d59858dc83dc4c0cb3634dd4) | Felix, Quinn | Forward Guidance | 00:46:33 | 2026-07-03 |
 
 ### Jordan Nanos, Doug O'Laughlin (1)
 
@@ -389,6 +391,14 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding](https://gist.github.com/Rohoe/e5eb6098fcc21575e3c359bfe5c58ea9) | Anton Osika, Jason, Pat Gelsinger, Speaker 3, Speaker 6 | All-In Podcast | 00:49:24 | 2026-07-16 |
 | [Are Rate Cuts Dead?](https://gist.github.com/Rohoe/0e3f28cfdd394befebf8054ba52a4824) | Speaker 2, Speaker 3 | 1KX Media | 00:53:05 | 2026-06-17 |
 
+### Felix (3)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Treasury-Led Financial Repression Is Ushering In A Debasement Regime | Weekly Roundup](https://gist.github.com/Rohoe/fcafaa53688bc7abbd63eac27d3e2e80) | Felix, Quinn | Forward Guidance | 00:53:42 | 2026-08-20 |
+| [Washington Is Suppressing Volatility To Keep The AI Boom Alive | Weekly Roundup](https://gist.github.com/Rohoe/79711e1934ec849daf56348d1bdab58d) | Felix, Quinn, Tyler | Blockworks | 00:59:54 | 2026-08-07 |
+| [The AI Trade Is Finally Cracking | Weekly Roundup](https://gist.github.com/Rohoe/13803295d59858dc83dc4c0cb3634dd4) | Felix, Quinn | Forward Guidance | 00:46:33 | 2026-07-03 |
+
 ### Hong Hao (3)
 
 | Title | Speakers | Host | Duration | Added |
@@ -396,6 +406,14 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [The View Beyond: Has the AI correction bottomed out?](https://gist.github.com/Rohoe/a988ee073b74deae6d919f59eae5bcef) | Hong Hao, Richard Tang | Adventurous Media | 00:23:34 | 2026-08-15 |
 | [The View Beyond: China after the AI correction](https://gist.github.com/Rohoe/d627ceb17414d980a0a77a10f0ac1ad9) | Hong Hao, Richard Tang, Speaker 4 | Adventurous Media | 00:18:35 | 2026-07-18 |
 | [The View Beyond: China’s old and new tech divide](https://gist.github.com/Rohoe/2961d7ae9844cca6483b4ced9a3e20b9) | Hong Hao, Richard Tang, Speaker 4 | Adventurous Media | 00:25:13 | 2026-06-20 |
+
+### Quinn (3)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Treasury-Led Financial Repression Is Ushering In A Debasement Regime | Weekly Roundup](https://gist.github.com/Rohoe/fcafaa53688bc7abbd63eac27d3e2e80) | Felix, Quinn | Forward Guidance | 00:53:42 | 2026-08-20 |
+| [Washington Is Suppressing Volatility To Keep The AI Boom Alive | Weekly Roundup](https://gist.github.com/Rohoe/79711e1934ec849daf56348d1bdab58d) | Felix, Quinn, Tyler | Blockworks | 00:59:54 | 2026-08-07 |
+| [The AI Trade Is Finally Cracking | Weekly Roundup](https://gist.github.com/Rohoe/13803295d59858dc83dc4c0cb3634dd4) | Felix, Quinn | Forward Guidance | 00:46:33 | 2026-07-03 |
 
 ### Richard Tang (3)
 
@@ -433,13 +451,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [Why the US Dollar Could Continue to Strengthen](https://gist.github.com/Rohoe/06dbeb7d54e291e3f6fca6183d9d789f) | Brian Dunne, Chris Hussey, Disclaimer | Goldman Sachs | 00:10:30 | 2026-07-16 |
 | [What Changed After the U.S.-China Summit?](https://gist.github.com/Rohoe/9d30f0c09509cc735c9032277337adc1) | Disclaimer, Michael Zezas | Morgan Stanley | 00:02:56 | 2026-05-28 |
-
-### Felix (2)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [Washington Is Suppressing Volatility To Keep The AI Boom Alive | Weekly Roundup](https://gist.github.com/Rohoe/79711e1934ec849daf56348d1bdab58d) | Felix, Quinn, Tyler | Blockworks | 00:59:54 | 2026-08-07 |
-| [The AI Trade Is Finally Cracking | Weekly Roundup](https://gist.github.com/Rohoe/13803295d59858dc83dc4c0cb3634dd4) | Felix, Quinn | Forward Guidance | 00:46:33 | 2026-07-03 |
 
 ### Gavin Baker (2)
 
@@ -482,13 +493,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [Citadel's Ken Griffin on AI, US-China Tensions, and US Data Centers](https://gist.github.com/Rohoe/1be5ecce37e79aee98cc7866b336a053) | Ken Griffin, Raj Mahajan, Speaker 4 | Goldman Sachs | 00:31:22 | 2026-07-14 |
 | [Stanford Leadership Forum 2026: Conversation with Ken Griffin](https://gist.github.com/Rohoe/88f0a6365e79158c8686c9a91b490ed5) | Ken Griffin, Amit Saru | Stanford Graduate School of Business | 00:45:41 | 2026-05-17 |
-
-### Quinn (2)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [Washington Is Suppressing Volatility To Keep The AI Boom Alive | Weekly Roundup](https://gist.github.com/Rohoe/79711e1934ec849daf56348d1bdab58d) | Felix, Quinn, Tyler | Blockworks | 00:59:54 | 2026-08-07 |
-| [The AI Trade Is Finally Cracking | Weekly Roundup](https://gist.github.com/Rohoe/13803295d59858dc83dc4c0cb3634dd4) | Felix, Quinn | Forward Guidance | 00:46:33 | 2026-07-03 |
 
 ### UNKNOWN (2)
 
