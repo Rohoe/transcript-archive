@@ -4,12 +4,13 @@
 
 _Publishable transcripts produced by Transcript-Scribe._
 
-**68 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
+**69 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
 
 ## Latest
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
+| [FSD: My Visit to Anthropic & The State of VC](https://gist.github.com/Rohoe/e76b69a297e1c1a70e2f25be5ca2b008) | Ram Ahluwalia | Lumida Wealth | 00:10:55 | 2026-08-19 |
 | [Markets Weekly August 15, 2026](https://gist.github.com/Rohoe/f140552fdbf5b64e7e94aa7fb41924bf) | Joseph Wang | Joseph Wang | 00:10:46 | 2026-08-16 |
 | [Louis-Vincent Gave: Inside China's Plan to Kill the Dollar's Dominance](https://gist.github.com/Rohoe/84d1e2d411ec8a873abcd5b49bfa92e6) | Dan Nathan, Louis-Vincent Gave, Peter Boockvar | RiskReversal Media | 01:07:38 | 2026-08-16 |
 | [Mike Wilson's Second-Half Outlook](https://gist.github.com/Rohoe/b6291cf31d74c4499c9c3b10a5b81df1) | Dan Nathan, Guy Adami, Mike Wilson | RiskReversal Media | 01:03:35 | 2026-08-16 |
@@ -177,6 +178,13 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Jeffrey Gundlach on the Fed: Talk Is Cheap | CNBC](https://gist.github.com/Rohoe/8ee28e9d7e2873ea50aa6e18c130a069) | Host, Jeffrey Gundlach, Scott Wapner | DoubleLine Capital | 00:25:50 | 2026-08-02 |
 | [Jeffrey Gundlach and Felix Zulauf: The Second Inning of a Major Shift](https://gist.github.com/Rohoe/6f2ca54226fcd7ebf4cfbc8cef985b88) | Felix Zulauf, Grant Williams, Jeffrey Gundlach, Unknown speaker | DoubleLine Capital | 01:00:56 | 2026-06-26 |
 
+### Lumida Wealth (2)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [FSD: My Visit to Anthropic & The State of VC](https://gist.github.com/Rohoe/e76b69a297e1c1a70e2f25be5ca2b008) | Ram Ahluwalia | Lumida Wealth | 00:10:55 | 2026-08-19 |
+| [Life and Death in the Payments Sector](https://gist.github.com/Rohoe/260a13b35e50ea1793bace38f8b560ea) | Alex Wilson, Rob, UNKNOWN | Lumida Wealth | 01:01:00 | 2026-05-28 |
+
 ### RiskReversal Media (2)
 
 | Title | Speakers | Host | Duration | Added |
@@ -256,12 +264,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [[Emergency Episode] Moonshot’s Kimi K3 has Arrived! China has a Frontier Model](https://gist.github.com/Rohoe/bc5b4278a36250928be0b3f9eda510e6) | Jordan Nanos, Max | Jordan Nanos, Doug O'Laughlin | 00:31:38 | 2026-07-18 |
-
-### Lumida Wealth (1)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [Life and Death in the Payments Sector](https://gist.github.com/Rohoe/260a13b35e50ea1793bace38f8b560ea) | Alex Wilson, Rob, UNKNOWN | Lumida Wealth | 01:01:00 | 2026-05-28 |
 
 ### Macronomics (1)
 
@@ -926,6 +928,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Citadel's Ken Griffin on AI, US-China Tensions, and US Data Centers](https://gist.github.com/Rohoe/1be5ecce37e79aee98cc7866b336a053) | Ken Griffin, Raj Mahajan, Speaker 4 | Goldman Sachs | 00:31:22 | 2026-07-14 |
+
+### Ram Ahluwalia (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [FSD: My Visit to Anthropic & The State of VC](https://gist.github.com/Rohoe/e76b69a297e1c1a70e2f25be5ca2b008) | Ram Ahluwalia | Lumida Wealth | 00:10:55 | 2026-08-19 |
 
 ### Rob (1)
 
