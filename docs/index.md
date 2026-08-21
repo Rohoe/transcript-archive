@@ -4,12 +4,13 @@
 
 _Publishable transcripts produced by Transcript-Scribe._
 
-**70 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
+**71 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
 
 ## Latest
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
+| [Treasury Props the Long End, Credit Funds the Boom, the Fed Gets the Bill](https://gist.github.com/Rohoe/3cf23acfcc4fd1c1b85272666b7443e6) | Harry, Howard Mason, Jeff DeGraff, Neil Dutta, Steve Duttonhoffer | RenMac | 00:49:35 | 2026-08-21 |
 | [Treasury-Led Financial Repression Is Ushering In A Debasement Regime | Weekly Roundup](https://gist.github.com/Rohoe/fcafaa53688bc7abbd63eac27d3e2e80) | Felix, Quinn | Forward Guidance | 00:53:42 | 2026-08-20 |
 | [FSD: My Visit to Anthropic & The State of VC](https://gist.github.com/Rohoe/e76b69a297e1c1a70e2f25be5ca2b008) | Ram Ahluwalia | Lumida Wealth | 00:10:55 | 2026-08-19 |
 | [Markets Weekly August 15, 2026](https://gist.github.com/Rohoe/f140552fdbf5b64e7e94aa7fb41924bf) | Joseph Wang | Joseph Wang | 00:10:46 | 2026-08-16 |
@@ -278,6 +279,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [What Changed After the U.S.-China Summit?](https://gist.github.com/Rohoe/9d30f0c09509cc735c9032277337adc1) | Disclaimer, Michael Zezas | Morgan Stanley | 00:02:56 | 2026-05-28 |
+
+### RenMac (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Treasury Props the Long End, Credit Funds the Boom, the Fed Gets the Bill](https://gist.github.com/Rohoe/3cf23acfcc4fd1c1b85272666b7443e6) | Harry, Howard Mason, Jeff DeGraff, Neil Dutta, Steve Duttonhoffer | RenMac | 00:49:35 | 2026-08-21 |
 
 ### SemiAnalysis (1)
 
@@ -717,11 +724,29 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [Mike Wilson's Second-Half Outlook](https://gist.github.com/Rohoe/b6291cf31d74c4499c9c3b10a5b81df1) | Dan Nathan, Guy Adami, Mike Wilson | RiskReversal Media | 01:03:35 | 2026-08-16 |
 
+### Harry (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Treasury Props the Long End, Credit Funds the Boom, the Fed Gets the Bill](https://gist.github.com/Rohoe/3cf23acfcc4fd1c1b85272666b7443e6) | Harry, Howard Mason, Jeff DeGraff, Neil Dutta, Steve Duttonhoffer | RenMac | 00:49:35 | 2026-08-21 |
+
+### Howard Mason (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Treasury Props the Long End, Credit Funds the Boom, the Fed Gets the Bill](https://gist.github.com/Rohoe/3cf23acfcc4fd1c1b85272666b7443e6) | Harry, Howard Mason, Jeff DeGraff, Neil Dutta, Steve Duttonhoffer | RenMac | 00:49:35 | 2026-08-21 |
+
 ### Jack Kokko (1)
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Jack Kokko - Building AlphaSense](https://gist.github.com/Rohoe/89e22bfd8e8f2581d464d3b335e6b4fc) | Jack Kokko, Patrick O'Shaughnessy, Speaker 4 | Patrick O'Shaughnessy | 00:48:30 | 2026-08-08 |
+
+### Jeff DeGraff (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Treasury Props the Long End, Credit Funds the Boom, the Fed Gets the Bill](https://gist.github.com/Rohoe/3cf23acfcc4fd1c1b85272666b7443e6) | Harry, Howard Mason, Jeff DeGraff, Neil Dutta, Steve Duttonhoffer | RenMac | 00:49:35 | 2026-08-21 |
 
 ### Jeff Dean (1)
 
@@ -909,6 +934,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [Mike Wilson's Second-Half Outlook](https://gist.github.com/Rohoe/b6291cf31d74c4499c9c3b10a5b81df1) | Dan Nathan, Guy Adami, Mike Wilson | RiskReversal Media | 01:03:35 | 2026-08-16 |
 
+### Neil Dutta (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Treasury Props the Long End, Credit Funds the Boom, the Fed Gets the Bill](https://gist.github.com/Rohoe/3cf23acfcc4fd1c1b85272666b7443e6) | Harry, Howard Mason, Jeff DeGraff, Neil Dutta, Steve Duttonhoffer | RenMac | 00:49:35 | 2026-08-21 |
+
 ### Noam Shazeer (1)
 
 | Title | Speakers | Host | Duration | Added |
@@ -1010,6 +1041,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding](https://gist.github.com/Rohoe/e5eb6098fcc21575e3c359bfe5c58ea9) | Anton Osika, Jason, Pat Gelsinger, Speaker 3, Speaker 6 | All-In Podcast | 00:49:24 | 2026-07-16 |
+
+### Steve Duttonhoffer (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Treasury Props the Long End, Credit Funds the Boom, the Fed Gets the Bill](https://gist.github.com/Rohoe/3cf23acfcc4fd1c1b85272666b7443e6) | Harry, Howard Mason, Jeff DeGraff, Neil Dutta, Steve Duttonhoffer | RenMac | 00:49:35 | 2026-08-21 |
 
 ### Terence Tao (1)
 
