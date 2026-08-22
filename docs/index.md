@@ -4,13 +4,14 @@
 
 _Publishable transcripts produced by Transcript-Scribe._
 
-**71 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
+**72 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
 
 ## Latest
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Treasury Props the Long End, Credit Funds the Boom, the Fed Gets the Bill](https://gist.github.com/Rohoe/3cf23acfcc4fd1c1b85272666b7443e6) | Harry, Howard Mason, Jeff DeGraff, Neil Dutta, Steve Duttonhoffer | RenMac | 00:49:35 | 2026-08-21 |
+| [Arthur Hayes Bets Crypto Wins When the AI Bubble Bursts](https://gist.github.com/Rohoe/ca9e55422313f8120725a0b67690b1d1) | Arthur Hayes, Laura Shin | Unchained | 00:53:40 | 2026-08-21 |
 | [Treasury-Led Financial Repression Is Ushering In A Debasement Regime | Weekly Roundup](https://gist.github.com/Rohoe/fcafaa53688bc7abbd63eac27d3e2e80) | Felix, Quinn | Forward Guidance | 00:53:42 | 2026-08-20 |
 | [FSD: My Visit to Anthropic & The State of VC](https://gist.github.com/Rohoe/e76b69a297e1c1a70e2f25be5ca2b008) | Ram Ahluwalia | Lumida Wealth | 00:10:55 | 2026-08-19 |
 | [Markets Weekly August 15, 2026](https://gist.github.com/Rohoe/f140552fdbf5b64e7e94aa7fb41924bf) | Joseph Wang | Joseph Wang | 00:10:46 | 2026-08-16 |
@@ -304,6 +305,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [Stanford Leadership Forum 2026: Conversation with Ken Griffin](https://gist.github.com/Rohoe/88f0a6365e79158c8686c9a91b490ed5) | Ken Griffin, Amit Saru | Stanford Graduate School of Business | 00:45:41 | 2026-05-17 |
 
+### Unchained (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Arthur Hayes Bets Crypto Wins When the AI Bubble Bursts](https://gist.github.com/Rohoe/ca9e55422313f8120725a0b67690b1d1) | Arthur Hayes, Laura Shin | Unchained | 00:53:40 | 2026-08-21 |
+
 ### Wealth Building Blueprint – Vladyslav Grabarskyy (1)
 
 | Title | Speakers | Host | Duration | Added |
@@ -555,6 +562,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding](https://gist.github.com/Rohoe/e5eb6098fcc21575e3c359bfe5c58ea9) | Anton Osika, Jason, Pat Gelsinger, Speaker 3, Speaker 6 | All-In Podcast | 00:49:24 | 2026-07-16 |
+
+### Arthur Hayes (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Arthur Hayes Bets Crypto Wins When the AI Bubble Bursts](https://gist.github.com/Rohoe/ca9e55422313f8120725a0b67690b1d1) | Arthur Hayes, Laura Shin | Unchained | 00:53:40 | 2026-08-21 |
 
 ### Brad Gerstner (1)
 
@@ -843,6 +856,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Brookfield's Bruce Flatt discusses NVIDIA strategic partnership on CNBC](https://gist.github.com/Rohoe/028ac823e3a97a5f6c628632d6aaa553) | Bruce Flatt, David Solomon, Host, Jensen Huang, Jim Zelter, John Gray, Larry Fink, Vladimir Zlazak | Brookfield | 00:35:07 | 2026-08-12 |
+
+### Laura Shin (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Arthur Hayes Bets Crypto Wins When the AI Bubble Bursts](https://gist.github.com/Rohoe/ca9e55422313f8120725a0b67690b1d1) | Arthur Hayes, Laura Shin | Unchained | 00:53:40 | 2026-08-21 |
 
 ### Leon (1)
 
