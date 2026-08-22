@@ -4,7 +4,7 @@
 
 _Publishable transcripts produced by Transcript-Scribe._
 
-**74 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
+**75 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
 
 ## Latest
 
@@ -12,6 +12,7 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [Coinbase CEO Brian Armstrong: We may be on the cusp of the next bull market for crypto spot trading](https://gist.github.com/Rohoe/7bec610e63426ebdc23e6dbfdb9cb682) | Brian Armstrong, CNBC Television | CNBC Television | 00:07:53 | 2026-08-22 |
 | [Robinhood CEO Vlad Tenev: Tokenization will take over the entire financial system](https://gist.github.com/Rohoe/593aa22f34038c2b7738ed19c5988948) | CNBC Television, Vlad Tenev | CNBC Television | 00:07:02 | 2026-08-22 |
+| [Markets Weekly August 22, 2026](https://gist.github.com/Rohoe/13878cdee9176ef5aba6ada07ef676c8) | Joseph Wang, Speaker 3 | Joseph Wang | 00:16:53 | 2026-08-22 |
 | [Treasury Props the Long End, Credit Funds the Boom, the Fed Gets the Bill](https://gist.github.com/Rohoe/3cf23acfcc4fd1c1b85272666b7443e6) | Harry, Howard Mason, Jeff DeGraff, Neil Dutta, Steve Duttonhoffer | RenMac | 00:49:35 | 2026-08-21 |
 | [Arthur Hayes Bets Crypto Wins When the AI Bubble Bursts](https://gist.github.com/Rohoe/ca9e55422313f8120725a0b67690b1d1) | Arthur Hayes, Laura Shin | Unchained | 00:53:40 | 2026-08-21 |
 | [Treasury-Led Financial Repression Is Ushering In A Debasement Regime | Weekly Roundup](https://gist.github.com/Rohoe/fcafaa53688bc7abbd63eac27d3e2e80) | Felix, Quinn | Forward Guidance | 00:53:42 | 2026-08-20 |
@@ -116,10 +117,11 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Mark Zuckerberg — AI will write most Meta code in 18 months](https://gist.github.com/Rohoe/e827d3f8172ad97c926861c1ff3d46a2) | Dwarkesh Patel, Mark Zuckerberg | Dwarkesh Patel | 01:15:48 | 2026-05-29 |
 | [Jeff Dean & Noam Shazeer — 25 years at Google: from PageRank to AGI](https://gist.github.com/Rohoe/9c9bf7825b3c009460804fc7af664217) | Dwarkesh Patel, Jeff Dean, Noam Shazeer | Dwarkesh Patel | 02:15:29 | 2026-05-27 |
 
-### Joseph Wang (6)
+### Joseph Wang (7)
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
+| [Markets Weekly August 22, 2026](https://gist.github.com/Rohoe/13878cdee9176ef5aba6ada07ef676c8) | Joseph Wang, Speaker 3 | Joseph Wang | 00:16:53 | 2026-08-22 |
 | [Markets Weekly August 15, 2026](https://gist.github.com/Rohoe/f140552fdbf5b64e7e94aa7fb41924bf) | Joseph Wang | Joseph Wang | 00:10:46 | 2026-08-16 |
 | [Markets Weekly August 8, 2026](https://gist.github.com/Rohoe/5cee2c29d6eef7ef9b549d285f537c9c) | Joseph Wang | Joseph Wang | 00:21:23 | 2026-08-08 |
 | [Markets Weekly August 1, 2026](https://gist.github.com/Rohoe/1c9f4db9f659ecb298ecc2f5a8f379ae) | Joseph Wang | Joseph Wang | 00:20:05 | 2026-08-01 |
@@ -366,6 +368,18 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Mark Zuckerberg — AI will write most Meta code in 18 months](https://gist.github.com/Rohoe/e827d3f8172ad97c926861c1ff3d46a2) | Dwarkesh Patel, Mark Zuckerberg | Dwarkesh Patel | 01:15:48 | 2026-05-29 |
 | [Jeff Dean & Noam Shazeer — 25 years at Google: from PageRank to AGI](https://gist.github.com/Rohoe/9c9bf7825b3c009460804fc7af664217) | Dwarkesh Patel, Jeff Dean, Noam Shazeer | Dwarkesh Patel | 02:15:29 | 2026-05-27 |
 
+### Joseph Wang (7)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Markets Weekly August 22, 2026](https://gist.github.com/Rohoe/13878cdee9176ef5aba6ada07ef676c8) | Joseph Wang, Speaker 3 | Joseph Wang | 00:16:53 | 2026-08-22 |
+| [Markets Weekly August 15, 2026](https://gist.github.com/Rohoe/f140552fdbf5b64e7e94aa7fb41924bf) | Joseph Wang | Joseph Wang | 00:10:46 | 2026-08-16 |
+| [Markets Weekly August 8, 2026](https://gist.github.com/Rohoe/5cee2c29d6eef7ef9b549d285f537c9c) | Joseph Wang | Joseph Wang | 00:21:23 | 2026-08-08 |
+| [Markets Weekly August 1, 2026](https://gist.github.com/Rohoe/1c9f4db9f659ecb298ecc2f5a8f379ae) | Joseph Wang | Joseph Wang | 00:20:05 | 2026-08-01 |
+| [July 2026 FOMC Debrief](https://gist.github.com/Rohoe/f46d17bd8938fcbeb85b324400355938) | Guest 1, Joseph Wang, Kevin | Joseph Wang | 00:11:20 | 2026-07-29 |
+| [Markets Weekly July 18, 2026](https://gist.github.com/Rohoe/bd11ad150c2ba22227106a39143ae47a) | Joseph Wang, Speaker 3 | Joseph Wang | 00:17:33 | 2026-07-18 |
+| [Markets Weekly June 27, 2026](https://gist.github.com/Rohoe/a36fe55d37ad373ee2fd945b72f18b89) | Joseph Wang | Joseph Wang | 00:25:04 | 2026-06-27 |
+
 ### Speaker 4 (7)
 
 | Title | Speakers | Host | Duration | Added |
@@ -389,21 +403,11 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [SpaceX: Start of the Next Megabubble or End of the Rally?](https://gist.github.com/Rohoe/e4c914cda449da83f7d747e9e7e2c8ab) | Avi, Jonah, Speaker 4, Unknown speaker | 1KX Media | 00:45:41 | 2026-06-18 |
 | [Sticky Inflation + Energy Prices: End of the Rally or Pause?](https://gist.github.com/Rohoe/8400f8a352e356ce1544555082c529fb) | Avi, Jonah | 1000x Podcast | 00:53:32 | 2026-05-24 |
 
-### Joseph Wang (6)
+### Speaker 3 (5)
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
-| [Markets Weekly August 15, 2026](https://gist.github.com/Rohoe/f140552fdbf5b64e7e94aa7fb41924bf) | Joseph Wang | Joseph Wang | 00:10:46 | 2026-08-16 |
-| [Markets Weekly August 8, 2026](https://gist.github.com/Rohoe/5cee2c29d6eef7ef9b549d285f537c9c) | Joseph Wang | Joseph Wang | 00:21:23 | 2026-08-08 |
-| [Markets Weekly August 1, 2026](https://gist.github.com/Rohoe/1c9f4db9f659ecb298ecc2f5a8f379ae) | Joseph Wang | Joseph Wang | 00:20:05 | 2026-08-01 |
-| [July 2026 FOMC Debrief](https://gist.github.com/Rohoe/f46d17bd8938fcbeb85b324400355938) | Guest 1, Joseph Wang, Kevin | Joseph Wang | 00:11:20 | 2026-07-29 |
-| [Markets Weekly July 18, 2026](https://gist.github.com/Rohoe/bd11ad150c2ba22227106a39143ae47a) | Joseph Wang, Speaker 3 | Joseph Wang | 00:17:33 | 2026-07-18 |
-| [Markets Weekly June 27, 2026](https://gist.github.com/Rohoe/a36fe55d37ad373ee2fd945b72f18b89) | Joseph Wang | Joseph Wang | 00:25:04 | 2026-06-27 |
-
-### Speaker 3 (4)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
+| [Markets Weekly August 22, 2026](https://gist.github.com/Rohoe/13878cdee9176ef5aba6ada07ef676c8) | Joseph Wang, Speaker 3 | Joseph Wang | 00:16:53 | 2026-08-22 |
 | [Markets Weekly July 18, 2026](https://gist.github.com/Rohoe/bd11ad150c2ba22227106a39143ae47a) | Joseph Wang, Speaker 3 | Joseph Wang | 00:17:33 | 2026-07-18 |
 | [From Poker Pro To Trading Giant: Inside The Mind of Selini Capital](https://gist.github.com/Rohoe/af95a67a9f3618a532764614dc29fc11) | Avi Felman, Jordi Alexander, Speaker 3 | 1000x | 00:30:40 | 2026-07-16 |
 | [Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding](https://gist.github.com/Rohoe/e5eb6098fcc21575e3c359bfe5c58ea9) | Anton Osika, Jason, Pat Gelsinger, Speaker 3, Speaker 6 | All-In Podcast | 00:49:24 | 2026-07-16 |
