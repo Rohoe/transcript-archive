@@ -4,12 +4,13 @@
 
 _Publishable transcripts produced by Transcript-Scribe._
 
-**72 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
+**73 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
 
 ## Latest
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
+| [Coinbase CEO Brian Armstrong: We may be on the cusp of the next bull market for crypto spot trading](https://gist.github.com/Rohoe/7bec610e63426ebdc23e6dbfdb9cb682) | Brian Armstrong, CNBC Television | CNBC Television | 00:07:53 | 2026-08-22 |
 | [Treasury Props the Long End, Credit Funds the Boom, the Fed Gets the Bill](https://gist.github.com/Rohoe/3cf23acfcc4fd1c1b85272666b7443e6) | Harry, Howard Mason, Jeff DeGraff, Neil Dutta, Steve Duttonhoffer | RenMac | 00:49:35 | 2026-08-21 |
 | [Arthur Hayes Bets Crypto Wins When the AI Bubble Bursts](https://gist.github.com/Rohoe/ca9e55422313f8120725a0b67690b1d1) | Arthur Hayes, Laura Shin | Unchained | 00:53:40 | 2026-08-21 |
 | [Treasury-Led Financial Repression Is Ushering In A Debasement Regime | Weekly Roundup](https://gist.github.com/Rohoe/fcafaa53688bc7abbd63eac27d3e2e80) | Felix, Quinn | Forward Guidance | 00:53:42 | 2026-08-20 |
@@ -167,6 +168,13 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding](https://gist.github.com/Rohoe/e5eb6098fcc21575e3c359bfe5c58ea9) | Anton Osika, Jason, Pat Gelsinger, Speaker 3, Speaker 6 | All-In Podcast | 00:49:24 | 2026-07-16 |
 | [Trump-Xi Summit, Benioff: \"Not My First SaaSpocalypse,\" OpenAI vs Apple, Multi-Sensory AI, El Niño](https://gist.github.com/Rohoe/84cf1dc553dd422b2f73e3b818ebfa19) | Chamath, Friedberg, Jason, Mark Benioff | All-In Podcast | 01:16:29 | 2026-05-27 |
 
+### CNBC Television (2)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Coinbase CEO Brian Armstrong: We may be on the cusp of the next bull market for crypto spot trading](https://gist.github.com/Rohoe/7bec610e63426ebdc23e6dbfdb9cb682) | Brian Armstrong, CNBC Television | CNBC Television | 00:07:53 | 2026-08-22 |
+| [Brad Gerstner on the market, tech and the flood of mega IPOs](https://gist.github.com/Rohoe/cc4d536a90551ebc656f586930a24665) | Brad Gerstner, CNBC Television, Jim, Josh Brown | CNBC Television | 00:09:24 | 2026-05-29 |
+
 ### Colossus (2)
 
 | Title | Speakers | Host | Duration | Added |
@@ -238,12 +246,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Brookfield's Bruce Flatt discusses NVIDIA strategic partnership on CNBC](https://gist.github.com/Rohoe/028ac823e3a97a5f6c628632d6aaa553) | Bruce Flatt, David Solomon, Host, Jensen Huang, Jim Zelter, John Gray, Larry Fink, Vladimir Zlazak | Brookfield | 00:35:07 | 2026-08-12 |
-
-### CNBC Television (1)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [Brad Gerstner on the market, tech and the flood of mega IPOs](https://gist.github.com/Rohoe/cc4d536a90551ebc656f586930a24665) | Brad Gerstner, CNBC Television, Jim, Josh Brown | CNBC Television | 00:09:24 | 2026-05-29 |
 
 ### Claude (1)
 
@@ -452,6 +454,13 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Ex-Palantir Analyst On The Inner Workings Of Intelligence & Markets In A World Of Socialism](https://gist.github.com/Rohoe/e7dbf7ff61c3a8bcab8771fc959deb29) | Alex Good, Avi, Avi Felman | 1000x | 00:49:02 | 2026-07-29 |
 | [From Poker Pro To Trading Giant: Inside The Mind of Selini Capital](https://gist.github.com/Rohoe/af95a67a9f3618a532764614dc29fc11) | Avi Felman, Jordi Alexander, Speaker 3 | 1000x | 00:30:40 | 2026-07-16 |
 
+### CNBC Television (2)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Coinbase CEO Brian Armstrong: We may be on the cusp of the next bull market for crypto spot trading](https://gist.github.com/Rohoe/7bec610e63426ebdc23e6dbfdb9cb682) | Brian Armstrong, CNBC Television | CNBC Television | 00:07:53 | 2026-08-22 |
+| [Brad Gerstner on the market, tech and the flood of mega IPOs](https://gist.github.com/Rohoe/cc4d536a90551ebc656f586930a24665) | Brad Gerstner, CNBC Television, Jim, Josh Brown | CNBC Television | 00:09:24 | 2026-05-29 |
+
 ### Dan Nathan (2)
 
 | Title | Speakers | Host | Duration | Added |
@@ -581,6 +590,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [Brad Setser on the US's Unusual Japanese Yen Intervention](https://gist.github.com/Rohoe/fe615504c76556e3f0c2e1827934dd9d) | Brad Setser, Joe Weisenthal, Tracy Alloway | Bloomberg | 00:47:39 | 2026-08-06 |
 
+### Brian Armstrong (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Coinbase CEO Brian Armstrong: We may be on the cusp of the next bull market for crypto spot trading](https://gist.github.com/Rohoe/7bec610e63426ebdc23e6dbfdb9cb682) | Brian Armstrong, CNBC Television | CNBC Television | 00:07:53 | 2026-08-22 |
+
 ### Brian Dunne (1)
 
 | Title | Speakers | Host | Duration | Added |
@@ -592,12 +607,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Brookfield's Bruce Flatt discusses NVIDIA strategic partnership on CNBC](https://gist.github.com/Rohoe/028ac823e3a97a5f6c628632d6aaa553) | Bruce Flatt, David Solomon, Host, Jensen Huang, Jim Zelter, John Gray, Larry Fink, Vladimir Zlazak | Brookfield | 00:35:07 | 2026-08-12 |
-
-### CNBC Television (1)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [Brad Gerstner on the market, tech and the flood of mega IPOs](https://gist.github.com/Rohoe/cc4d536a90551ebc656f586930a24665) | Brad Gerstner, CNBC Television, Jim, Josh Brown | CNBC Television | 00:09:24 | 2026-05-29 |
 
 ### Carsten Menke (1)
 
