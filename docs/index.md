@@ -4,13 +4,14 @@
 
 _Publishable transcripts produced by Transcript-Scribe._
 
-**76 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
+**77 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
 
 ## Latest
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [AI Dominates Economy and Markets with Torsten Slok | The Real Eisman Playbook Ep 68](https://gist.github.com/Rohoe/5530c85ea9406ea8b338ea6bf56549cc) | Steve Eisman, Torsten Slok | Steve Eisman | 00:56:23 | 2026-08-23 |
+| [What Makes a Great Macro Fund Manager? Meet Scott Bessent, Trump's Treasury Secretary](https://gist.github.com/Rohoe/51c17a76d1159cd448f3600f871c5014) | Scott Bessent, Simon Brewer | Money Maze Podcast | 01:02:58 | 2026-08-23 |
 | [Coinbase CEO Brian Armstrong: We may be on the cusp of the next bull market for crypto spot trading](https://gist.github.com/Rohoe/7bec610e63426ebdc23e6dbfdb9cb682) | Brian Armstrong, CNBC Television | CNBC Television | 00:07:53 | 2026-08-22 |
 | [Robinhood CEO Vlad Tenev: Tokenization will take over the entire financial system](https://gist.github.com/Rohoe/593aa22f34038c2b7738ed19c5988948) | CNBC Television, Vlad Tenev | CNBC Television | 00:07:02 | 2026-08-22 |
 | [Markets Weekly August 22, 2026](https://gist.github.com/Rohoe/13878cdee9176ef5aba6ada07ef676c8) | Joseph Wang, Speaker 3 | Joseph Wang | 00:16:53 | 2026-08-22 |
@@ -281,6 +282,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [One Hour of Macro Episode 1 - Louis Vincent Gave - CEO of Gavekal](https://gist.github.com/Rohoe/6396851c6f389fe43581f4d83a8a463c) | Louis Vincent Gave, Martin Tixier, Zoltan Szelyes | Macronomics | 01:06:24 | 2026-07-28 |
+
+### Money Maze Podcast (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [What Makes a Great Macro Fund Manager? Meet Scott Bessent, Trump's Treasury Secretary](https://gist.github.com/Rohoe/51c17a76d1159cd448f3600f871c5014) | Scott Bessent, Simon Brewer | Money Maze Podcast | 01:02:58 | 2026-08-23 |
 
 ### Morgan Stanley (1)
 
@@ -1042,6 +1049,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [Re-engineering the Semiconductor Supply Chain with Intel CEO Lip Bu Tan](https://gist.github.com/Rohoe/6ad66f2d9c51f13e93713123b5cec9c5) | Elad Gil, Lip Bu Tan, Sarah Guo | Conviction | 00:44:57 | 2026-06-19 |
 
+### Scott Bessent (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [What Makes a Great Macro Fund Manager? Meet Scott Bessent, Trump's Treasury Secretary](https://gist.github.com/Rohoe/51c17a76d1159cd448f3600f871c5014) | Scott Bessent, Simon Brewer | Money Maze Podcast | 01:02:58 | 2026-08-23 |
+
 ### Scott Wapner (1)
 
 | Title | Speakers | Host | Duration | Added |
@@ -1059,6 +1072,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Sergey Levine - Building LLMs for the Physical World](https://gist.github.com/Rohoe/4fa0bfb2deea882ac86f26b98a8bcd1c) | Patrick O'Shaughnessy, Sergey Levine | Patrick O'Shaughnessy | 01:06:35 | 2026-08-09 |
+
+### Simon Brewer (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [What Makes a Great Macro Fund Manager? Meet Scott Bessent, Trump's Treasury Secretary](https://gist.github.com/Rohoe/51c17a76d1159cd448f3600f871c5014) | Scott Bessent, Simon Brewer | Money Maze Podcast | 01:02:58 | 2026-08-23 |
 
 ### Sohn Conference Foundation (1)
 
