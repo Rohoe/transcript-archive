@@ -4,12 +4,13 @@
 
 _Publishable transcripts produced by Transcript-Scribe._
 
-**75 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
+**76 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
 
 ## Latest
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
+| [AI Dominates Economy and Markets with Torsten Slok | The Real Eisman Playbook Ep 68](https://gist.github.com/Rohoe/5530c85ea9406ea8b338ea6bf56549cc) | Steve Eisman, Torsten Slok | Steve Eisman | 00:56:23 | 2026-08-23 |
 | [Coinbase CEO Brian Armstrong: We may be on the cusp of the next bull market for crypto spot trading](https://gist.github.com/Rohoe/7bec610e63426ebdc23e6dbfdb9cb682) | Brian Armstrong, CNBC Television | CNBC Television | 00:07:53 | 2026-08-22 |
 | [Robinhood CEO Vlad Tenev: Tokenization will take over the entire financial system](https://gist.github.com/Rohoe/593aa22f34038c2b7738ed19c5988948) | CNBC Television, Vlad Tenev | CNBC Television | 00:07:02 | 2026-08-22 |
 | [Markets Weekly August 22, 2026](https://gist.github.com/Rohoe/13878cdee9176ef5aba6ada07ef676c8) | Joseph Wang, Speaker 3 | Joseph Wang | 00:16:53 | 2026-08-22 |
@@ -310,6 +311,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Stanford Leadership Forum 2026: Conversation with Ken Griffin](https://gist.github.com/Rohoe/88f0a6365e79158c8686c9a91b490ed5) | Ken Griffin, Amit Saru | Stanford Graduate School of Business | 00:45:41 | 2026-05-17 |
+
+### Steve Eisman (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [AI Dominates Economy and Markets with Torsten Slok | The Real Eisman Playbook Ep 68](https://gist.github.com/Rohoe/5530c85ea9406ea8b338ea6bf56549cc) | Steve Eisman, Torsten Slok | Steve Eisman | 00:56:23 | 2026-08-23 |
 
 ### Unchained (1)
 
@@ -1083,6 +1090,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [Treasury Props the Long End, Credit Funds the Boom, the Fed Gets the Bill](https://gist.github.com/Rohoe/3cf23acfcc4fd1c1b85272666b7443e6) | Harry, Howard Mason, Jeff DeGraff, Neil Dutta, Steve Duttonhoffer | RenMac | 00:49:35 | 2026-08-21 |
 
+### Steve Eisman (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [AI Dominates Economy and Markets with Torsten Slok | The Real Eisman Playbook Ep 68](https://gist.github.com/Rohoe/5530c85ea9406ea8b338ea6bf56549cc) | Steve Eisman, Torsten Slok | Steve Eisman | 00:56:23 | 2026-08-23 |
+
 ### Terence Tao (1)
 
 | Title | Speakers | Host | Duration | Added |
@@ -1094,6 +1107,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Tobi Lütke - Building Islands of Innovation](https://gist.github.com/Rohoe/59553fdae6c58501bd5e483a23688c27) | Patrick O'Shaughnessy, Tobi Lütke | Patrick O'Shaughnessy | 01:06:21 | 2026-08-08 |
+
+### Torsten Slok (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [AI Dominates Economy and Markets with Torsten Slok | The Real Eisman Playbook Ep 68](https://gist.github.com/Rohoe/5530c85ea9406ea8b338ea6bf56549cc) | Steve Eisman, Torsten Slok | Steve Eisman | 00:56:23 | 2026-08-23 |
 
 ### Tracy Alloway (1)
 
