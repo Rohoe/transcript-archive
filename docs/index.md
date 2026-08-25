@@ -4,12 +4,13 @@
 
 _Publishable transcripts produced by Transcript-Scribe._
 
-**77 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
+**78 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
 
 ## Latest
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
+| [Time to Reduce Equity Risk: Why Underappreciated Macro Risks Could Derail the Bull Market | Warren Pies](https://gist.github.com/Rohoe/d03e7515b7869c87a2a756fb945999e6) | Max Wiethe, Warren Pies | Max Wiethe | 01:03:59 | 2026-08-25 |
 | [AI Dominates Economy and Markets with Torsten Slok | The Real Eisman Playbook Ep 68](https://gist.github.com/Rohoe/5530c85ea9406ea8b338ea6bf56549cc) | Steve Eisman, Torsten Slok | Steve Eisman | 00:56:23 | 2026-08-23 |
 | [What Makes a Great Macro Fund Manager? Meet Scott Bessent, Trump's Treasury Secretary](https://gist.github.com/Rohoe/51c17a76d1159cd448f3600f871c5014) | Scott Bessent, Simon Brewer | Money Maze Podcast | 01:02:58 | 2026-08-23 |
 | [Coinbase CEO Brian Armstrong: We may be on the cusp of the next bull market for crypto spot trading](https://gist.github.com/Rohoe/7bec610e63426ebdc23e6dbfdb9cb682) | Brian Armstrong, CNBC Television | CNBC Television | 00:07:53 | 2026-08-22 |
@@ -282,6 +283,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [One Hour of Macro Episode 1 - Louis Vincent Gave - CEO of Gavekal](https://gist.github.com/Rohoe/6396851c6f389fe43581f4d83a8a463c) | Louis Vincent Gave, Martin Tixier, Zoltan Szelyes | Macronomics | 01:06:24 | 2026-07-28 |
+
+### Max Wiethe (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Time to Reduce Equity Risk: Why Underappreciated Macro Risks Could Derail the Bull Market | Warren Pies](https://gist.github.com/Rohoe/d03e7515b7869c87a2a756fb945999e6) | Max Wiethe, Warren Pies | Max Wiethe | 01:03:59 | 2026-08-25 |
 
 ### Money Maze Podcast (1)
 
@@ -947,6 +954,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [[Emergency Episode] Moonshot’s Kimi K3 has Arrived! China has a Frontier Model](https://gist.github.com/Rohoe/bc5b4278a36250928be0b3f9eda510e6) | Jordan Nanos, Max | Jordan Nanos, Doug O'Laughlin | 00:31:38 | 2026-07-18 |
 
+### Max Wiethe (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Time to Reduce Equity Risk: Why Underappreciated Macro Risks Could Derail the Bull Market | Warren Pies](https://gist.github.com/Rohoe/d03e7515b7869c87a2a756fb945999e6) | Max Wiethe, Warren Pies | Max Wiethe | 01:03:59 | 2026-08-25 |
+
 ### Michael Howell (1)
 
 | Title | Speakers | Host | Duration | Added |
@@ -1162,6 +1175,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Global Liquidity Signals What’s Next for Gold & Markets | Michael Howell](https://gist.github.com/Rohoe/418d1041d2270318303e9bd3ed49bfa0) | Michael Howell, Vladyslav Grabarskyy | Wealth Building Blueprint – Vladyslav Grabarskyy | 00:43:19 | 2026-06-19 |
+
+### Warren Pies (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Time to Reduce Equity Risk: Why Underappreciated Macro Risks Could Derail the Bull Market | Warren Pies](https://gist.github.com/Rohoe/d03e7515b7869c87a2a756fb945999e6) | Max Wiethe, Warren Pies | Max Wiethe | 01:03:59 | 2026-08-25 |
 
 ### Wolfgang Hammer (1)
 
