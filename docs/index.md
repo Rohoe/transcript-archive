@@ -4,13 +4,14 @@
 
 _Publishable transcripts produced by Transcript-Scribe._
 
-**80 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
+**81 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
 
 ## Latest
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Druck Calls Out Bessent & Will Jackson Hole Derail The Debasement Trade? | Weekly Roundup](https://gist.github.com/Rohoe/6d214f128bbf2c0b82f1a34dc0b6ba5c) | Felix, Quinn | Forward Guidance | 00:53:09 | 2026-08-27 |
+| [Goldman Sachs expects Q3 earnings inflection for China’s internet giants](https://gist.github.com/Rohoe/5dd717ee5fe3f68d78502f3b7dffdb46) | CNBC International Live, Kinger Lau | CNBC International Live | 00:04:24 | 2026-08-27 |
 | [MARKET UPDATE: Bitcoin Rally, Zcash ETF, Bessent Humbled, NVDA Earnings](https://gist.github.com/Rohoe/d57e4bcdfb3183dc869adbf48f7ff312) | Avi, Jonah | 1000x | 00:56:41 | 2026-08-26 |
 | [Time to Reduce Equity Risk: Why Underappreciated Macro Risks Could Derail the Bull Market | Warren Pies](https://gist.github.com/Rohoe/d03e7515b7869c87a2a756fb945999e6) | Max Wiethe, Warren Pies | Max Wiethe | 01:03:59 | 2026-08-25 |
 | [AI Dominates Economy and Markets with Torsten Slok | The Real Eisman Playbook Ep 68](https://gist.github.com/Rohoe/5530c85ea9406ea8b338ea6bf56549cc) | Steve Eisman, Torsten Slok | Steve Eisman | 00:56:23 | 2026-08-23 |
@@ -257,6 +258,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Brookfield's Bruce Flatt discusses NVIDIA strategic partnership on CNBC](https://gist.github.com/Rohoe/028ac823e3a97a5f6c628632d6aaa553) | Bruce Flatt, David Solomon, Host, Jensen Huang, Jim Zelter, John Gray, Larry Fink, Vladimir Zlazak | Brookfield | 00:35:07 | 2026-08-12 |
+
+### CNBC International Live (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Goldman Sachs expects Q3 earnings inflection for China’s internet giants](https://gist.github.com/Rohoe/5dd717ee5fe3f68d78502f3b7dffdb46) | CNBC International Live, Kinger Lau | CNBC International Live | 00:04:24 | 2026-08-27 |
 
 ### Claude (1)
 
@@ -644,6 +651,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [Brookfield's Bruce Flatt discusses NVIDIA strategic partnership on CNBC](https://gist.github.com/Rohoe/028ac823e3a97a5f6c628632d6aaa553) | Bruce Flatt, David Solomon, Host, Jensen Huang, Jim Zelter, John Gray, Larry Fink, Vladimir Zlazak | Brookfield | 00:35:07 | 2026-08-12 |
 
+### CNBC International Live (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Goldman Sachs expects Q3 earnings inflection for China’s internet giants](https://gist.github.com/Rohoe/5dd717ee5fe3f68d78502f3b7dffdb46) | CNBC International Live, Kinger Lau | CNBC International Live | 00:04:24 | 2026-08-27 |
+
 ### Carsten Menke (1)
 
 | Title | Speakers | Host | Duration | Added |
@@ -895,6 +908,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [July 2026 FOMC Debrief](https://gist.github.com/Rohoe/f46d17bd8938fcbeb85b324400355938) | Guest 1, Joseph Wang, Kevin | Joseph Wang | 00:11:20 | 2026-07-29 |
+
+### Kinger Lau (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Goldman Sachs expects Q3 earnings inflection for China’s internet giants](https://gist.github.com/Rohoe/5dd717ee5fe3f68d78502f3b7dffdb46) | CNBC International Live, Kinger Lau | CNBC International Live | 00:04:24 | 2026-08-27 |
 
 ### Larry Fink (1)
 
