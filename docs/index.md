@@ -4,12 +4,13 @@
 
 _Publishable transcripts produced by Transcript-Scribe._
 
-**78 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
+**79 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
 
 ## Latest
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
+| [MARKET UPDATE: Bitcoin Rally, Zcash ETF, Bessent Humbled, NVDA Earnings](https://gist.github.com/Rohoe/d57e4bcdfb3183dc869adbf48f7ff312) | Avi, Jonah | 1000x | 00:56:41 | 2026-08-26 |
 | [Time to Reduce Equity Risk: Why Underappreciated Macro Risks Could Derail the Bull Market | Warren Pies](https://gist.github.com/Rohoe/d03e7515b7869c87a2a756fb945999e6) | Max Wiethe, Warren Pies | Max Wiethe | 01:03:59 | 2026-08-25 |
 | [AI Dominates Economy and Markets with Torsten Slok | The Real Eisman Playbook Ep 68](https://gist.github.com/Rohoe/5530c85ea9406ea8b338ea6bf56549cc) | Steve Eisman, Torsten Slok | Steve Eisman | 00:56:23 | 2026-08-23 |
 | [What Makes a Great Macro Fund Manager? Meet Scott Bessent, Trump's Treasury Secretary](https://gist.github.com/Rohoe/51c17a76d1159cd448f3600f871c5014) | Scott Bessent, Simon Brewer | Money Maze Podcast | 01:02:58 | 2026-08-23 |
@@ -132,10 +133,11 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Markets Weekly July 18, 2026](https://gist.github.com/Rohoe/bd11ad150c2ba22227106a39143ae47a) | Joseph Wang, Speaker 3 | Joseph Wang | 00:17:33 | 2026-07-18 |
 | [Markets Weekly June 27, 2026](https://gist.github.com/Rohoe/a36fe55d37ad373ee2fd945b72f18b89) | Joseph Wang | Joseph Wang | 00:25:04 | 2026-06-27 |
 
-### 1000x (4)
+### 1000x (5)
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
+| [MARKET UPDATE: Bitcoin Rally, Zcash ETF, Bessent Humbled, NVDA Earnings](https://gist.github.com/Rohoe/d57e4bcdfb3183dc869adbf48f7ff312) | Avi, Jonah | 1000x | 00:56:41 | 2026-08-26 |
 | [Ex-Palantir Analyst On The Inner Workings Of Intelligence & Markets In A World Of Socialism](https://gist.github.com/Rohoe/e7dbf7ff61c3a8bcab8771fc959deb29) | Alex Good, Avi, Avi Felman | 1000x | 00:49:02 | 2026-07-29 |
 | [Has Memory Bottomed?](https://gist.github.com/Rohoe/c0fddb22bfb1c59939f78bccf2e688f5) | Avi, Jonah | 1000x | 00:55:38 | 2026-07-26 |
 | [From Poker Pro To Trading Giant: Inside The Mind of Selini Capital](https://gist.github.com/Rohoe/af95a67a9f3618a532764614dc29fc11) | Avi Felman, Jordi Alexander, Speaker 3 | 1000x | 00:30:40 | 2026-07-16 |
@@ -365,10 +367,11 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Joe Liemandt  - Building Alpha School, and The Future of Education](https://gist.github.com/Rohoe/7b45b0c8bcfbd47517eb84cc2280f5f8) | Joe Liemandt, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 02:26:11 | 2026-08-08 |
 | [Tobi Lütke - Building Islands of Innovation](https://gist.github.com/Rohoe/59553fdae6c58501bd5e483a23688c27) | Patrick O'Shaughnessy, Tobi Lütke | Patrick O'Shaughnessy | 01:06:21 | 2026-08-08 |
 
-### Avi (7)
+### Avi (8)
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
+| [MARKET UPDATE: Bitcoin Rally, Zcash ETF, Bessent Humbled, NVDA Earnings](https://gist.github.com/Rohoe/d57e4bcdfb3183dc869adbf48f7ff312) | Avi, Jonah | 1000x | 00:56:41 | 2026-08-26 |
 | [MARKET UPDATE: FED Backstops The Yen, Metals Rip, And Neoclouds Rebound](https://gist.github.com/Rohoe/80ac2c98b57efd6a910ef50d03ee538b) | Avi, Jonah | 1KX Media | 00:52:37 | 2026-08-06 |
 | [MARKET UPDATE: How Situational Awareness Blew Up, Will Rates Nuke Us, What’s Next?](https://gist.github.com/Rohoe/85edc28dd84607a6d8c8f0b815da3291) | Avi, Jonah | 1KX Media | 00:57:44 | 2026-08-02 |
 | [Ex-Palantir Analyst On The Inner Workings Of Intelligence & Markets In A World Of Socialism](https://gist.github.com/Rohoe/e7dbf7ff61c3a8bcab8771fc959deb29) | Alex Good, Avi, Avi Felman | 1000x | 00:49:02 | 2026-07-29 |
@@ -388,6 +391,18 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Dylan Patel — Deep dive on the 3 big bottlenecks to scaling AI compute](https://gist.github.com/Rohoe/1ed88e697ec580717368e003dd20e8cc) | Dwarkesh Patel, Dylan Patel | Dwarkesh Patel | 02:30:44 | 2026-08-09 |
 | [Mark Zuckerberg — AI will write most Meta code in 18 months](https://gist.github.com/Rohoe/e827d3f8172ad97c926861c1ff3d46a2) | Dwarkesh Patel, Mark Zuckerberg | Dwarkesh Patel | 01:15:48 | 2026-05-29 |
 | [Jeff Dean & Noam Shazeer — 25 years at Google: from PageRank to AGI](https://gist.github.com/Rohoe/9c9bf7825b3c009460804fc7af664217) | Dwarkesh Patel, Jeff Dean, Noam Shazeer | Dwarkesh Patel | 02:15:29 | 2026-05-27 |
+
+### Jonah (7)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [MARKET UPDATE: Bitcoin Rally, Zcash ETF, Bessent Humbled, NVDA Earnings](https://gist.github.com/Rohoe/d57e4bcdfb3183dc869adbf48f7ff312) | Avi, Jonah | 1000x | 00:56:41 | 2026-08-26 |
+| [MARKET UPDATE: FED Backstops The Yen, Metals Rip, And Neoclouds Rebound](https://gist.github.com/Rohoe/80ac2c98b57efd6a910ef50d03ee538b) | Avi, Jonah | 1KX Media | 00:52:37 | 2026-08-06 |
+| [MARKET UPDATE: How Situational Awareness Blew Up, Will Rates Nuke Us, What’s Next?](https://gist.github.com/Rohoe/85edc28dd84607a6d8c8f0b815da3291) | Avi, Jonah | 1KX Media | 00:57:44 | 2026-08-02 |
+| [Has Memory Bottomed?](https://gist.github.com/Rohoe/c0fddb22bfb1c59939f78bccf2e688f5) | Avi, Jonah | 1000x | 00:55:38 | 2026-07-26 |
+| [Who's Coming For The Market In Q3?](https://gist.github.com/Rohoe/2769ad7769d633634c83abc4e18e8464) | Avi, Jonah, Unknown speaker | 1000x | 00:56:44 | 2026-07-02 |
+| [SpaceX: Start of the Next Megabubble or End of the Rally?](https://gist.github.com/Rohoe/e4c914cda449da83f7d747e9e7e2c8ab) | Avi, Jonah, Speaker 4, Unknown speaker | 1KX Media | 00:45:41 | 2026-06-18 |
+| [Sticky Inflation + Energy Prices: End of the Rally or Pause?](https://gist.github.com/Rohoe/8400f8a352e356ce1544555082c529fb) | Avi, Jonah | 1000x Podcast | 00:53:32 | 2026-05-24 |
 
 ### Joseph Wang (7)
 
@@ -412,17 +427,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Citadel's Ken Griffin on AI, US-China Tensions, and US Data Centers](https://gist.github.com/Rohoe/1be5ecce37e79aee98cc7866b336a053) | Ken Griffin, Raj Mahajan, Speaker 4 | Goldman Sachs | 00:31:22 | 2026-07-14 |
 | [The View Beyond: China’s old and new tech divide](https://gist.github.com/Rohoe/2961d7ae9844cca6483b4ced9a3e20b9) | Hong Hao, Richard Tang, Speaker 4 | Adventurous Media | 00:25:13 | 2026-06-20 |
 | [SpaceX: Start of the Next Megabubble or End of the Rally?](https://gist.github.com/Rohoe/e4c914cda449da83f7d747e9e7e2c8ab) | Avi, Jonah, Speaker 4, Unknown speaker | 1KX Media | 00:45:41 | 2026-06-18 |
-
-### Jonah (6)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [MARKET UPDATE: FED Backstops The Yen, Metals Rip, And Neoclouds Rebound](https://gist.github.com/Rohoe/80ac2c98b57efd6a910ef50d03ee538b) | Avi, Jonah | 1KX Media | 00:52:37 | 2026-08-06 |
-| [MARKET UPDATE: How Situational Awareness Blew Up, Will Rates Nuke Us, What’s Next?](https://gist.github.com/Rohoe/85edc28dd84607a6d8c8f0b815da3291) | Avi, Jonah | 1KX Media | 00:57:44 | 2026-08-02 |
-| [Has Memory Bottomed?](https://gist.github.com/Rohoe/c0fddb22bfb1c59939f78bccf2e688f5) | Avi, Jonah | 1000x | 00:55:38 | 2026-07-26 |
-| [Who's Coming For The Market In Q3?](https://gist.github.com/Rohoe/2769ad7769d633634c83abc4e18e8464) | Avi, Jonah, Unknown speaker | 1000x | 00:56:44 | 2026-07-02 |
-| [SpaceX: Start of the Next Megabubble or End of the Rally?](https://gist.github.com/Rohoe/e4c914cda449da83f7d747e9e7e2c8ab) | Avi, Jonah, Speaker 4, Unknown speaker | 1KX Media | 00:45:41 | 2026-06-18 |
-| [Sticky Inflation + Energy Prices: End of the Rally or Pause?](https://gist.github.com/Rohoe/8400f8a352e356ce1544555082c529fb) | Avi, Jonah | 1000x Podcast | 00:53:32 | 2026-05-24 |
 
 ### Speaker 3 (5)
 
