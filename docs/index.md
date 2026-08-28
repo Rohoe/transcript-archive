@@ -4,7 +4,7 @@
 
 _Publishable transcripts produced by Transcript-Scribe._
 
-**83 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
+**84 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
 
 ## Latest
 
@@ -12,6 +12,7 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [Blackstone's Jon Gray on Big Bets, AI, & Staying Skeptical | The CEO Signal](https://gist.github.com/Rohoe/6fa11c6b6e43adc0c57f421f33fd406b) | Andrew Edgecliffe-Johnson, Jon Gray, Penny Pritzker | Semafor | 00:50:38 | 2026-08-28 |
 | [Why the Fed Is Stuck, Who's Really Buying Gold, and What AI Capex Is Hiding*](https://gist.github.com/Rohoe/c7f1562cb0653af723d9c6361940f3c1) | Harry, Jeff DeGraff, Kevin Muir, Steve Duttonoffer | RenMac | 00:51:28 | 2026-08-28 |
+| [How Chinese Open-Source Models Are Rewriting AI Economics｜5Y Capital’s Meng Xing](https://gist.github.com/Rohoe/038b956bf8b58e43a9cef84a3e8e757b) | Guest 1, Host | Silicon Valley 101 | 01:12:01 | 2026-08-28 |
 | [Druck Calls Out Bessent & Will Jackson Hole Derail The Debasement Trade? | Weekly Roundup](https://gist.github.com/Rohoe/6d214f128bbf2c0b82f1a34dc0b6ba5c) | Felix, Quinn | Forward Guidance | 00:53:09 | 2026-08-27 |
 | [Goldman Sachs expects Q3 earnings inflection for China’s internet giants](https://gist.github.com/Rohoe/5dd717ee5fe3f68d78502f3b7dffdb46) | CNBC International Live, Kinger Lau | CNBC International Live | 00:04:24 | 2026-08-27 |
 | [MARKET UPDATE: Bitcoin Rally, Zcash ETF, Bessent Humbled, NVDA Earnings](https://gist.github.com/Rohoe/d57e4bcdfb3183dc869adbf48f7ff312) | Avi, Jonah | 1000x | 00:56:41 | 2026-08-26 |
@@ -340,6 +341,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [How Cursor Trained Composer on Fireworks: Distributed Infrastructure for High-Performance RL](https://gist.github.com/Rohoe/a04e88186c91b39cb63895d9827af977) | Dima, Federico, Sequoia Capital, UNKNOWN | Sequoia Capital | 00:45:12 | 2026-05-28 |
 
+### Silicon Valley 101 (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [How Chinese Open-Source Models Are Rewriting AI Economics｜5Y Capital’s Meng Xing](https://gist.github.com/Rohoe/038b956bf8b58e43a9cef84a3e8e757b) | Guest 1, Host | Silicon Valley 101 | 01:12:01 | 2026-08-28 |
+
 ### Stanford Graduate School of Business (1)
 
 | Title | Speakers | Host | Duration | Added |
@@ -490,6 +497,14 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [The View Beyond: China after the AI correction](https://gist.github.com/Rohoe/d627ceb17414d980a0a77a10f0ac1ad9) | Hong Hao, Richard Tang, Speaker 4 | Adventurous Media | 00:18:35 | 2026-07-18 |
 | [The View Beyond: China’s old and new tech divide](https://gist.github.com/Rohoe/2961d7ae9844cca6483b4ced9a3e20b9) | Hong Hao, Richard Tang, Speaker 4 | Adventurous Media | 00:25:13 | 2026-06-20 |
 
+### Host (3)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [How Chinese Open-Source Models Are Rewriting AI Economics｜5Y Capital’s Meng Xing](https://gist.github.com/Rohoe/038b956bf8b58e43a9cef84a3e8e757b) | Guest 1, Host | Silicon Valley 101 | 01:12:01 | 2026-08-28 |
+| [Brookfield's Bruce Flatt discusses NVIDIA strategic partnership on CNBC](https://gist.github.com/Rohoe/028ac823e3a97a5f6c628632d6aaa553) | Bruce Flatt, David Solomon, Host, Jensen Huang, Jim Zelter, John Gray, Larry Fink, Vladimir Zlazak | Brookfield | 00:35:07 | 2026-08-12 |
+| [Jeffrey Gundlach on the Fed: Talk Is Cheap | CNBC](https://gist.github.com/Rohoe/8ee28e9d7e2873ea50aa6e18c130a069) | Host, Jeffrey Gundlach, Scott Wapner | DoubleLine Capital | 00:25:50 | 2026-08-02 |
+
 ### Richard Tang (3)
 
 | Title | Speakers | Host | Duration | Added |
@@ -534,19 +549,19 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Gavin Baker - Nvidia v. Google, Scaling Laws, and the Economics of AI](https://gist.github.com/Rohoe/cf23ee087cfda4db0f1956a064d2a169) | Gavin Baker, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 01:24:13 | 2026-08-09 |
 | [Gavin Baker - AI Market Jitters - [Invest Like the Best, EP.485]](https://gist.github.com/Rohoe/132f5101f3fd7374b05c9f03300dae8a) | Gavin Baker, Patrick O'Shaughnessy | Colossus | 01:06:04 | 2026-08-08 |
 
+### Guest 1 (2)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [How Chinese Open-Source Models Are Rewriting AI Economics｜5Y Capital’s Meng Xing](https://gist.github.com/Rohoe/038b956bf8b58e43a9cef84a3e8e757b) | Guest 1, Host | Silicon Valley 101 | 01:12:01 | 2026-08-28 |
+| [July 2026 FOMC Debrief](https://gist.github.com/Rohoe/f46d17bd8938fcbeb85b324400355938) | Guest 1, Joseph Wang, Kevin | Joseph Wang | 00:11:20 | 2026-07-29 |
+
 ### Harry (2)
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Why the Fed Is Stuck, Who's Really Buying Gold, and What AI Capex Is Hiding*](https://gist.github.com/Rohoe/c7f1562cb0653af723d9c6361940f3c1) | Harry, Jeff DeGraff, Kevin Muir, Steve Duttonoffer | RenMac | 00:51:28 | 2026-08-28 |
 | [Treasury Props the Long End, Credit Funds the Boom, the Fed Gets the Bill](https://gist.github.com/Rohoe/3cf23acfcc4fd1c1b85272666b7443e6) | Harry, Howard Mason, Jeff DeGraff, Neil Dutta, Steve Duttonhoffer | RenMac | 00:49:35 | 2026-08-21 |
-
-### Host (2)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [Brookfield's Bruce Flatt discusses NVIDIA strategic partnership on CNBC](https://gist.github.com/Rohoe/028ac823e3a97a5f6c628632d6aaa553) | Bruce Flatt, David Solomon, Host, Jensen Huang, Jim Zelter, John Gray, Larry Fink, Vladimir Zlazak | Brookfield | 00:35:07 | 2026-08-12 |
-| [Jeffrey Gundlach on the Fed: Talk Is Cheap | CNBC](https://gist.github.com/Rohoe/8ee28e9d7e2873ea50aa6e18c130a069) | Host, Jeffrey Gundlach, Scott Wapner | DoubleLine Capital | 00:25:50 | 2026-08-02 |
 
 ### Jason (2)
 
@@ -818,12 +833,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Jeffrey Gundlach and Felix Zulauf: The Second Inning of a Major Shift](https://gist.github.com/Rohoe/6f2ca54226fcd7ebf4cfbc8cef985b88) | Felix Zulauf, Grant Williams, Jeffrey Gundlach, Unknown speaker | DoubleLine Capital | 01:00:56 | 2026-06-26 |
-
-### Guest 1 (1)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [July 2026 FOMC Debrief](https://gist.github.com/Rohoe/f46d17bd8938fcbeb85b324400355938) | Guest 1, Joseph Wang, Kevin | Joseph Wang | 00:11:20 | 2026-07-29 |
 
 ### Guy Adami (1)
 
