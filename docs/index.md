@@ -4,7 +4,7 @@
 
 _Publishable transcripts produced by Transcript-Scribe._
 
-**84 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
+**85 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
 
 ## Latest
 
@@ -13,6 +13,7 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Blackstone's Jon Gray on Big Bets, AI, & Staying Skeptical | The CEO Signal](https://gist.github.com/Rohoe/6fa11c6b6e43adc0c57f421f33fd406b) | Andrew Edgecliffe-Johnson, Jon Gray, Penny Pritzker | Semafor | 00:50:38 | 2026-08-28 |
 | [Why the Fed Is Stuck, Who's Really Buying Gold, and What AI Capex Is Hiding*](https://gist.github.com/Rohoe/c7f1562cb0653af723d9c6361940f3c1) | Harry, Jeff DeGraff, Kevin Muir, Steve Duttonoffer | RenMac | 00:51:28 | 2026-08-28 |
 | [How Chinese Open-Source Models Are Rewriting AI Economics｜5Y Capital’s Meng Xing](https://gist.github.com/Rohoe/038b956bf8b58e43a9cef84a3e8e757b) | Guest 1, Host | Silicon Valley 101 | 01:12:01 | 2026-08-28 |
+| [Paul Kedrosky: AI is the First Bubble With Every Ingredient at Once | #648](https://gist.github.com/Rohoe/d9188908b7f023ca045d2146fe2dcced) | Meb Faber, Paul Kedrosky | The Idea Farm | 00:45:38 | 2026-08-28 |
 | [Druck Calls Out Bessent & Will Jackson Hole Derail The Debasement Trade? | Weekly Roundup](https://gist.github.com/Rohoe/6d214f128bbf2c0b82f1a34dc0b6ba5c) | Felix, Quinn | Forward Guidance | 00:53:09 | 2026-08-27 |
 | [Goldman Sachs expects Q3 earnings inflection for China’s internet giants](https://gist.github.com/Rohoe/5dd717ee5fe3f68d78502f3b7dffdb46) | CNBC International Live, Kinger Lau | CNBC International Live | 00:04:24 | 2026-08-27 |
 | [MARKET UPDATE: Bitcoin Rally, Zcash ETF, Bessent Humbled, NVDA Earnings](https://gist.github.com/Rohoe/d57e4bcdfb3183dc869adbf48f7ff312) | Avi, Jonah | 1000x | 00:56:41 | 2026-08-26 |
@@ -358,6 +359,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [AI Dominates Economy and Markets with Torsten Slok | The Real Eisman Playbook Ep 68](https://gist.github.com/Rohoe/5530c85ea9406ea8b338ea6bf56549cc) | Steve Eisman, Torsten Slok | Steve Eisman | 00:56:23 | 2026-08-23 |
+
+### The Idea Farm (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Paul Kedrosky: AI is the First Bubble With Every Ingredient at Once | #648](https://gist.github.com/Rohoe/d9188908b7f023ca045d2146fe2dcced) | Meb Faber, Paul Kedrosky | The Idea Farm | 00:45:38 | 2026-08-28 |
 
 ### Unchained (1)
 
@@ -1020,6 +1027,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [Time to Reduce Equity Risk: Why Underappreciated Macro Risks Could Derail the Bull Market | Warren Pies](https://gist.github.com/Rohoe/d03e7515b7869c87a2a756fb945999e6) | Max Wiethe, Warren Pies | Max Wiethe | 01:03:59 | 2026-08-25 |
 
+### Meb Faber (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Paul Kedrosky: AI is the First Bubble With Every Ingredient at Once | #648](https://gist.github.com/Rohoe/d9188908b7f023ca045d2146fe2dcced) | Meb Faber, Paul Kedrosky | The Idea Farm | 00:45:38 | 2026-08-28 |
+
 ### Michael Howell (1)
 
 | Title | Speakers | Host | Duration | Added |
@@ -1073,6 +1086,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding](https://gist.github.com/Rohoe/e5eb6098fcc21575e3c359bfe5c58ea9) | Anton Osika, Jason, Pat Gelsinger, Speaker 3, Speaker 6 | All-In Podcast | 00:49:24 | 2026-07-16 |
+
+### Paul Kedrosky (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Paul Kedrosky: AI is the First Bubble With Every Ingredient at Once | #648](https://gist.github.com/Rohoe/d9188908b7f023ca045d2146fe2dcced) | Meb Faber, Paul Kedrosky | The Idea Farm | 00:45:38 | 2026-08-28 |
 
 ### Penny Pritzker (1)
 
