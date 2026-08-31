@@ -4,12 +4,13 @@
 
 _Publishable transcripts produced by Transcript-Scribe._
 
-**86 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
+**87 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
 
 ## Latest
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
+| [Richmond Fed’s Tom Barkin on the Surprisingly Resilient Real Economy](https://gist.github.com/Rohoe/792aa64d3aae72c4010061a1c4e2c4af) | Joe Weisenthal, Tom Barkin, Tracy Allaway | Bloomberg | 00:37:38 | 2026-08-31 |
 | [Markets Weekly August 29, 2026](https://gist.github.com/Rohoe/8d4bcb2f958c728188bed20a636e1626) | Joseph Wang | Joseph Wang | 00:13:29 | 2026-08-29 |
 | [Blackstone's Jon Gray on Big Bets, AI, & Staying Skeptical | The CEO Signal](https://gist.github.com/Rohoe/6fa11c6b6e43adc0c57f421f33fd406b) | Andrew Edgecliffe-Johnson, Jon Gray, Penny Pritzker | Semafor | 00:50:38 | 2026-08-28 |
 | [Why the Fed Is Stuck, Who's Really Buying Gold, and What AI Capex Is Hiding*](https://gist.github.com/Rohoe/c7f1562cb0653af723d9c6361940f3c1) | Harry, Jeff DeGraff, Kevin Muir, Steve Duttonoffer | RenMac | 00:51:28 | 2026-08-28 |
@@ -200,6 +201,13 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding](https://gist.github.com/Rohoe/e5eb6098fcc21575e3c359bfe5c58ea9) | Anton Osika, Jason, Pat Gelsinger, Speaker 3, Speaker 6 | All-In Podcast | 00:49:24 | 2026-07-16 |
 | [Trump-Xi Summit, Benioff: \"Not My First SaaSpocalypse,\" OpenAI vs Apple, Multi-Sensory AI, El Niño](https://gist.github.com/Rohoe/84cf1dc553dd422b2f73e3b818ebfa19) | Chamath, Friedberg, Jason, Mark Benioff | All-In Podcast | 01:16:29 | 2026-05-27 |
 
+### Bloomberg (2)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Richmond Fed’s Tom Barkin on the Surprisingly Resilient Real Economy](https://gist.github.com/Rohoe/792aa64d3aae72c4010061a1c4e2c4af) | Joe Weisenthal, Tom Barkin, Tracy Allaway | Bloomberg | 00:37:38 | 2026-08-31 |
+| [Brad Setser on the US's Unusual Japanese Yen Intervention](https://gist.github.com/Rohoe/fe615504c76556e3f0c2e1827934dd9d) | Brad Setser, Joe Weisenthal, Tracy Alloway | Bloomberg | 00:47:39 | 2026-08-06 |
+
 ### Colossus (2)
 
 | Title | Speakers | Host | Duration | Added |
@@ -259,12 +267,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Washington Is Suppressing Volatility To Keep The AI Boom Alive | Weekly Roundup](https://gist.github.com/Rohoe/79711e1934ec849daf56348d1bdab58d) | Felix, Quinn, Tyler | Blockworks | 00:59:54 | 2026-08-07 |
-
-### Bloomberg (1)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [Brad Setser on the US's Unusual Japanese Yen Intervention](https://gist.github.com/Rohoe/fe615504c76556e3f0c2e1827934dd9d) | Brad Setser, Joe Weisenthal, Tracy Alloway | Bloomberg | 00:47:39 | 2026-08-06 |
 
 ### Brookfield (1)
 
@@ -594,6 +596,13 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Jeffrey Gundlach on the Fed: Talk Is Cheap | CNBC](https://gist.github.com/Rohoe/8ee28e9d7e2873ea50aa6e18c130a069) | Host, Jeffrey Gundlach, Scott Wapner | DoubleLine Capital | 00:25:50 | 2026-08-02 |
 | [Jeffrey Gundlach and Felix Zulauf: The Second Inning of a Major Shift](https://gist.github.com/Rohoe/6f2ca54226fcd7ebf4cfbc8cef985b88) | Felix Zulauf, Grant Williams, Jeffrey Gundlach, Unknown speaker | DoubleLine Capital | 01:00:56 | 2026-06-26 |
 
+### Joe Weisenthal (2)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Richmond Fed’s Tom Barkin on the Surprisingly Resilient Real Economy](https://gist.github.com/Rohoe/792aa64d3aae72c4010061a1c4e2c4af) | Joe Weisenthal, Tom Barkin, Tracy Allaway | Bloomberg | 00:37:38 | 2026-08-31 |
+| [Brad Setser on the US's Unusual Japanese Yen Intervention](https://gist.github.com/Rohoe/fe615504c76556e3f0c2e1827934dd9d) | Brad Setser, Joe Weisenthal, Tracy Alloway | Bloomberg | 00:47:39 | 2026-08-06 |
+
 ### Jon Gray (2)
 
 | Title | Speakers | Host | Duration | Added |
@@ -897,12 +906,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Joe Liemandt  - Building Alpha School, and The Future of Education](https://gist.github.com/Rohoe/7b45b0c8bcfbd47517eb84cc2280f5f8) | Joe Liemandt, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 02:26:11 | 2026-08-08 |
-
-### Joe Weisenthal (1)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [Brad Setser on the US's Unusual Japanese Yen Intervention](https://gist.github.com/Rohoe/fe615504c76556e3f0c2e1827934dd9d) | Brad Setser, Joe Weisenthal, Tracy Alloway | Bloomberg | 00:47:39 | 2026-08-06 |
 
 ### John Gray (1)
 
@@ -1234,11 +1237,23 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [Tobi Lütke - Building Islands of Innovation](https://gist.github.com/Rohoe/59553fdae6c58501bd5e483a23688c27) | Patrick O'Shaughnessy, Tobi Lütke | Patrick O'Shaughnessy | 01:06:21 | 2026-08-08 |
 
+### Tom Barkin (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Richmond Fed’s Tom Barkin on the Surprisingly Resilient Real Economy](https://gist.github.com/Rohoe/792aa64d3aae72c4010061a1c4e2c4af) | Joe Weisenthal, Tom Barkin, Tracy Allaway | Bloomberg | 00:37:38 | 2026-08-31 |
+
 ### Torsten Slok (1)
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [AI Dominates Economy and Markets with Torsten Slok | The Real Eisman Playbook Ep 68](https://gist.github.com/Rohoe/5530c85ea9406ea8b338ea6bf56549cc) | Steve Eisman, Torsten Slok | Steve Eisman | 00:56:23 | 2026-08-23 |
+
+### Tracy Allaway (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Richmond Fed’s Tom Barkin on the Surprisingly Resilient Real Economy](https://gist.github.com/Rohoe/792aa64d3aae72c4010061a1c4e2c4af) | Joe Weisenthal, Tom Barkin, Tracy Allaway | Bloomberg | 00:37:38 | 2026-08-31 |
 
 ### Tracy Alloway (1)
 
