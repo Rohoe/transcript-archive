@@ -4,13 +4,14 @@
 
 _Publishable transcripts produced by Transcript-Scribe._
 
-**87 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
+**88 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
 
 ## Latest
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Richmond Fed’s Tom Barkin on the Surprisingly Resilient Real Economy](https://gist.github.com/Rohoe/792aa64d3aae72c4010061a1c4e2c4af) | Joe Weisenthal, Tom Barkin, Tracy Allaway | Bloomberg | 00:37:38 | 2026-08-31 |
+| [JUST IN: Scott Bessent and Fed Chair Kevin Warsh Address G20 Finance Leaders in Asheville | AF1G](https://gist.github.com/Rohoe/1fbea6f9cc657e619c418a5182df041d) | EU Official, Kevin Warsh, Scott Bessent, Speaker 8 | DRM News | 00:25:50 | 2026-08-31 |
 | [Markets Weekly August 29, 2026](https://gist.github.com/Rohoe/8d4bcb2f958c728188bed20a636e1626) | Joseph Wang | Joseph Wang | 00:13:29 | 2026-08-29 |
 | [Blackstone's Jon Gray on Big Bets, AI, & Staying Skeptical | The CEO Signal](https://gist.github.com/Rohoe/6fa11c6b6e43adc0c57f421f33fd406b) | Andrew Edgecliffe-Johnson, Jon Gray, Penny Pritzker | Semafor | 00:50:38 | 2026-08-28 |
 | [Why the Fed Is Stuck, Who's Really Buying Gold, and What AI Capex Is Hiding*](https://gist.github.com/Rohoe/c7f1562cb0653af723d9c6361940f3c1) | Harry, Jeff DeGraff, Kevin Muir, Steve Duttonoffer | RenMac | 00:51:28 | 2026-08-28 |
@@ -291,6 +292,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Re-engineering the Semiconductor Supply Chain with Intel CEO Lip Bu Tan](https://gist.github.com/Rohoe/6ad66f2d9c51f13e93713123b5cec9c5) | Elad Gil, Lip Bu Tan, Sarah Guo | Conviction | 00:44:57 | 2026-06-19 |
+
+### DRM News (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [JUST IN: Scott Bessent and Fed Chair Kevin Warsh Address G20 Finance Leaders in Asheville | AF1G](https://gist.github.com/Rohoe/1fbea6f9cc657e619c418a5182df041d) | EU Official, Kevin Warsh, Scott Bessent, Speaker 8 | DRM News | 00:25:50 | 2026-08-31 |
 
 ### Dean Curnutt (1)
 
@@ -624,6 +631,13 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Citadel's Ken Griffin on AI, US-China Tensions, and US Data Centers](https://gist.github.com/Rohoe/1be5ecce37e79aee98cc7866b336a053) | Ken Griffin, Raj Mahajan, Speaker 4 | Goldman Sachs | 00:31:22 | 2026-07-14 |
 | [Stanford Leadership Forum 2026: Conversation with Ken Griffin](https://gist.github.com/Rohoe/88f0a6365e79158c8686c9a91b490ed5) | Ken Griffin, Amit Saru | Stanford Graduate School of Business | 00:45:41 | 2026-05-17 |
 
+### Scott Bessent (2)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [JUST IN: Scott Bessent and Fed Chair Kevin Warsh Address G20 Finance Leaders in Asheville | AF1G](https://gist.github.com/Rohoe/1fbea6f9cc657e619c418a5182df041d) | EU Official, Kevin Warsh, Scott Bessent, Speaker 8 | DRM News | 00:25:50 | 2026-08-31 |
+| [What Makes a Great Macro Fund Manager? Meet Scott Bessent, Trump's Treasury Secretary](https://gist.github.com/Rohoe/51c17a76d1159cd448f3600f871c5014) | Scott Bessent, Simon Brewer | Money Maze Podcast | 01:02:58 | 2026-08-23 |
+
 ### UNKNOWN (2)
 
 | Title | Speakers | Host | Duration | Added |
@@ -805,6 +819,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [Dylan Patel — Deep dive on the 3 big bottlenecks to scaling AI compute](https://gist.github.com/Rohoe/1ed88e697ec580717368e003dd20e8cc) | Dwarkesh Patel, Dylan Patel | Dwarkesh Patel | 02:30:44 | 2026-08-09 |
 
+### EU Official (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [JUST IN: Scott Bessent and Fed Chair Kevin Warsh Address G20 Finance Leaders in Asheville | AF1G](https://gist.github.com/Rohoe/1fbea6f9cc657e619c418a5182df041d) | EU Official, Kevin Warsh, Scott Bessent, Speaker 8 | DRM News | 00:25:50 | 2026-08-31 |
+
 ### Elad Gil (1)
 
 | Title | Speakers | Host | Duration | Added |
@@ -954,6 +974,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Why the Fed Is Stuck, Who's Really Buying Gold, and What AI Capex Is Hiding*](https://gist.github.com/Rohoe/c7f1562cb0653af723d9c6361940f3c1) | Harry, Jeff DeGraff, Kevin Muir, Steve Duttonoffer | RenMac | 00:51:28 | 2026-08-28 |
+
+### Kevin Warsh (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [JUST IN: Scott Bessent and Fed Chair Kevin Warsh Address G20 Finance Leaders in Asheville | AF1G](https://gist.github.com/Rohoe/1fbea6f9cc657e619c418a5182df041d) | EU Official, Kevin Warsh, Scott Bessent, Speaker 8 | DRM News | 00:25:50 | 2026-08-31 |
 
 ### Kinger Lau (1)
 
@@ -1153,12 +1179,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [Re-engineering the Semiconductor Supply Chain with Intel CEO Lip Bu Tan](https://gist.github.com/Rohoe/6ad66f2d9c51f13e93713123b5cec9c5) | Elad Gil, Lip Bu Tan, Sarah Guo | Conviction | 00:44:57 | 2026-06-19 |
 
-### Scott Bessent (1)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [What Makes a Great Macro Fund Manager? Meet Scott Bessent, Trump's Treasury Secretary](https://gist.github.com/Rohoe/51c17a76d1159cd448f3600f871c5014) | Scott Bessent, Simon Brewer | Money Maze Podcast | 01:02:58 | 2026-08-23 |
-
 ### Scott Wapner (1)
 
 | Title | Speakers | Host | Duration | Added |
@@ -1206,6 +1226,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding](https://gist.github.com/Rohoe/e5eb6098fcc21575e3c359bfe5c58ea9) | Anton Osika, Jason, Pat Gelsinger, Speaker 3, Speaker 6 | All-In Podcast | 00:49:24 | 2026-07-16 |
+
+### Speaker 8 (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [JUST IN: Scott Bessent and Fed Chair Kevin Warsh Address G20 Finance Leaders in Asheville | AF1G](https://gist.github.com/Rohoe/1fbea6f9cc657e619c418a5182df041d) | EU Official, Kevin Warsh, Scott Bessent, Speaker 8 | DRM News | 00:25:50 | 2026-08-31 |
 
 ### Steve Duttonhoffer (1)
 
