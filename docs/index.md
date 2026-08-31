@@ -4,7 +4,7 @@
 
 _Publishable transcripts produced by Transcript-Scribe._
 
-**88 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
+**89 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
 
 ## Latest
 
@@ -12,6 +12,7 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [Richmond Fed’s Tom Barkin on the Surprisingly Resilient Real Economy](https://gist.github.com/Rohoe/792aa64d3aae72c4010061a1c4e2c4af) | Joe Weisenthal, Tom Barkin, Tracy Allaway | Bloomberg | 00:37:38 | 2026-08-31 |
 | [JUST IN: Scott Bessent and Fed Chair Kevin Warsh Address G20 Finance Leaders in Asheville | AF1G](https://gist.github.com/Rohoe/1fbea6f9cc657e619c418a5182df041d) | EU Official, Kevin Warsh, Scott Bessent, Speaker 8 | DRM News | 00:25:50 | 2026-08-31 |
+| [Why AI Demand Is Outrunning Compute Supply](https://gist.github.com/Rohoe/cee98e3986f5203f3cfc851b5384809a) | David George, Gavin Baker | a16z | 01:14:25 | 2026-08-31 |
 | [Markets Weekly August 29, 2026](https://gist.github.com/Rohoe/8d4bcb2f958c728188bed20a636e1626) | Joseph Wang | Joseph Wang | 00:13:29 | 2026-08-29 |
 | [Blackstone's Jon Gray on Big Bets, AI, & Staying Skeptical | The CEO Signal](https://gist.github.com/Rohoe/6fa11c6b6e43adc0c57f421f33fd406b) | Andrew Edgecliffe-Johnson, Jon Gray, Penny Pritzker | Semafor | 00:50:38 | 2026-08-28 |
 | [Why the Fed Is Stuck, Who's Really Buying Gold, and What AI Capex Is Hiding*](https://gist.github.com/Rohoe/c7f1562cb0653af723d9c6361940f3c1) | Harry, Jeff DeGraff, Kevin Muir, Steve Duttonoffer | RenMac | 00:51:28 | 2026-08-28 |
@@ -389,6 +390,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [Global Liquidity Signals What’s Next for Gold & Markets | Michael Howell](https://gist.github.com/Rohoe/418d1041d2270318303e9bd3ed49bfa0) | Michael Howell, Vladyslav Grabarskyy | Wealth Building Blueprint – Vladyslav Grabarskyy | 00:43:19 | 2026-06-19 |
 
+### a16z (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Why AI Demand Is Outrunning Compute Supply](https://gist.github.com/Rohoe/cee98e3986f5203f3cfc851b5384809a) | David George, Gavin Baker | a16z | 01:14:25 | 2026-08-31 |
+
 ## By speaker
 
 ### Patrick O'Shaughnessy (14)
@@ -508,6 +515,14 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Robinhood CEO Vlad Tenev: Tokenization will take over the entire financial system](https://gist.github.com/Rohoe/593aa22f34038c2b7738ed19c5988948) | CNBC Television, Vlad Tenev | CNBC Television | 00:07:02 | 2026-08-22 |
 | [Brad Gerstner on the market, tech and the flood of mega IPOs](https://gist.github.com/Rohoe/cc4d536a90551ebc656f586930a24665) | Brad Gerstner, CNBC Television, Jim, Josh Brown | CNBC Television | 00:09:24 | 2026-05-29 |
 
+### Gavin Baker (3)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Why AI Demand Is Outrunning Compute Supply](https://gist.github.com/Rohoe/cee98e3986f5203f3cfc851b5384809a) | David George, Gavin Baker | a16z | 01:14:25 | 2026-08-31 |
+| [Gavin Baker - Nvidia v. Google, Scaling Laws, and the Economics of AI](https://gist.github.com/Rohoe/cf23ee087cfda4db0f1956a064d2a169) | Gavin Baker, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 01:24:13 | 2026-08-09 |
+| [Gavin Baker - AI Market Jitters - [Invest Like the Best, EP.485]](https://gist.github.com/Rohoe/132f5101f3fd7374b05c9f03300dae8a) | Gavin Baker, Patrick O'Shaughnessy | Colossus | 01:06:04 | 2026-08-08 |
+
 ### Hong Hao (3)
 
 | Title | Speakers | Host | Duration | Added |
@@ -554,19 +569,19 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Louis-Vincent Gave: Inside China's Plan to Kill the Dollar's Dominance](https://gist.github.com/Rohoe/84d1e2d411ec8a873abcd5b49bfa92e6) | Dan Nathan, Louis-Vincent Gave, Peter Boockvar | RiskReversal Media | 01:07:38 | 2026-08-16 |
 | [Mike Wilson's Second-Half Outlook](https://gist.github.com/Rohoe/b6291cf31d74c4499c9c3b10a5b81df1) | Dan Nathan, Guy Adami, Mike Wilson | RiskReversal Media | 01:03:35 | 2026-08-16 |
 
+### David George (2)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Why AI Demand Is Outrunning Compute Supply](https://gist.github.com/Rohoe/cee98e3986f5203f3cfc851b5384809a) | David George, Gavin Baker | a16z | 01:14:25 | 2026-08-31 |
+| [David George - Building a16z Growth, Investing Across the AI Stack, and Why Markets Misprice Growth](https://gist.github.com/Rohoe/d9d9493d4d09ee05c382166de827553b) | David George, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 01:05:41 | 2026-08-09 |
+
 ### Disclaimer (2)
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Why the US Dollar Could Continue to Strengthen](https://gist.github.com/Rohoe/06dbeb7d54e291e3f6fca6183d9d789f) | Brian Dunne, Chris Hussey, Disclaimer | Goldman Sachs | 00:10:30 | 2026-07-16 |
 | [What Changed After the U.S.-China Summit?](https://gist.github.com/Rohoe/9d30f0c09509cc735c9032277337adc1) | Disclaimer, Michael Zezas | Morgan Stanley | 00:02:56 | 2026-05-28 |
-
-### Gavin Baker (2)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [Gavin Baker - Nvidia v. Google, Scaling Laws, and the Economics of AI](https://gist.github.com/Rohoe/cf23ee087cfda4db0f1956a064d2a169) | Gavin Baker, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 01:24:13 | 2026-08-09 |
-| [Gavin Baker - AI Market Jitters - [Invest Like the Best, EP.485]](https://gist.github.com/Rohoe/132f5101f3fd7374b05c9f03300dae8a) | Gavin Baker, Patrick O'Shaughnessy | Colossus | 01:06:04 | 2026-08-08 |
 
 ### Guest 1 (2)
 
@@ -770,12 +785,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Dario Amodei — \"We are near the end of the exponential\"](https://gist.github.com/Rohoe/77c4f3e24757fa96f37bcef288e9e868) | Dario Amodei, Dwarkesh Patel | Dwarkesh Patel | 02:22:18 | 2026-08-09 |
-
-### David George (1)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [David George - Building a16z Growth, Investing Across the AI Stack, and Why Markets Misprice Growth](https://gist.github.com/Rohoe/d9d9493d4d09ee05c382166de827553b) | David George, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 01:05:41 | 2026-08-09 |
 
 ### David Mericle (1)
 
