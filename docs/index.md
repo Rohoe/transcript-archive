@@ -4,12 +4,13 @@
 
 _Publishable transcripts produced by Transcript-Scribe._
 
-**89 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
+**90 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
 
 ## Latest
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
+| [Adam Posen Thinks Things Could Get Very 'Messy' for the Fed](https://gist.github.com/Rohoe/2bedd98dbbd8871dd24fc54418c7c351) | Adam Posen, Jill Weisenthal, Tracy Allaway | Bloomberg | 01:07:38 | 2026-09-01 |
 | [Richmond Fed’s Tom Barkin on the Surprisingly Resilient Real Economy](https://gist.github.com/Rohoe/792aa64d3aae72c4010061a1c4e2c4af) | Joe Weisenthal, Tom Barkin, Tracy Allaway | Bloomberg | 00:37:38 | 2026-08-31 |
 | [JUST IN: Scott Bessent and Fed Chair Kevin Warsh Address G20 Finance Leaders in Asheville | AF1G](https://gist.github.com/Rohoe/1fbea6f9cc657e619c418a5182df041d) | EU Official, Kevin Warsh, Scott Bessent, Speaker 8 | DRM News | 00:25:50 | 2026-08-31 |
 | [Why AI Demand Is Outrunning Compute Supply](https://gist.github.com/Rohoe/cee98e3986f5203f3cfc851b5384809a) | David George, Gavin Baker | a16z | 01:14:25 | 2026-08-31 |
@@ -172,6 +173,14 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [The View Beyond: China after the AI correction](https://gist.github.com/Rohoe/d627ceb17414d980a0a77a10f0ac1ad9) | Hong Hao, Richard Tang, Speaker 4 | Adventurous Media | 00:18:35 | 2026-07-18 |
 | [The View Beyond: China’s old and new tech divide](https://gist.github.com/Rohoe/2961d7ae9844cca6483b4ced9a3e20b9) | Hong Hao, Richard Tang, Speaker 4 | Adventurous Media | 00:25:13 | 2026-06-20 |
 
+### Bloomberg (3)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Adam Posen Thinks Things Could Get Very 'Messy' for the Fed](https://gist.github.com/Rohoe/2bedd98dbbd8871dd24fc54418c7c351) | Adam Posen, Jill Weisenthal, Tracy Allaway | Bloomberg | 01:07:38 | 2026-09-01 |
+| [Richmond Fed’s Tom Barkin on the Surprisingly Resilient Real Economy](https://gist.github.com/Rohoe/792aa64d3aae72c4010061a1c4e2c4af) | Joe Weisenthal, Tom Barkin, Tracy Allaway | Bloomberg | 00:37:38 | 2026-08-31 |
+| [Brad Setser on the US's Unusual Japanese Yen Intervention](https://gist.github.com/Rohoe/fe615504c76556e3f0c2e1827934dd9d) | Brad Setser, Joe Weisenthal, Tracy Alloway | Bloomberg | 00:47:39 | 2026-08-06 |
+
 ### CNBC Television (3)
 
 | Title | Speakers | Host | Duration | Added |
@@ -202,13 +211,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding](https://gist.github.com/Rohoe/e5eb6098fcc21575e3c359bfe5c58ea9) | Anton Osika, Jason, Pat Gelsinger, Speaker 3, Speaker 6 | All-In Podcast | 00:49:24 | 2026-07-16 |
 | [Trump-Xi Summit, Benioff: \"Not My First SaaSpocalypse,\" OpenAI vs Apple, Multi-Sensory AI, El Niño](https://gist.github.com/Rohoe/84cf1dc553dd422b2f73e3b818ebfa19) | Chamath, Friedberg, Jason, Mark Benioff | All-In Podcast | 01:16:29 | 2026-05-27 |
-
-### Bloomberg (2)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [Richmond Fed’s Tom Barkin on the Surprisingly Resilient Real Economy](https://gist.github.com/Rohoe/792aa64d3aae72c4010061a1c4e2c4af) | Joe Weisenthal, Tom Barkin, Tracy Allaway | Bloomberg | 00:37:38 | 2026-08-31 |
-| [Brad Setser on the US's Unusual Japanese Yen Intervention](https://gist.github.com/Rohoe/fe615504c76556e3f0c2e1827934dd9d) | Brad Setser, Joe Weisenthal, Tracy Alloway | Bloomberg | 00:47:39 | 2026-08-06 |
 
 ### Colossus (2)
 
@@ -653,6 +655,13 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [JUST IN: Scott Bessent and Fed Chair Kevin Warsh Address G20 Finance Leaders in Asheville | AF1G](https://gist.github.com/Rohoe/1fbea6f9cc657e619c418a5182df041d) | EU Official, Kevin Warsh, Scott Bessent, Speaker 8 | DRM News | 00:25:50 | 2026-08-31 |
 | [What Makes a Great Macro Fund Manager? Meet Scott Bessent, Trump's Treasury Secretary](https://gist.github.com/Rohoe/51c17a76d1159cd448f3600f871c5014) | Scott Bessent, Simon Brewer | Money Maze Podcast | 01:02:58 | 2026-08-23 |
 
+### Tracy Allaway (2)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Adam Posen Thinks Things Could Get Very 'Messy' for the Fed](https://gist.github.com/Rohoe/2bedd98dbbd8871dd24fc54418c7c351) | Adam Posen, Jill Weisenthal, Tracy Allaway | Bloomberg | 01:07:38 | 2026-09-01 |
+| [Richmond Fed’s Tom Barkin on the Surprisingly Resilient Real Economy](https://gist.github.com/Rohoe/792aa64d3aae72c4010061a1c4e2c4af) | Joe Weisenthal, Tom Barkin, Tracy Allaway | Bloomberg | 00:37:38 | 2026-08-31 |
+
 ### UNKNOWN (2)
 
 | Title | Speakers | Host | Duration | Added |
@@ -665,6 +674,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Why Leonardo was a saboteur, Gutenberg went broke, and Florence was weird – Ada Palmer](https://gist.github.com/Rohoe/a9e063d9795a5f20d7f965579217aa6d) | Ada Palmer, Dwarkesh Patel | Dwarkesh Patel | 02:02:19 | 2026-08-09 |
+
+### Adam Posen (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Adam Posen Thinks Things Could Get Very 'Messy' for the Fed](https://gist.github.com/Rohoe/2bedd98dbbd8871dd24fc54418c7c351) | Adam Posen, Jill Weisenthal, Tracy Allaway | Bloomberg | 01:07:38 | 2026-09-01 |
 
 ### Alec Litowitz (1)
 
@@ -917,6 +932,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Jeremy Giffon - The Billion Dollar PDF - [Invest Like the Best, EP.481]](https://gist.github.com/Rohoe/2e1500289b8aeed53769a92189bd9abe) | Jeremy Giffon, Patrick O'Shaughnessy | Colossus | 01:15:19 | 2026-08-08 |
+
+### Jill Weisenthal (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Adam Posen Thinks Things Could Get Very 'Messy' for the Fed](https://gist.github.com/Rohoe/2bedd98dbbd8871dd24fc54418c7c351) | Adam Posen, Jill Weisenthal, Tracy Allaway | Bloomberg | 01:07:38 | 2026-09-01 |
 
 ### Jim (1)
 
@@ -1283,12 +1304,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [AI Dominates Economy and Markets with Torsten Slok | The Real Eisman Playbook Ep 68](https://gist.github.com/Rohoe/5530c85ea9406ea8b338ea6bf56549cc) | Steve Eisman, Torsten Slok | Steve Eisman | 00:56:23 | 2026-08-23 |
-
-### Tracy Allaway (1)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [Richmond Fed’s Tom Barkin on the Surprisingly Resilient Real Economy](https://gist.github.com/Rohoe/792aa64d3aae72c4010061a1c4e2c4af) | Joe Weisenthal, Tom Barkin, Tracy Allaway | Bloomberg | 00:37:38 | 2026-08-31 |
 
 ### Tracy Alloway (1)
 
