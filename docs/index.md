@@ -4,12 +4,13 @@
 
 _Publishable transcripts produced by Transcript-Scribe._
 
-**90 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
+**91 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
 
 ## Latest
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
+| [Kuppy: What If the Asset Bubble is the Whole Point?](https://gist.github.com/Rohoe/c867cd89ca5e07a68924d706974aba13) | Harris 'Kuppy' Kupperman, Maggie Lake | Maggie Lake Talking Markets  | 00:53:42 | 2026-09-02 |
 | [Adam Posen Thinks Things Could Get Very 'Messy' for the Fed](https://gist.github.com/Rohoe/2bedd98dbbd8871dd24fc54418c7c351) | Adam Posen, Jill Weisenthal, Tracy Allaway | Bloomberg | 01:07:38 | 2026-09-01 |
 | [Richmond Fed’s Tom Barkin on the Surprisingly Resilient Real Economy](https://gist.github.com/Rohoe/792aa64d3aae72c4010061a1c4e2c4af) | Joe Weisenthal, Tom Barkin, Tracy Allaway | Bloomberg | 00:37:38 | 2026-08-31 |
 | [JUST IN: Scott Bessent and Fed Chair Kevin Warsh Address G20 Finance Leaders in Asheville | AF1G](https://gist.github.com/Rohoe/1fbea6f9cc657e619c418a5182df041d) | EU Official, Kevin Warsh, Scott Bessent, Speaker 8 | DRM News | 00:25:50 | 2026-08-31 |
@@ -319,6 +320,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [One Hour of Macro Episode 1 - Louis Vincent Gave - CEO of Gavekal](https://gist.github.com/Rohoe/6396851c6f389fe43581f4d83a8a463c) | Louis Vincent Gave, Martin Tixier, Zoltan Szelyes | Macronomics | 01:06:24 | 2026-07-28 |
+
+### Maggie Lake Talking Markets  (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Kuppy: What If the Asset Bubble is the Whole Point?](https://gist.github.com/Rohoe/c867cd89ca5e07a68924d706974aba13) | Harris 'Kuppy' Kupperman, Maggie Lake | Maggie Lake Talking Markets  | 00:53:42 | 2026-09-02 |
 
 ### Max Wiethe (1)
 
@@ -903,6 +910,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [Mike Wilson's Second-Half Outlook](https://gist.github.com/Rohoe/b6291cf31d74c4499c9c3b10a5b81df1) | Dan Nathan, Guy Adami, Mike Wilson | RiskReversal Media | 01:03:35 | 2026-08-16 |
 
+### Harris 'Kuppy' Kupperman (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Kuppy: What If the Asset Bubble is the Whole Point?](https://gist.github.com/Rohoe/c867cd89ca5e07a68924d706974aba13) | Harris 'Kuppy' Kupperman, Maggie Lake | Maggie Lake Talking Markets  | 00:53:42 | 2026-09-02 |
+
 ### Howard Mason (1)
 
 | Title | Speakers | Host | Duration | Added |
@@ -1052,6 +1065,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Louis-Vincent Gave: Inside China's Plan to Kill the Dollar's Dominance](https://gist.github.com/Rohoe/84d1e2d411ec8a873abcd5b49bfa92e6) | Dan Nathan, Louis-Vincent Gave, Peter Boockvar | RiskReversal Media | 01:07:38 | 2026-08-16 |
+
+### Maggie Lake (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Kuppy: What If the Asset Bubble is the Whole Point?](https://gist.github.com/Rohoe/c867cd89ca5e07a68924d706974aba13) | Harris 'Kuppy' Kupperman, Maggie Lake | Maggie Lake Talking Markets  | 00:53:42 | 2026-09-02 |
 
 ### Mark Benioff (1)
 
