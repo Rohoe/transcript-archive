@@ -4,13 +4,14 @@
 
 _Publishable transcripts produced by Transcript-Scribe._
 
-**92 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
+**93 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
 
 ## Latest
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [MARKET UPDATE: Hot Payrolls, Hotter Memecoins, And Se From FOMO Talks The Future Of Trading](https://gist.github.com/Rohoe/ea5b349c5400726824e7e9ba6b81ca77) | Avi, Se, Speaker 4 | 1KX Media | 01:06:06 | 2026-09-05 |
+| [Why Gold Is Expected to Rise to Record Highs](https://gist.github.com/Rohoe/cdaa8beed559c484947dfad8ea56b4bf) | Chris Hussey, Tony Kim | Goldman Sachs | 00:11:37 | 2026-09-05 |
 | [Kuppy: What If the Asset Bubble is the Whole Point?](https://gist.github.com/Rohoe/c867cd89ca5e07a68924d706974aba13) | Harris 'Kuppy' Kupperman, Maggie Lake | Maggie Lake Talking Markets  | 00:53:42 | 2026-09-02 |
 | [Adam Posen Thinks Things Could Get Very 'Messy' for the Fed](https://gist.github.com/Rohoe/2bedd98dbbd8871dd24fc54418c7c351) | Adam Posen, Jill Weisenthal, Tracy Allaway | Bloomberg | 01:07:38 | 2026-09-01 |
 | [Richmond Fed’s Tom Barkin on the Surprisingly Resilient Real Economy](https://gist.github.com/Rohoe/792aa64d3aae72c4010061a1c4e2c4af) | Joe Weisenthal, Tom Barkin, Tracy Allaway | Bloomberg | 00:37:38 | 2026-08-31 |
@@ -176,6 +177,15 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [The View Beyond: China after the AI correction](https://gist.github.com/Rohoe/d627ceb17414d980a0a77a10f0ac1ad9) | Hong Hao, Richard Tang, Speaker 4 | Adventurous Media | 00:18:35 | 2026-07-18 |
 | [The View Beyond: China’s old and new tech divide](https://gist.github.com/Rohoe/2961d7ae9844cca6483b4ced9a3e20b9) | Hong Hao, Richard Tang, Speaker 4 | Adventurous Media | 00:25:13 | 2026-06-20 |
 
+### Goldman Sachs (4)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Why Gold Is Expected to Rise to Record Highs](https://gist.github.com/Rohoe/cdaa8beed559c484947dfad8ea56b4bf) | Chris Hussey, Tony Kim | Goldman Sachs | 00:11:37 | 2026-09-05 |
+| [US Midyear Outlook: Geopolitical Shocks, the New Fed Era, and Growth](https://gist.github.com/Rohoe/572b58bbabbe39baf4904f40a98e7224) | Allison Nathan, David Mericle, Speaker 4 | Goldman Sachs | 00:18:46 | 2026-07-26 |
+| [Why the US Dollar Could Continue to Strengthen](https://gist.github.com/Rohoe/06dbeb7d54e291e3f6fca6183d9d789f) | Brian Dunne, Chris Hussey, Disclaimer | Goldman Sachs | 00:10:30 | 2026-07-16 |
+| [Citadel's Ken Griffin on AI, US-China Tensions, and US Data Centers](https://gist.github.com/Rohoe/1be5ecce37e79aee98cc7866b336a053) | Ken Griffin, Raj Mahajan, Speaker 4 | Goldman Sachs | 00:31:22 | 2026-07-14 |
+
 ### Bloomberg (3)
 
 | Title | Speakers | Host | Duration | Added |
@@ -199,14 +209,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Druck Calls Out Bessent & Will Jackson Hole Derail The Debasement Trade? | Weekly Roundup](https://gist.github.com/Rohoe/6d214f128bbf2c0b82f1a34dc0b6ba5c) | Felix, Quinn | Forward Guidance | 00:53:09 | 2026-08-27 |
 | [Treasury-Led Financial Repression Is Ushering In A Debasement Regime | Weekly Roundup](https://gist.github.com/Rohoe/fcafaa53688bc7abbd63eac27d3e2e80) | Felix, Quinn | Forward Guidance | 00:53:42 | 2026-08-20 |
 | [The AI Trade Is Finally Cracking | Weekly Roundup](https://gist.github.com/Rohoe/13803295d59858dc83dc4c0cb3634dd4) | Felix, Quinn | Forward Guidance | 00:46:33 | 2026-07-03 |
-
-### Goldman Sachs (3)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [US Midyear Outlook: Geopolitical Shocks, the New Fed Era, and Growth](https://gist.github.com/Rohoe/572b58bbabbe39baf4904f40a98e7224) | Allison Nathan, David Mericle, Speaker 4 | Goldman Sachs | 00:18:46 | 2026-07-26 |
-| [Why the US Dollar Could Continue to Strengthen](https://gist.github.com/Rohoe/06dbeb7d54e291e3f6fca6183d9d789f) | Brian Dunne, Chris Hussey, Disclaimer | Goldman Sachs | 00:10:30 | 2026-07-16 |
-| [Citadel's Ken Griffin on AI, US-China Tensions, and US Data Centers](https://gist.github.com/Rohoe/1be5ecce37e79aee98cc7866b336a053) | Ken Griffin, Raj Mahajan, Speaker 4 | Goldman Sachs | 00:31:22 | 2026-07-14 |
 
 ### All-In Podcast (2)
 
@@ -575,6 +577,13 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Ex-Palantir Analyst On The Inner Workings Of Intelligence & Markets In A World Of Socialism](https://gist.github.com/Rohoe/e7dbf7ff61c3a8bcab8771fc959deb29) | Alex Good, Avi, Avi Felman | 1000x | 00:49:02 | 2026-07-29 |
 | [From Poker Pro To Trading Giant: Inside The Mind of Selini Capital](https://gist.github.com/Rohoe/af95a67a9f3618a532764614dc29fc11) | Avi Felman, Jordi Alexander, Speaker 3 | 1000x | 00:30:40 | 2026-07-16 |
 
+### Chris Hussey (2)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Why Gold Is Expected to Rise to Record Highs](https://gist.github.com/Rohoe/cdaa8beed559c484947dfad8ea56b4bf) | Chris Hussey, Tony Kim | Goldman Sachs | 00:11:37 | 2026-09-05 |
+| [Why the US Dollar Could Continue to Strengthen](https://gist.github.com/Rohoe/06dbeb7d54e291e3f6fca6183d9d789f) | Brian Dunne, Chris Hussey, Disclaimer | Goldman Sachs | 00:10:30 | 2026-07-16 |
+
 ### Dan Nathan (2)
 
 | Title | Speakers | Host | Duration | Added |
@@ -793,12 +802,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Trump-Xi Summit, Benioff: \"Not My First SaaSpocalypse,\" OpenAI vs Apple, Multi-Sensory AI, El Niño](https://gist.github.com/Rohoe/84cf1dc553dd422b2f73e3b818ebfa19) | Chamath, Friedberg, Jason, Mark Benioff | All-In Podcast | 01:16:29 | 2026-05-27 |
-
-### Chris Hussey (1)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [Why the US Dollar Could Continue to Strengthen](https://gist.github.com/Rohoe/06dbeb7d54e291e3f6fca6183d9d789f) | Brian Dunne, Chris Hussey, Disclaimer | Goldman Sachs | 00:10:30 | 2026-07-16 |
 
 ### Dan Nishball (1)
 
@@ -1327,6 +1330,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Richmond Fed’s Tom Barkin on the Surprisingly Resilient Real Economy](https://gist.github.com/Rohoe/792aa64d3aae72c4010061a1c4e2c4af) | Joe Weisenthal, Tom Barkin, Tracy Allaway | Bloomberg | 00:37:38 | 2026-08-31 |
+
+### Tony Kim (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Why Gold Is Expected to Rise to Record Highs](https://gist.github.com/Rohoe/cdaa8beed559c484947dfad8ea56b4bf) | Chris Hussey, Tony Kim | Goldman Sachs | 00:11:37 | 2026-09-05 |
 
 ### Torsten Slok (1)
 
