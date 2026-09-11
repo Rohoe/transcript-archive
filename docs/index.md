@@ -4,12 +4,13 @@
 
 _Publishable transcripts produced by Transcript-Scribe._
 
-**94 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
+**95 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
 
 ## Latest
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
+| [The Bond Market Is Trapping The Fed | Weekly Roundup](https://gist.github.com/Rohoe/365fd106989e8cd1c0315b88a2195a55) | Felix, Quinn | Blockworks | 00:45:23 | 2026-09-11 |
 | [MARKET UPDATE: Hot Payrolls, Hotter Memecoins, And Se From FOMO Talks The Future Of Trading](https://gist.github.com/Rohoe/ea5b349c5400726824e7e9ba6b81ca77) | Avi, Se, Speaker 4 | 1KX Media | 01:06:06 | 2026-09-05 |
 | [Why Gold Is Expected to Rise to Record Highs](https://gist.github.com/Rohoe/cdaa8beed559c484947dfad8ea56b4bf) | Chris Hussey, Tony Kim | Goldman Sachs | 00:11:37 | 2026-09-05 |
 | [Fiscal Dominance Is Breaking The 60/40 Portfolio | Matt Hougan & Bob Haber](https://gist.github.com/Rohoe/133d5499cab97d2a8d4dd890a81aa62c) | Bob Haber, Felix, Matt Hougan | Blockworks | 00:44:50 | 2026-09-05 |
@@ -187,6 +188,14 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Why the US Dollar Could Continue to Strengthen](https://gist.github.com/Rohoe/06dbeb7d54e291e3f6fca6183d9d789f) | Brian Dunne, Chris Hussey, Disclaimer | Goldman Sachs | 00:10:30 | 2026-07-16 |
 | [Citadel's Ken Griffin on AI, US-China Tensions, and US Data Centers](https://gist.github.com/Rohoe/1be5ecce37e79aee98cc7866b336a053) | Ken Griffin, Raj Mahajan, Speaker 4 | Goldman Sachs | 00:31:22 | 2026-07-14 |
 
+### Blockworks (3)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [The Bond Market Is Trapping The Fed | Weekly Roundup](https://gist.github.com/Rohoe/365fd106989e8cd1c0315b88a2195a55) | Felix, Quinn | Blockworks | 00:45:23 | 2026-09-11 |
+| [Fiscal Dominance Is Breaking The 60/40 Portfolio | Matt Hougan & Bob Haber](https://gist.github.com/Rohoe/133d5499cab97d2a8d4dd890a81aa62c) | Bob Haber, Felix, Matt Hougan | Blockworks | 00:44:50 | 2026-09-05 |
+| [Washington Is Suppressing Volatility To Keep The AI Boom Alive | Weekly Roundup](https://gist.github.com/Rohoe/79711e1934ec849daf56348d1bdab58d) | Felix, Quinn, Tyler | Blockworks | 00:59:54 | 2026-08-07 |
+
 ### Bloomberg (3)
 
 | Title | Speakers | Host | Duration | Added |
@@ -217,13 +226,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding](https://gist.github.com/Rohoe/e5eb6098fcc21575e3c359bfe5c58ea9) | Anton Osika, Jason, Pat Gelsinger, Speaker 3, Speaker 6 | All-In Podcast | 00:49:24 | 2026-07-16 |
 | [Trump-Xi Summit, Benioff: \"Not My First SaaSpocalypse,\" OpenAI vs Apple, Multi-Sensory AI, El Niño](https://gist.github.com/Rohoe/84cf1dc553dd422b2f73e3b818ebfa19) | Chamath, Friedberg, Jason, Mark Benioff | All-In Podcast | 01:16:29 | 2026-05-27 |
-
-### Blockworks (2)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [Fiscal Dominance Is Breaking The 60/40 Portfolio | Matt Hougan & Bob Haber](https://gist.github.com/Rohoe/133d5499cab97d2a8d4dd890a81aa62c) | Bob Haber, Felix, Matt Hougan | Blockworks | 00:44:50 | 2026-09-05 |
-| [Washington Is Suppressing Volatility To Keep The AI Boom Alive | Weekly Roundup](https://gist.github.com/Rohoe/79711e1934ec849daf56348d1bdab58d) | Felix, Quinn, Tyler | Blockworks | 00:59:54 | 2026-08-07 |
 
 ### Colossus (2)
 
@@ -496,11 +498,22 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [SpaceX: Start of the Next Megabubble or End of the Rally?](https://gist.github.com/Rohoe/e4c914cda449da83f7d747e9e7e2c8ab) | Avi, Jonah, Speaker 4, Unknown speaker | 1KX Media | 00:45:41 | 2026-06-18 |
 | [Sticky Inflation + Energy Prices: End of the Rally or Pause?](https://gist.github.com/Rohoe/8400f8a352e356ce1544555082c529fb) | Avi, Jonah | 1000x Podcast | 00:53:32 | 2026-05-24 |
 
-### Felix (5)
+### Felix (6)
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
+| [The Bond Market Is Trapping The Fed | Weekly Roundup](https://gist.github.com/Rohoe/365fd106989e8cd1c0315b88a2195a55) | Felix, Quinn | Blockworks | 00:45:23 | 2026-09-11 |
 | [Fiscal Dominance Is Breaking The 60/40 Portfolio | Matt Hougan & Bob Haber](https://gist.github.com/Rohoe/133d5499cab97d2a8d4dd890a81aa62c) | Bob Haber, Felix, Matt Hougan | Blockworks | 00:44:50 | 2026-09-05 |
+| [Druck Calls Out Bessent & Will Jackson Hole Derail The Debasement Trade? | Weekly Roundup](https://gist.github.com/Rohoe/6d214f128bbf2c0b82f1a34dc0b6ba5c) | Felix, Quinn | Forward Guidance | 00:53:09 | 2026-08-27 |
+| [Treasury-Led Financial Repression Is Ushering In A Debasement Regime | Weekly Roundup](https://gist.github.com/Rohoe/fcafaa53688bc7abbd63eac27d3e2e80) | Felix, Quinn | Forward Guidance | 00:53:42 | 2026-08-20 |
+| [Washington Is Suppressing Volatility To Keep The AI Boom Alive | Weekly Roundup](https://gist.github.com/Rohoe/79711e1934ec849daf56348d1bdab58d) | Felix, Quinn, Tyler | Blockworks | 00:59:54 | 2026-08-07 |
+| [The AI Trade Is Finally Cracking | Weekly Roundup](https://gist.github.com/Rohoe/13803295d59858dc83dc4c0cb3634dd4) | Felix, Quinn | Forward Guidance | 00:46:33 | 2026-07-03 |
+
+### Quinn (5)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [The Bond Market Is Trapping The Fed | Weekly Roundup](https://gist.github.com/Rohoe/365fd106989e8cd1c0315b88a2195a55) | Felix, Quinn | Blockworks | 00:45:23 | 2026-09-11 |
 | [Druck Calls Out Bessent & Will Jackson Hole Derail The Debasement Trade? | Weekly Roundup](https://gist.github.com/Rohoe/6d214f128bbf2c0b82f1a34dc0b6ba5c) | Felix, Quinn | Forward Guidance | 00:53:09 | 2026-08-27 |
 | [Treasury-Led Financial Repression Is Ushering In A Debasement Regime | Weekly Roundup](https://gist.github.com/Rohoe/fcafaa53688bc7abbd63eac27d3e2e80) | Felix, Quinn | Forward Guidance | 00:53:42 | 2026-08-20 |
 | [Washington Is Suppressing Volatility To Keep The AI Boom Alive | Weekly Roundup](https://gist.github.com/Rohoe/79711e1934ec849daf56348d1bdab58d) | Felix, Quinn, Tyler | Blockworks | 00:59:54 | 2026-08-07 |
@@ -515,15 +528,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [From Poker Pro To Trading Giant: Inside The Mind of Selini Capital](https://gist.github.com/Rohoe/af95a67a9f3618a532764614dc29fc11) | Avi Felman, Jordi Alexander, Speaker 3 | 1000x | 00:30:40 | 2026-07-16 |
 | [Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding](https://gist.github.com/Rohoe/e5eb6098fcc21575e3c359bfe5c58ea9) | Anton Osika, Jason, Pat Gelsinger, Speaker 3, Speaker 6 | All-In Podcast | 00:49:24 | 2026-07-16 |
 | [Are Rate Cuts Dead?](https://gist.github.com/Rohoe/0e3f28cfdd394befebf8054ba52a4824) | Speaker 2, Speaker 3 | 1KX Media | 00:53:05 | 2026-06-17 |
-
-### Quinn (4)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [Druck Calls Out Bessent & Will Jackson Hole Derail The Debasement Trade? | Weekly Roundup](https://gist.github.com/Rohoe/6d214f128bbf2c0b82f1a34dc0b6ba5c) | Felix, Quinn | Forward Guidance | 00:53:09 | 2026-08-27 |
-| [Treasury-Led Financial Repression Is Ushering In A Debasement Regime | Weekly Roundup](https://gist.github.com/Rohoe/fcafaa53688bc7abbd63eac27d3e2e80) | Felix, Quinn | Forward Guidance | 00:53:42 | 2026-08-20 |
-| [Washington Is Suppressing Volatility To Keep The AI Boom Alive | Weekly Roundup](https://gist.github.com/Rohoe/79711e1934ec849daf56348d1bdab58d) | Felix, Quinn, Tyler | Blockworks | 00:59:54 | 2026-08-07 |
-| [The AI Trade Is Finally Cracking | Weekly Roundup](https://gist.github.com/Rohoe/13803295d59858dc83dc4c0cb3634dd4) | Felix, Quinn | Forward Guidance | 00:46:33 | 2026-07-03 |
 
 ### CNBC Television (3)
 
