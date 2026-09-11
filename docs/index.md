@@ -4,13 +4,14 @@
 
 _Publishable transcripts produced by Transcript-Scribe._
 
-**95 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
+**96 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
 
 ## Latest
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [The Bond Market Is Trapping The Fed | Weekly Roundup](https://gist.github.com/Rohoe/365fd106989e8cd1c0315b88a2195a55) | Felix, Quinn | Blockworks | 00:45:23 | 2026-09-11 |
+| [Why Bridgewater's CIO Says AI's Human Extinction Risk Is Real](https://gist.github.com/Rohoe/fdf40b706b8eea9f9ff7b6feb5a2d66d) | Greg Jensen, Joe Weisenthal, Tracy Alloway | Bloomberg | 01:15:56 | 2026-09-11 |
 | [MARKET UPDATE: Hot Payrolls, Hotter Memecoins, And Se From FOMO Talks The Future Of Trading](https://gist.github.com/Rohoe/ea5b349c5400726824e7e9ba6b81ca77) | Avi, Se, Speaker 4 | 1KX Media | 01:06:06 | 2026-09-05 |
 | [Why Gold Is Expected to Rise to Record Highs](https://gist.github.com/Rohoe/cdaa8beed559c484947dfad8ea56b4bf) | Chris Hussey, Tony Kim | Goldman Sachs | 00:11:37 | 2026-09-05 |
 | [Fiscal Dominance Is Breaking The 60/40 Portfolio | Matt Hougan & Bob Haber](https://gist.github.com/Rohoe/133d5499cab97d2a8d4dd890a81aa62c) | Bob Haber, Felix, Matt Hougan | Blockworks | 00:44:50 | 2026-09-05 |
@@ -179,6 +180,15 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [The View Beyond: China after the AI correction](https://gist.github.com/Rohoe/d627ceb17414d980a0a77a10f0ac1ad9) | Hong Hao, Richard Tang, Speaker 4 | Adventurous Media | 00:18:35 | 2026-07-18 |
 | [The View Beyond: China’s old and new tech divide](https://gist.github.com/Rohoe/2961d7ae9844cca6483b4ced9a3e20b9) | Hong Hao, Richard Tang, Speaker 4 | Adventurous Media | 00:25:13 | 2026-06-20 |
 
+### Bloomberg (4)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Why Bridgewater's CIO Says AI's Human Extinction Risk Is Real](https://gist.github.com/Rohoe/fdf40b706b8eea9f9ff7b6feb5a2d66d) | Greg Jensen, Joe Weisenthal, Tracy Alloway | Bloomberg | 01:15:56 | 2026-09-11 |
+| [Adam Posen Thinks Things Could Get Very 'Messy' for the Fed](https://gist.github.com/Rohoe/2bedd98dbbd8871dd24fc54418c7c351) | Adam Posen, Jill Weisenthal, Tracy Allaway | Bloomberg | 01:07:38 | 2026-09-01 |
+| [Richmond Fed’s Tom Barkin on the Surprisingly Resilient Real Economy](https://gist.github.com/Rohoe/792aa64d3aae72c4010061a1c4e2c4af) | Joe Weisenthal, Tom Barkin, Tracy Allaway | Bloomberg | 00:37:38 | 2026-08-31 |
+| [Brad Setser on the US's Unusual Japanese Yen Intervention](https://gist.github.com/Rohoe/fe615504c76556e3f0c2e1827934dd9d) | Brad Setser, Joe Weisenthal, Tracy Alloway | Bloomberg | 00:47:39 | 2026-08-06 |
+
 ### Goldman Sachs (4)
 
 | Title | Speakers | Host | Duration | Added |
@@ -195,14 +205,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [The Bond Market Is Trapping The Fed | Weekly Roundup](https://gist.github.com/Rohoe/365fd106989e8cd1c0315b88a2195a55) | Felix, Quinn | Blockworks | 00:45:23 | 2026-09-11 |
 | [Fiscal Dominance Is Breaking The 60/40 Portfolio | Matt Hougan & Bob Haber](https://gist.github.com/Rohoe/133d5499cab97d2a8d4dd890a81aa62c) | Bob Haber, Felix, Matt Hougan | Blockworks | 00:44:50 | 2026-09-05 |
 | [Washington Is Suppressing Volatility To Keep The AI Boom Alive | Weekly Roundup](https://gist.github.com/Rohoe/79711e1934ec849daf56348d1bdab58d) | Felix, Quinn, Tyler | Blockworks | 00:59:54 | 2026-08-07 |
-
-### Bloomberg (3)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [Adam Posen Thinks Things Could Get Very 'Messy' for the Fed](https://gist.github.com/Rohoe/2bedd98dbbd8871dd24fc54418c7c351) | Adam Posen, Jill Weisenthal, Tracy Allaway | Bloomberg | 01:07:38 | 2026-09-01 |
-| [Richmond Fed’s Tom Barkin on the Surprisingly Resilient Real Economy](https://gist.github.com/Rohoe/792aa64d3aae72c4010061a1c4e2c4af) | Joe Weisenthal, Tom Barkin, Tracy Allaway | Bloomberg | 00:37:38 | 2026-08-31 |
-| [Brad Setser on the US's Unusual Japanese Yen Intervention](https://gist.github.com/Rohoe/fe615504c76556e3f0c2e1827934dd9d) | Brad Setser, Joe Weisenthal, Tracy Alloway | Bloomberg | 00:47:39 | 2026-08-06 |
 
 ### CNBC Television (3)
 
@@ -561,6 +563,14 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Brookfield's Bruce Flatt discusses NVIDIA strategic partnership on CNBC](https://gist.github.com/Rohoe/028ac823e3a97a5f6c628632d6aaa553) | Bruce Flatt, David Solomon, Host, Jensen Huang, Jim Zelter, John Gray, Larry Fink, Vladimir Zlazak | Brookfield | 00:35:07 | 2026-08-12 |
 | [Jeffrey Gundlach on the Fed: Talk Is Cheap | CNBC](https://gist.github.com/Rohoe/8ee28e9d7e2873ea50aa6e18c130a069) | Host, Jeffrey Gundlach, Scott Wapner | DoubleLine Capital | 00:25:50 | 2026-08-02 |
 
+### Joe Weisenthal (3)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Why Bridgewater's CIO Says AI's Human Extinction Risk Is Real](https://gist.github.com/Rohoe/fdf40b706b8eea9f9ff7b6feb5a2d66d) | Greg Jensen, Joe Weisenthal, Tracy Alloway | Bloomberg | 01:15:56 | 2026-09-11 |
+| [Richmond Fed’s Tom Barkin on the Surprisingly Resilient Real Economy](https://gist.github.com/Rohoe/792aa64d3aae72c4010061a1c4e2c4af) | Joe Weisenthal, Tom Barkin, Tracy Allaway | Bloomberg | 00:37:38 | 2026-08-31 |
+| [Brad Setser on the US's Unusual Japanese Yen Intervention](https://gist.github.com/Rohoe/fe615504c76556e3f0c2e1827934dd9d) | Brad Setser, Joe Weisenthal, Tracy Alloway | Bloomberg | 00:47:39 | 2026-08-06 |
+
 ### Richard Tang (3)
 
 | Title | Speakers | Host | Duration | Added |
@@ -647,13 +657,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Jeffrey Gundlach on the Fed: Talk Is Cheap | CNBC](https://gist.github.com/Rohoe/8ee28e9d7e2873ea50aa6e18c130a069) | Host, Jeffrey Gundlach, Scott Wapner | DoubleLine Capital | 00:25:50 | 2026-08-02 |
 | [Jeffrey Gundlach and Felix Zulauf: The Second Inning of a Major Shift](https://gist.github.com/Rohoe/6f2ca54226fcd7ebf4cfbc8cef985b88) | Felix Zulauf, Grant Williams, Jeffrey Gundlach, Unknown speaker | DoubleLine Capital | 01:00:56 | 2026-06-26 |
 
-### Joe Weisenthal (2)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [Richmond Fed’s Tom Barkin on the Surprisingly Resilient Real Economy](https://gist.github.com/Rohoe/792aa64d3aae72c4010061a1c4e2c4af) | Joe Weisenthal, Tom Barkin, Tracy Allaway | Bloomberg | 00:37:38 | 2026-08-31 |
-| [Brad Setser on the US's Unusual Japanese Yen Intervention](https://gist.github.com/Rohoe/fe615504c76556e3f0c2e1827934dd9d) | Brad Setser, Joe Weisenthal, Tracy Alloway | Bloomberg | 00:47:39 | 2026-08-06 |
-
 ### Jon Gray (2)
 
 | Title | Speakers | Host | Duration | Added |
@@ -688,6 +691,13 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [Adam Posen Thinks Things Could Get Very 'Messy' for the Fed](https://gist.github.com/Rohoe/2bedd98dbbd8871dd24fc54418c7c351) | Adam Posen, Jill Weisenthal, Tracy Allaway | Bloomberg | 01:07:38 | 2026-09-01 |
 | [Richmond Fed’s Tom Barkin on the Surprisingly Resilient Real Economy](https://gist.github.com/Rohoe/792aa64d3aae72c4010061a1c4e2c4af) | Joe Weisenthal, Tom Barkin, Tracy Allaway | Bloomberg | 00:37:38 | 2026-08-31 |
+
+### Tracy Alloway (2)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Why Bridgewater's CIO Says AI's Human Extinction Risk Is Real](https://gist.github.com/Rohoe/fdf40b706b8eea9f9ff7b6feb5a2d66d) | Greg Jensen, Joe Weisenthal, Tracy Alloway | Bloomberg | 01:15:56 | 2026-09-11 |
+| [Brad Setser on the US's Unusual Japanese Yen Intervention](https://gist.github.com/Rohoe/fe615504c76556e3f0c2e1827934dd9d) | Brad Setser, Joe Weisenthal, Tracy Alloway | Bloomberg | 00:47:39 | 2026-08-06 |
 
 ### UNKNOWN (2)
 
@@ -923,6 +933,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Jeffrey Gundlach and Felix Zulauf: The Second Inning of a Major Shift](https://gist.github.com/Rohoe/6f2ca54226fcd7ebf4cfbc8cef985b88) | Felix Zulauf, Grant Williams, Jeffrey Gundlach, Unknown speaker | DoubleLine Capital | 01:00:56 | 2026-06-26 |
+
+### Greg Jensen (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Why Bridgewater's CIO Says AI's Human Extinction Risk Is Real](https://gist.github.com/Rohoe/fdf40b706b8eea9f9ff7b6feb5a2d66d) | Greg Jensen, Joe Weisenthal, Tracy Alloway | Bloomberg | 01:15:56 | 2026-09-11 |
 
 ### Guy Adami (1)
 
@@ -1361,12 +1377,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [AI Dominates Economy and Markets with Torsten Slok | The Real Eisman Playbook Ep 68](https://gist.github.com/Rohoe/5530c85ea9406ea8b338ea6bf56549cc) | Steve Eisman, Torsten Slok | Steve Eisman | 00:56:23 | 2026-08-23 |
-
-### Tracy Alloway (1)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [Brad Setser on the US's Unusual Japanese Yen Intervention](https://gist.github.com/Rohoe/fe615504c76556e3f0c2e1827934dd9d) | Brad Setser, Joe Weisenthal, Tracy Alloway | Bloomberg | 00:47:39 | 2026-08-06 |
 
 ### Tyler (1)
 
