@@ -4,13 +4,14 @@
 
 _Publishable transcripts produced by Transcript-Scribe._
 
-**98 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
+**99 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
 
 ## Latest
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [September 2026 FOMC Debrief](https://gist.github.com/Rohoe/7dcd1b6e4ddb84b2f9aec26f32f53241) | Jack Farley, Joseph Wang | Joseph Wang | 00:35:10 | 2026-09-19 |
+| [Markets Weekly September 19, 2026](https://gist.github.com/Rohoe/6ad7bc2355f11e1ddf12eec2a9b8e8a2) | Joseph Wang | Joseph Wang | 00:16:20 | 2026-09-19 |
 | [Robert Friedland on the World's Monumental Shortage of Copper](https://gist.github.com/Rohoe/b92d2dbb26ffb7e4c03b8c95cd1913f0) | Joe Weisenthal, Robert Friedland, Tracy Alloway | Bloomberg | 01:18:11 | 2026-09-13 |
 | [The Bond Market Is Trapping The Fed | Weekly Roundup](https://gist.github.com/Rohoe/365fd106989e8cd1c0315b88a2195a55) | Felix, Quinn | Blockworks | 00:45:23 | 2026-09-11 |
 | [Why Bridgewater's CIO Says AI's Human Extinction Risk Is Real](https://gist.github.com/Rohoe/fdf40b706b8eea9f9ff7b6feb5a2d66d) | Greg Jensen, Joe Weisenthal, Tracy Alloway | Bloomberg | 01:15:56 | 2026-09-11 |
@@ -128,11 +129,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Joe Liemandt  - Building Alpha School, and The Future of Education](https://gist.github.com/Rohoe/7b45b0c8bcfbd47517eb84cc2280f5f8) | Joe Liemandt, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 02:26:11 | 2026-08-08 |
 | [Tobi Lütke - Building Islands of Innovation](https://gist.github.com/Rohoe/59553fdae6c58501bd5e483a23688c27) | Patrick O'Shaughnessy, Tobi Lütke | Patrick O'Shaughnessy | 01:06:21 | 2026-08-08 |
 
-### Joseph Wang (9)
+### Joseph Wang (10)
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [September 2026 FOMC Debrief](https://gist.github.com/Rohoe/7dcd1b6e4ddb84b2f9aec26f32f53241) | Jack Farley, Joseph Wang | Joseph Wang | 00:35:10 | 2026-09-19 |
+| [Markets Weekly September 19, 2026](https://gist.github.com/Rohoe/6ad7bc2355f11e1ddf12eec2a9b8e8a2) | Joseph Wang | Joseph Wang | 00:16:20 | 2026-09-19 |
 | [Markets Weekly August 29, 2026](https://gist.github.com/Rohoe/8d4bcb2f958c728188bed20a636e1626) | Joseph Wang | Joseph Wang | 00:13:29 | 2026-08-29 |
 | [Markets Weekly August 22, 2026](https://gist.github.com/Rohoe/13878cdee9176ef5aba6ada07ef676c8) | Joseph Wang, Speaker 3 | Joseph Wang | 00:16:53 | 2026-08-22 |
 | [Markets Weekly August 15, 2026](https://gist.github.com/Rohoe/f140552fdbf5b64e7e94aa7fb41924bf) | Joseph Wang | Joseph Wang | 00:10:46 | 2026-08-16 |
@@ -440,6 +442,21 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Joe Liemandt  - Building Alpha School, and The Future of Education](https://gist.github.com/Rohoe/7b45b0c8bcfbd47517eb84cc2280f5f8) | Joe Liemandt, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 02:26:11 | 2026-08-08 |
 | [Tobi Lütke - Building Islands of Innovation](https://gist.github.com/Rohoe/59553fdae6c58501bd5e483a23688c27) | Patrick O'Shaughnessy, Tobi Lütke | Patrick O'Shaughnessy | 01:06:21 | 2026-08-08 |
 
+### Joseph Wang (10)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [September 2026 FOMC Debrief](https://gist.github.com/Rohoe/7dcd1b6e4ddb84b2f9aec26f32f53241) | Jack Farley, Joseph Wang | Joseph Wang | 00:35:10 | 2026-09-19 |
+| [Markets Weekly September 19, 2026](https://gist.github.com/Rohoe/6ad7bc2355f11e1ddf12eec2a9b8e8a2) | Joseph Wang | Joseph Wang | 00:16:20 | 2026-09-19 |
+| [Markets Weekly August 29, 2026](https://gist.github.com/Rohoe/8d4bcb2f958c728188bed20a636e1626) | Joseph Wang | Joseph Wang | 00:13:29 | 2026-08-29 |
+| [Markets Weekly August 22, 2026](https://gist.github.com/Rohoe/13878cdee9176ef5aba6ada07ef676c8) | Joseph Wang, Speaker 3 | Joseph Wang | 00:16:53 | 2026-08-22 |
+| [Markets Weekly August 15, 2026](https://gist.github.com/Rohoe/f140552fdbf5b64e7e94aa7fb41924bf) | Joseph Wang | Joseph Wang | 00:10:46 | 2026-08-16 |
+| [Markets Weekly August 8, 2026](https://gist.github.com/Rohoe/5cee2c29d6eef7ef9b549d285f537c9c) | Joseph Wang | Joseph Wang | 00:21:23 | 2026-08-08 |
+| [Markets Weekly August 1, 2026](https://gist.github.com/Rohoe/1c9f4db9f659ecb298ecc2f5a8f379ae) | Joseph Wang | Joseph Wang | 00:20:05 | 2026-08-01 |
+| [July 2026 FOMC Debrief](https://gist.github.com/Rohoe/f46d17bd8938fcbeb85b324400355938) | Guest 1, Joseph Wang, Kevin | Joseph Wang | 00:11:20 | 2026-07-29 |
+| [Markets Weekly July 18, 2026](https://gist.github.com/Rohoe/bd11ad150c2ba22227106a39143ae47a) | Joseph Wang, Speaker 3 | Joseph Wang | 00:17:33 | 2026-07-18 |
+| [Markets Weekly June 27, 2026](https://gist.github.com/Rohoe/a36fe55d37ad373ee2fd945b72f18b89) | Joseph Wang | Joseph Wang | 00:25:04 | 2026-06-27 |
+
 ### Avi (9)
 
 | Title | Speakers | Host | Duration | Added |
@@ -453,20 +470,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Who's Coming For The Market In Q3?](https://gist.github.com/Rohoe/2769ad7769d633634c83abc4e18e8464) | Avi, Jonah, Unknown speaker | 1000x | 00:56:44 | 2026-07-02 |
 | [SpaceX: Start of the Next Megabubble or End of the Rally?](https://gist.github.com/Rohoe/e4c914cda449da83f7d747e9e7e2c8ab) | Avi, Jonah, Speaker 4, Unknown speaker | 1KX Media | 00:45:41 | 2026-06-18 |
 | [Sticky Inflation + Energy Prices: End of the Rally or Pause?](https://gist.github.com/Rohoe/8400f8a352e356ce1544555082c529fb) | Avi, Jonah | 1000x Podcast | 00:53:32 | 2026-05-24 |
-
-### Joseph Wang (9)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [September 2026 FOMC Debrief](https://gist.github.com/Rohoe/7dcd1b6e4ddb84b2f9aec26f32f53241) | Jack Farley, Joseph Wang | Joseph Wang | 00:35:10 | 2026-09-19 |
-| [Markets Weekly August 29, 2026](https://gist.github.com/Rohoe/8d4bcb2f958c728188bed20a636e1626) | Joseph Wang | Joseph Wang | 00:13:29 | 2026-08-29 |
-| [Markets Weekly August 22, 2026](https://gist.github.com/Rohoe/13878cdee9176ef5aba6ada07ef676c8) | Joseph Wang, Speaker 3 | Joseph Wang | 00:16:53 | 2026-08-22 |
-| [Markets Weekly August 15, 2026](https://gist.github.com/Rohoe/f140552fdbf5b64e7e94aa7fb41924bf) | Joseph Wang | Joseph Wang | 00:10:46 | 2026-08-16 |
-| [Markets Weekly August 8, 2026](https://gist.github.com/Rohoe/5cee2c29d6eef7ef9b549d285f537c9c) | Joseph Wang | Joseph Wang | 00:21:23 | 2026-08-08 |
-| [Markets Weekly August 1, 2026](https://gist.github.com/Rohoe/1c9f4db9f659ecb298ecc2f5a8f379ae) | Joseph Wang | Joseph Wang | 00:20:05 | 2026-08-01 |
-| [July 2026 FOMC Debrief](https://gist.github.com/Rohoe/f46d17bd8938fcbeb85b324400355938) | Guest 1, Joseph Wang, Kevin | Joseph Wang | 00:11:20 | 2026-07-29 |
-| [Markets Weekly July 18, 2026](https://gist.github.com/Rohoe/bd11ad150c2ba22227106a39143ae47a) | Joseph Wang, Speaker 3 | Joseph Wang | 00:17:33 | 2026-07-18 |
-| [Markets Weekly June 27, 2026](https://gist.github.com/Rohoe/a36fe55d37ad373ee2fd945b72f18b89) | Joseph Wang | Joseph Wang | 00:25:04 | 2026-06-27 |
 
 ### Speaker 4 (8)
 
