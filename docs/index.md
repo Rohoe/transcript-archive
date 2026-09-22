@@ -4,12 +4,13 @@
 
 _Publishable transcripts produced by Transcript-Scribe._
 
-**100 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
+**101 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
 
 ## Latest
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
+| [FSD: Agents vs Computers](https://gist.github.com/Rohoe/9a5a6324da09953b1fb0d02cd5101f1f) | Ram Ahluwalia CFA, Lumida | Ram Ahluwalia CFA, Lumida | 00:22:17 | 2026-09-21 |
 | [The Fed Is Hiking Into A Growth Slowdown | Weekly Roundup](https://gist.github.com/Rohoe/e2fd3e36833c443ddd8f2235ff61680a) | Host, Quinn, Vincent Deluard | Blockworks | 01:12:30 | 2026-09-20 |
 | [September 2026 FOMC Debrief](https://gist.github.com/Rohoe/7dcd1b6e4ddb84b2f9aec26f32f53241) | Jack Farley, Joseph Wang | Joseph Wang | 00:35:10 | 2026-09-19 |
 | [Markets Weekly September 19, 2026](https://gist.github.com/Rohoe/6ad7bc2355f11e1ddf12eec2a9b8e8a2) | Joseph Wang | Joseph Wang | 00:16:20 | 2026-09-19 |
@@ -362,6 +363,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [What Changed After the U.S.-China Summit?](https://gist.github.com/Rohoe/9d30f0c09509cc735c9032277337adc1) | Disclaimer, Michael Zezas | Morgan Stanley | 00:02:56 | 2026-05-28 |
+
+### Ram Ahluwalia CFA, Lumida (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [FSD: Agents vs Computers](https://gist.github.com/Rohoe/9a5a6324da09953b1fb0d02cd5101f1f) | Ram Ahluwalia CFA, Lumida | Ram Ahluwalia CFA, Lumida | 00:22:17 | 2026-09-21 |
 
 ### Semafor (1)
 
@@ -1259,6 +1266,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [FSD: My Visit to Anthropic & The State of VC](https://gist.github.com/Rohoe/e76b69a297e1c1a70e2f25be5ca2b008) | Ram Ahluwalia | Lumida Wealth | 00:10:55 | 2026-08-19 |
+
+### Ram Ahluwalia CFA, Lumida (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [FSD: Agents vs Computers](https://gist.github.com/Rohoe/9a5a6324da09953b1fb0d02cd5101f1f) | Ram Ahluwalia CFA, Lumida | Ram Ahluwalia CFA, Lumida | 00:22:17 | 2026-09-21 |
 
 ### Rob (1)
 
