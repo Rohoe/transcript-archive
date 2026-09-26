@@ -4,12 +4,13 @@
 
 _Publishable transcripts produced by Transcript-Scribe._
 
-**101 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
+**102 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
 
 ## Latest
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
+| [The Bond Market Pain Isn't Over | Weekly Roundup](https://gist.github.com/Rohoe/640c84b51bcc4117a53291bddd75fa48) | DCP, Felix, Quinn | Blockworks | 01:01:33 | 2026-09-26 |
 | [FSD: Agents vs Computers](https://gist.github.com/Rohoe/9a5a6324da09953b1fb0d02cd5101f1f) | Ram Ahluwalia CFA, Lumida | Ram Ahluwalia CFA, Lumida | 00:22:17 | 2026-09-21 |
 | [The Fed Is Hiking Into A Growth Slowdown | Weekly Roundup](https://gist.github.com/Rohoe/e2fd3e36833c443ddd8f2235ff61680a) | Host, Quinn, Vincent Deluard | Blockworks | 01:12:30 | 2026-09-20 |
 | [September 2026 FOMC Debrief](https://gist.github.com/Rohoe/7dcd1b6e4ddb84b2f9aec26f32f53241) | Jack Farley, Joseph Wang | Joseph Wang | 00:35:10 | 2026-09-19 |
@@ -178,6 +179,16 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [SpaceX: Start of the Next Megabubble or End of the Rally?](https://gist.github.com/Rohoe/e4c914cda449da83f7d747e9e7e2c8ab) | Avi, Jonah, Speaker 4, Unknown speaker | 1KX Media | 00:45:41 | 2026-06-18 |
 | [Are Rate Cuts Dead?](https://gist.github.com/Rohoe/0e3f28cfdd394befebf8054ba52a4824) | Speaker 2, Speaker 3 | 1KX Media | 00:53:05 | 2026-06-17 |
 
+### Blockworks (5)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [The Bond Market Pain Isn't Over | Weekly Roundup](https://gist.github.com/Rohoe/640c84b51bcc4117a53291bddd75fa48) | DCP, Felix, Quinn | Blockworks | 01:01:33 | 2026-09-26 |
+| [The Fed Is Hiking Into A Growth Slowdown | Weekly Roundup](https://gist.github.com/Rohoe/e2fd3e36833c443ddd8f2235ff61680a) | Host, Quinn, Vincent Deluard | Blockworks | 01:12:30 | 2026-09-20 |
+| [The Bond Market Is Trapping The Fed | Weekly Roundup](https://gist.github.com/Rohoe/365fd106989e8cd1c0315b88a2195a55) | Felix, Quinn | Blockworks | 00:45:23 | 2026-09-11 |
+| [Fiscal Dominance Is Breaking The 60/40 Portfolio | Matt Hougan & Bob Haber](https://gist.github.com/Rohoe/133d5499cab97d2a8d4dd890a81aa62c) | Bob Haber, Felix, Matt Hougan | Blockworks | 00:44:50 | 2026-09-05 |
+| [Washington Is Suppressing Volatility To Keep The AI Boom Alive | Weekly Roundup](https://gist.github.com/Rohoe/79711e1934ec849daf56348d1bdab58d) | Felix, Quinn, Tyler | Blockworks | 00:59:54 | 2026-08-07 |
+
 ### Bloomberg (5)
 
 | Title | Speakers | Host | Duration | Added |
@@ -196,15 +207,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Top-down macro and bottom-up company results are moving markets today](https://gist.github.com/Rohoe/f6a75a166fae040e6317e5739d970583) | Carsten Menke, David Meyer, Mike Grauber, Mike Rauber, Speaker 5 | Adventurous Media | 00:12:20 | 2026-07-18 |
 | [The View Beyond: China after the AI correction](https://gist.github.com/Rohoe/d627ceb17414d980a0a77a10f0ac1ad9) | Hong Hao, Richard Tang, Speaker 4 | Adventurous Media | 00:18:35 | 2026-07-18 |
 | [The View Beyond: China’s old and new tech divide](https://gist.github.com/Rohoe/2961d7ae9844cca6483b4ced9a3e20b9) | Hong Hao, Richard Tang, Speaker 4 | Adventurous Media | 00:25:13 | 2026-06-20 |
-
-### Blockworks (4)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [The Fed Is Hiking Into A Growth Slowdown | Weekly Roundup](https://gist.github.com/Rohoe/e2fd3e36833c443ddd8f2235ff61680a) | Host, Quinn, Vincent Deluard | Blockworks | 01:12:30 | 2026-09-20 |
-| [The Bond Market Is Trapping The Fed | Weekly Roundup](https://gist.github.com/Rohoe/365fd106989e8cd1c0315b88a2195a55) | Felix, Quinn | Blockworks | 00:45:23 | 2026-09-11 |
-| [Fiscal Dominance Is Breaking The 60/40 Portfolio | Matt Hougan & Bob Haber](https://gist.github.com/Rohoe/133d5499cab97d2a8d4dd890a81aa62c) | Bob Haber, Felix, Matt Hougan | Blockworks | 00:44:50 | 2026-09-05 |
-| [Washington Is Suppressing Volatility To Keep The AI Boom Alive | Weekly Roundup](https://gist.github.com/Rohoe/79711e1934ec849daf56348d1bdab58d) | Felix, Quinn, Tyler | Blockworks | 00:59:54 | 2026-08-07 |
 
 ### Goldman Sachs (4)
 
@@ -505,6 +507,18 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Mark Zuckerberg — AI will write most Meta code in 18 months](https://gist.github.com/Rohoe/e827d3f8172ad97c926861c1ff3d46a2) | Dwarkesh Patel, Mark Zuckerberg | Dwarkesh Patel | 01:15:48 | 2026-05-29 |
 | [Jeff Dean & Noam Shazeer — 25 years at Google: from PageRank to AGI](https://gist.github.com/Rohoe/9c9bf7825b3c009460804fc7af664217) | Dwarkesh Patel, Jeff Dean, Noam Shazeer | Dwarkesh Patel | 02:15:29 | 2026-05-27 |
 
+### Felix (7)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [The Bond Market Pain Isn't Over | Weekly Roundup](https://gist.github.com/Rohoe/640c84b51bcc4117a53291bddd75fa48) | DCP, Felix, Quinn | Blockworks | 01:01:33 | 2026-09-26 |
+| [The Bond Market Is Trapping The Fed | Weekly Roundup](https://gist.github.com/Rohoe/365fd106989e8cd1c0315b88a2195a55) | Felix, Quinn | Blockworks | 00:45:23 | 2026-09-11 |
+| [Fiscal Dominance Is Breaking The 60/40 Portfolio | Matt Hougan & Bob Haber](https://gist.github.com/Rohoe/133d5499cab97d2a8d4dd890a81aa62c) | Bob Haber, Felix, Matt Hougan | Blockworks | 00:44:50 | 2026-09-05 |
+| [Druck Calls Out Bessent & Will Jackson Hole Derail The Debasement Trade? | Weekly Roundup](https://gist.github.com/Rohoe/6d214f128bbf2c0b82f1a34dc0b6ba5c) | Felix, Quinn | Forward Guidance | 00:53:09 | 2026-08-27 |
+| [Treasury-Led Financial Repression Is Ushering In A Debasement Regime | Weekly Roundup](https://gist.github.com/Rohoe/fcafaa53688bc7abbd63eac27d3e2e80) | Felix, Quinn | Forward Guidance | 00:53:42 | 2026-08-20 |
+| [Washington Is Suppressing Volatility To Keep The AI Boom Alive | Weekly Roundup](https://gist.github.com/Rohoe/79711e1934ec849daf56348d1bdab58d) | Felix, Quinn, Tyler | Blockworks | 00:59:54 | 2026-08-07 |
+| [The AI Trade Is Finally Cracking | Weekly Roundup](https://gist.github.com/Rohoe/13803295d59858dc83dc4c0cb3634dd4) | Felix, Quinn | Forward Guidance | 00:46:33 | 2026-07-03 |
+
 ### Jonah (7)
 
 | Title | Speakers | Host | Duration | Added |
@@ -517,21 +531,11 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [SpaceX: Start of the Next Megabubble or End of the Rally?](https://gist.github.com/Rohoe/e4c914cda449da83f7d747e9e7e2c8ab) | Avi, Jonah, Speaker 4, Unknown speaker | 1KX Media | 00:45:41 | 2026-06-18 |
 | [Sticky Inflation + Energy Prices: End of the Rally or Pause?](https://gist.github.com/Rohoe/8400f8a352e356ce1544555082c529fb) | Avi, Jonah | 1000x Podcast | 00:53:32 | 2026-05-24 |
 
-### Felix (6)
+### Quinn (7)
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
-| [The Bond Market Is Trapping The Fed | Weekly Roundup](https://gist.github.com/Rohoe/365fd106989e8cd1c0315b88a2195a55) | Felix, Quinn | Blockworks | 00:45:23 | 2026-09-11 |
-| [Fiscal Dominance Is Breaking The 60/40 Portfolio | Matt Hougan & Bob Haber](https://gist.github.com/Rohoe/133d5499cab97d2a8d4dd890a81aa62c) | Bob Haber, Felix, Matt Hougan | Blockworks | 00:44:50 | 2026-09-05 |
-| [Druck Calls Out Bessent & Will Jackson Hole Derail The Debasement Trade? | Weekly Roundup](https://gist.github.com/Rohoe/6d214f128bbf2c0b82f1a34dc0b6ba5c) | Felix, Quinn | Forward Guidance | 00:53:09 | 2026-08-27 |
-| [Treasury-Led Financial Repression Is Ushering In A Debasement Regime | Weekly Roundup](https://gist.github.com/Rohoe/fcafaa53688bc7abbd63eac27d3e2e80) | Felix, Quinn | Forward Guidance | 00:53:42 | 2026-08-20 |
-| [Washington Is Suppressing Volatility To Keep The AI Boom Alive | Weekly Roundup](https://gist.github.com/Rohoe/79711e1934ec849daf56348d1bdab58d) | Felix, Quinn, Tyler | Blockworks | 00:59:54 | 2026-08-07 |
-| [The AI Trade Is Finally Cracking | Weekly Roundup](https://gist.github.com/Rohoe/13803295d59858dc83dc4c0cb3634dd4) | Felix, Quinn | Forward Guidance | 00:46:33 | 2026-07-03 |
-
-### Quinn (6)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
+| [The Bond Market Pain Isn't Over | Weekly Roundup](https://gist.github.com/Rohoe/640c84b51bcc4117a53291bddd75fa48) | DCP, Felix, Quinn | Blockworks | 01:01:33 | 2026-09-26 |
 | [The Fed Is Hiking Into A Growth Slowdown | Weekly Roundup](https://gist.github.com/Rohoe/e2fd3e36833c443ddd8f2235ff61680a) | Host, Quinn, Vincent Deluard | Blockworks | 01:12:30 | 2026-09-20 |
 | [The Bond Market Is Trapping The Fed | Weekly Roundup](https://gist.github.com/Rohoe/365fd106989e8cd1c0315b88a2195a55) | Felix, Quinn | Blockworks | 00:45:23 | 2026-09-11 |
 | [Druck Calls Out Bessent & Will Jackson Hole Derail The Debasement Trade? | Weekly Roundup](https://gist.github.com/Rohoe/6d214f128bbf2c0b82f1a34dc0b6ba5c) | Felix, Quinn | Forward Guidance | 00:53:09 | 2026-08-27 |
@@ -846,6 +850,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Trump-Xi Summit, Benioff: \"Not My First SaaSpocalypse,\" OpenAI vs Apple, Multi-Sensory AI, El Niño](https://gist.github.com/Rohoe/84cf1dc553dd422b2f73e3b818ebfa19) | Chamath, Friedberg, Jason, Mark Benioff | All-In Podcast | 01:16:29 | 2026-05-27 |
+
+### DCP (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [The Bond Market Pain Isn't Over | Weekly Roundup](https://gist.github.com/Rohoe/640c84b51bcc4117a53291bddd75fa48) | DCP, Felix, Quinn | Blockworks | 01:01:33 | 2026-09-26 |
 
 ### Dan Nishball (1)
 
