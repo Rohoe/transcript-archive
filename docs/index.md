@@ -4,12 +4,13 @@
 
 _Publishable transcripts produced by Transcript-Scribe._
 
-**102 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
+**103 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
 
 ## Latest
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
+| [The View Beyond: Can Trump-Xi talks shift market sentiment?](https://gist.github.com/Rohoe/684972db8881038e307c8bae6bf7e8cb) | Hong Hao, Richard Tang | Adventurous Media | 00:27:07 | 2026-09-29 |
 | [The Bond Market Pain Isn't Over | Weekly Roundup](https://gist.github.com/Rohoe/640c84b51bcc4117a53291bddd75fa48) | DCP, Felix, Quinn | Blockworks | 01:01:33 | 2026-09-26 |
 | [FSD: Agents vs Computers](https://gist.github.com/Rohoe/9a5a6324da09953b1fb0d02cd5101f1f) | Ram Ahluwalia CFA, Lumida | Ram Ahluwalia CFA, Lumida | 00:22:17 | 2026-09-21 |
 | [The Fed Is Hiking Into A Growth Slowdown | Weekly Roundup](https://gist.github.com/Rohoe/e2fd3e36833c443ddd8f2235ff61680a) | Host, Quinn, Vincent Deluard | Blockworks | 01:12:30 | 2026-09-20 |
@@ -179,6 +180,16 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [SpaceX: Start of the Next Megabubble or End of the Rally?](https://gist.github.com/Rohoe/e4c914cda449da83f7d747e9e7e2c8ab) | Avi, Jonah, Speaker 4, Unknown speaker | 1KX Media | 00:45:41 | 2026-06-18 |
 | [Are Rate Cuts Dead?](https://gist.github.com/Rohoe/0e3f28cfdd394befebf8054ba52a4824) | Speaker 2, Speaker 3 | 1KX Media | 00:53:05 | 2026-06-17 |
 
+### Adventurous Media (5)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [The View Beyond: Can Trump-Xi talks shift market sentiment?](https://gist.github.com/Rohoe/684972db8881038e307c8bae6bf7e8cb) | Hong Hao, Richard Tang | Adventurous Media | 00:27:07 | 2026-09-29 |
+| [The View Beyond: Has the AI correction bottomed out?](https://gist.github.com/Rohoe/a988ee073b74deae6d919f59eae5bcef) | Hong Hao, Richard Tang | Adventurous Media | 00:23:34 | 2026-08-15 |
+| [Top-down macro and bottom-up company results are moving markets today](https://gist.github.com/Rohoe/f6a75a166fae040e6317e5739d970583) | Carsten Menke, David Meyer, Mike Grauber, Mike Rauber, Speaker 5 | Adventurous Media | 00:12:20 | 2026-07-18 |
+| [The View Beyond: China after the AI correction](https://gist.github.com/Rohoe/d627ceb17414d980a0a77a10f0ac1ad9) | Hong Hao, Richard Tang, Speaker 4 | Adventurous Media | 00:18:35 | 2026-07-18 |
+| [The View Beyond: China’s old and new tech divide](https://gist.github.com/Rohoe/2961d7ae9844cca6483b4ced9a3e20b9) | Hong Hao, Richard Tang, Speaker 4 | Adventurous Media | 00:25:13 | 2026-06-20 |
+
 ### Blockworks (5)
 
 | Title | Speakers | Host | Duration | Added |
@@ -198,15 +209,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Adam Posen Thinks Things Could Get Very 'Messy' for the Fed](https://gist.github.com/Rohoe/2bedd98dbbd8871dd24fc54418c7c351) | Adam Posen, Jill Weisenthal, Tracy Allaway | Bloomberg | 01:07:38 | 2026-09-01 |
 | [Richmond Fed’s Tom Barkin on the Surprisingly Resilient Real Economy](https://gist.github.com/Rohoe/792aa64d3aae72c4010061a1c4e2c4af) | Joe Weisenthal, Tom Barkin, Tracy Allaway | Bloomberg | 00:37:38 | 2026-08-31 |
 | [Brad Setser on the US's Unusual Japanese Yen Intervention](https://gist.github.com/Rohoe/fe615504c76556e3f0c2e1827934dd9d) | Brad Setser, Joe Weisenthal, Tracy Alloway | Bloomberg | 00:47:39 | 2026-08-06 |
-
-### Adventurous Media (4)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [The View Beyond: Has the AI correction bottomed out?](https://gist.github.com/Rohoe/a988ee073b74deae6d919f59eae5bcef) | Hong Hao, Richard Tang | Adventurous Media | 00:23:34 | 2026-08-15 |
-| [Top-down macro and bottom-up company results are moving markets today](https://gist.github.com/Rohoe/f6a75a166fae040e6317e5739d970583) | Carsten Menke, David Meyer, Mike Grauber, Mike Rauber, Speaker 5 | Adventurous Media | 00:12:20 | 2026-07-18 |
-| [The View Beyond: China after the AI correction](https://gist.github.com/Rohoe/d627ceb17414d980a0a77a10f0ac1ad9) | Hong Hao, Richard Tang, Speaker 4 | Adventurous Media | 00:18:35 | 2026-07-18 |
-| [The View Beyond: China’s old and new tech divide](https://gist.github.com/Rohoe/2961d7ae9844cca6483b4ced9a3e20b9) | Hong Hao, Richard Tang, Speaker 4 | Adventurous Media | 00:25:13 | 2026-06-20 |
 
 ### Goldman Sachs (4)
 
@@ -553,6 +555,15 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding](https://gist.github.com/Rohoe/e5eb6098fcc21575e3c359bfe5c58ea9) | Anton Osika, Jason, Pat Gelsinger, Speaker 3, Speaker 6 | All-In Podcast | 00:49:24 | 2026-07-16 |
 | [Are Rate Cuts Dead?](https://gist.github.com/Rohoe/0e3f28cfdd394befebf8054ba52a4824) | Speaker 2, Speaker 3 | 1KX Media | 00:53:05 | 2026-06-17 |
 
+### Hong Hao (4)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [The View Beyond: Can Trump-Xi talks shift market sentiment?](https://gist.github.com/Rohoe/684972db8881038e307c8bae6bf7e8cb) | Hong Hao, Richard Tang | Adventurous Media | 00:27:07 | 2026-09-29 |
+| [The View Beyond: Has the AI correction bottomed out?](https://gist.github.com/Rohoe/a988ee073b74deae6d919f59eae5bcef) | Hong Hao, Richard Tang | Adventurous Media | 00:23:34 | 2026-08-15 |
+| [The View Beyond: China after the AI correction](https://gist.github.com/Rohoe/d627ceb17414d980a0a77a10f0ac1ad9) | Hong Hao, Richard Tang, Speaker 4 | Adventurous Media | 00:18:35 | 2026-07-18 |
+| [The View Beyond: China’s old and new tech divide](https://gist.github.com/Rohoe/2961d7ae9844cca6483b4ced9a3e20b9) | Hong Hao, Richard Tang, Speaker 4 | Adventurous Media | 00:25:13 | 2026-06-20 |
+
 ### Host (4)
 
 | Title | Speakers | Host | Duration | Added |
@@ -571,6 +582,15 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Richmond Fed’s Tom Barkin on the Surprisingly Resilient Real Economy](https://gist.github.com/Rohoe/792aa64d3aae72c4010061a1c4e2c4af) | Joe Weisenthal, Tom Barkin, Tracy Allaway | Bloomberg | 00:37:38 | 2026-08-31 |
 | [Brad Setser on the US's Unusual Japanese Yen Intervention](https://gist.github.com/Rohoe/fe615504c76556e3f0c2e1827934dd9d) | Brad Setser, Joe Weisenthal, Tracy Alloway | Bloomberg | 00:47:39 | 2026-08-06 |
 
+### Richard Tang (4)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [The View Beyond: Can Trump-Xi talks shift market sentiment?](https://gist.github.com/Rohoe/684972db8881038e307c8bae6bf7e8cb) | Hong Hao, Richard Tang | Adventurous Media | 00:27:07 | 2026-09-29 |
+| [The View Beyond: Has the AI correction bottomed out?](https://gist.github.com/Rohoe/a988ee073b74deae6d919f59eae5bcef) | Hong Hao, Richard Tang | Adventurous Media | 00:23:34 | 2026-08-15 |
+| [The View Beyond: China after the AI correction](https://gist.github.com/Rohoe/d627ceb17414d980a0a77a10f0ac1ad9) | Hong Hao, Richard Tang, Speaker 4 | Adventurous Media | 00:18:35 | 2026-07-18 |
+| [The View Beyond: China’s old and new tech divide](https://gist.github.com/Rohoe/2961d7ae9844cca6483b4ced9a3e20b9) | Hong Hao, Richard Tang, Speaker 4 | Adventurous Media | 00:25:13 | 2026-06-20 |
+
 ### CNBC Television (3)
 
 | Title | Speakers | Host | Duration | Added |
@@ -586,22 +606,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Why AI Demand Is Outrunning Compute Supply](https://gist.github.com/Rohoe/cee98e3986f5203f3cfc851b5384809a) | David George, Gavin Baker | a16z | 01:14:25 | 2026-08-31 |
 | [Gavin Baker - Nvidia v. Google, Scaling Laws, and the Economics of AI](https://gist.github.com/Rohoe/cf23ee087cfda4db0f1956a064d2a169) | Gavin Baker, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 01:24:13 | 2026-08-09 |
 | [Gavin Baker - AI Market Jitters - [Invest Like the Best, EP.485]](https://gist.github.com/Rohoe/132f5101f3fd7374b05c9f03300dae8a) | Gavin Baker, Patrick O'Shaughnessy | Colossus | 01:06:04 | 2026-08-08 |
-
-### Hong Hao (3)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [The View Beyond: Has the AI correction bottomed out?](https://gist.github.com/Rohoe/a988ee073b74deae6d919f59eae5bcef) | Hong Hao, Richard Tang | Adventurous Media | 00:23:34 | 2026-08-15 |
-| [The View Beyond: China after the AI correction](https://gist.github.com/Rohoe/d627ceb17414d980a0a77a10f0ac1ad9) | Hong Hao, Richard Tang, Speaker 4 | Adventurous Media | 00:18:35 | 2026-07-18 |
-| [The View Beyond: China’s old and new tech divide](https://gist.github.com/Rohoe/2961d7ae9844cca6483b4ced9a3e20b9) | Hong Hao, Richard Tang, Speaker 4 | Adventurous Media | 00:25:13 | 2026-06-20 |
-
-### Richard Tang (3)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [The View Beyond: Has the AI correction bottomed out?](https://gist.github.com/Rohoe/a988ee073b74deae6d919f59eae5bcef) | Hong Hao, Richard Tang | Adventurous Media | 00:23:34 | 2026-08-15 |
-| [The View Beyond: China after the AI correction](https://gist.github.com/Rohoe/d627ceb17414d980a0a77a10f0ac1ad9) | Hong Hao, Richard Tang, Speaker 4 | Adventurous Media | 00:18:35 | 2026-07-18 |
-| [The View Beyond: China’s old and new tech divide](https://gist.github.com/Rohoe/2961d7ae9844cca6483b4ced9a3e20b9) | Hong Hao, Richard Tang, Speaker 4 | Adventurous Media | 00:25:13 | 2026-06-20 |
 
 ### Tracy Alloway (3)
 
