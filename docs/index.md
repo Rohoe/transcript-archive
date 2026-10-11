@@ -4,12 +4,13 @@
 
 _Publishable transcripts produced by Transcript-Scribe._
 
-**103 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
+**104 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
 
 ## Latest
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
+| [Where’s the Beef? Blackstone's Jon Gray on the Payoff From the Enormous AI CapEx Spend | Sept '26](https://gist.github.com/Rohoe/de782441e3a47014d6aec4bad3c3f4e7) | Jon Gray | Blackstone | 00:30:38 | 2026-10-11 |
 | [The View Beyond: Can Trump-Xi talks shift market sentiment?](https://gist.github.com/Rohoe/684972db8881038e307c8bae6bf7e8cb) | Hong Hao, Richard Tang | Adventurous Media | 00:27:07 | 2026-09-29 |
 | [The Bond Market Pain Isn't Over | Weekly Roundup](https://gist.github.com/Rohoe/640c84b51bcc4117a53291bddd75fa48) | DCP, Felix, Quinn | Blockworks | 01:01:33 | 2026-09-26 |
 | [FSD: Agents vs Computers](https://gist.github.com/Rohoe/9a5a6324da09953b1fb0d02cd5101f1f) | Ram Ahluwalia CFA, Lumida | Ram Ahluwalia CFA, Lumida | 00:22:17 | 2026-09-21 |
@@ -242,6 +243,13 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding](https://gist.github.com/Rohoe/e5eb6098fcc21575e3c359bfe5c58ea9) | Anton Osika, Jason, Pat Gelsinger, Speaker 3, Speaker 6 | All-In Podcast | 00:49:24 | 2026-07-16 |
 | [Trump-Xi Summit, Benioff: \"Not My First SaaSpocalypse,\" OpenAI vs Apple, Multi-Sensory AI, El Niño](https://gist.github.com/Rohoe/84cf1dc553dd422b2f73e3b818ebfa19) | Chamath, Friedberg, Jason, Mark Benioff | All-In Podcast | 01:16:29 | 2026-05-27 |
 
+### Blackstone (2)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Where’s the Beef? Blackstone's Jon Gray on the Payoff From the Enormous AI CapEx Spend | Sept '26](https://gist.github.com/Rohoe/de782441e3a47014d6aec4bad3c3f4e7) | Jon Gray | Blackstone | 00:30:38 | 2026-10-11 |
+| [Blackstone on the AI Revolution, IPOs, and Real Estate | Jon Gray's Market Views July 2026](https://gist.github.com/Rohoe/e76a413d6cccd075fe59caefe130dc88) | Jon Gray | Blackstone | 00:09:17 | 2026-07-31 |
+
 ### Colossus (2)
 
 | Title | Speakers | Host | Duration | Added |
@@ -289,12 +297,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Sticky Inflation + Energy Prices: End of the Rally or Pause?](https://gist.github.com/Rohoe/8400f8a352e356ce1544555082c529fb) | Avi, Jonah | 1000x Podcast | 00:53:32 | 2026-05-24 |
-
-### Blackstone (1)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [Blackstone on the AI Revolution, IPOs, and Real Estate | Jon Gray's Market Views July 2026](https://gist.github.com/Rohoe/e76a413d6cccd075fe59caefe130dc88) | Jon Gray | Blackstone | 00:09:17 | 2026-07-31 |
 
 ### Brookfield (1)
 
@@ -607,6 +609,14 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Gavin Baker - Nvidia v. Google, Scaling Laws, and the Economics of AI](https://gist.github.com/Rohoe/cf23ee087cfda4db0f1956a064d2a169) | Gavin Baker, Patrick O'Shaughnessy | Patrick O'Shaughnessy | 01:24:13 | 2026-08-09 |
 | [Gavin Baker - AI Market Jitters - [Invest Like the Best, EP.485]](https://gist.github.com/Rohoe/132f5101f3fd7374b05c9f03300dae8a) | Gavin Baker, Patrick O'Shaughnessy | Colossus | 01:06:04 | 2026-08-08 |
 
+### Jon Gray (3)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Where’s the Beef? Blackstone's Jon Gray on the Payoff From the Enormous AI CapEx Spend | Sept '26](https://gist.github.com/Rohoe/de782441e3a47014d6aec4bad3c3f4e7) | Jon Gray | Blackstone | 00:30:38 | 2026-10-11 |
+| [Blackstone's Jon Gray on Big Bets, AI, & Staying Skeptical | The CEO Signal](https://gist.github.com/Rohoe/6fa11c6b6e43adc0c57f421f33fd406b) | Andrew Edgecliffe-Johnson, Jon Gray, Penny Pritzker | Semafor | 00:50:38 | 2026-08-28 |
+| [Blackstone on the AI Revolution, IPOs, and Real Estate | Jon Gray's Market Views July 2026](https://gist.github.com/Rohoe/e76a413d6cccd075fe59caefe130dc88) | Jon Gray | Blackstone | 00:09:17 | 2026-07-31 |
+
 ### Tracy Alloway (3)
 
 | Title | Speakers | Host | Duration | Added |
@@ -692,13 +702,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [Jeffrey Gundlach on the Fed: Talk Is Cheap | CNBC](https://gist.github.com/Rohoe/8ee28e9d7e2873ea50aa6e18c130a069) | Host, Jeffrey Gundlach, Scott Wapner | DoubleLine Capital | 00:25:50 | 2026-08-02 |
 | [Jeffrey Gundlach and Felix Zulauf: The Second Inning of a Major Shift](https://gist.github.com/Rohoe/6f2ca54226fcd7ebf4cfbc8cef985b88) | Felix Zulauf, Grant Williams, Jeffrey Gundlach, Unknown speaker | DoubleLine Capital | 01:00:56 | 2026-06-26 |
-
-### Jon Gray (2)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [Blackstone's Jon Gray on Big Bets, AI, & Staying Skeptical | The CEO Signal](https://gist.github.com/Rohoe/6fa11c6b6e43adc0c57f421f33fd406b) | Andrew Edgecliffe-Johnson, Jon Gray, Penny Pritzker | Semafor | 00:50:38 | 2026-08-28 |
-| [Blackstone on the AI Revolution, IPOs, and Real Estate | Jon Gray's Market Views July 2026](https://gist.github.com/Rohoe/e76a413d6cccd075fe59caefe130dc88) | Jon Gray | Blackstone | 00:09:17 | 2026-07-31 |
 
 ### Jordan Nanos (2)
 
