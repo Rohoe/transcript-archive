@@ -4,12 +4,13 @@
 
 _Publishable transcripts produced by Transcript-Scribe._
 
-**105 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
+**106 transcripts** published. Each links to its full text on GitHub Gist. Pipeline: [Transcript-Scribe](https://github.com/Rohoe/Transcript-Scribe).
 
 ## Latest
 
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
+| [Managing CIO Greg Jensen Shares Our Global Outlook](https://gist.github.com/Rohoe/881ab356aa9c3bc0e894688f12349f68) | Bridgewater Associates, Greg Jensen | Bridgewater Associates | 00:28:06 | 2026-10-29 |
 | [The View Beyond: China's post-Golden Week reality check](https://gist.github.com/Rohoe/f07b720c1f1c833164be92b21c30b0d3) | Hong Hao, Richard Tang | Adventurous Media | 00:24:25 | 2026-10-18 |
 | [Where’s the Beef? Blackstone's Jon Gray on the Payoff From the Enormous AI CapEx Spend | Sept '26](https://gist.github.com/Rohoe/de782441e3a47014d6aec4bad3c3f4e7) | Jon Gray | Blackstone | 00:30:38 | 2026-10-11 |
 | [The View Beyond: Can Trump-Xi talks shift market sentiment?](https://gist.github.com/Rohoe/684972db8881038e307c8bae6bf7e8cb) | Hong Hao, Richard Tang | Adventurous Media | 00:27:07 | 2026-09-29 |
@@ -299,6 +300,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Sticky Inflation + Energy Prices: End of the Rally or Pause?](https://gist.github.com/Rohoe/8400f8a352e356ce1544555082c529fb) | Avi, Jonah | 1000x Podcast | 00:53:32 | 2026-05-24 |
+
+### Bridgewater Associates (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Managing CIO Greg Jensen Shares Our Global Outlook](https://gist.github.com/Rohoe/881ab356aa9c3bc0e894688f12349f68) | Bridgewater Associates, Greg Jensen | Bridgewater Associates | 00:28:06 | 2026-10-29 |
 
 ### Brookfield (1)
 
@@ -672,6 +679,13 @@ _Publishable transcripts produced by Transcript-Scribe._
 | [Why the US Dollar Could Continue to Strengthen](https://gist.github.com/Rohoe/06dbeb7d54e291e3f6fca6183d9d789f) | Brian Dunne, Chris Hussey, Disclaimer | Goldman Sachs | 00:10:30 | 2026-07-16 |
 | [What Changed After the U.S.-China Summit?](https://gist.github.com/Rohoe/9d30f0c09509cc735c9032277337adc1) | Disclaimer, Michael Zezas | Morgan Stanley | 00:02:56 | 2026-05-28 |
 
+### Greg Jensen (2)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Managing CIO Greg Jensen Shares Our Global Outlook](https://gist.github.com/Rohoe/881ab356aa9c3bc0e894688f12349f68) | Bridgewater Associates, Greg Jensen | Bridgewater Associates | 00:28:06 | 2026-10-29 |
+| [Why Bridgewater's CIO Says AI's Human Extinction Risk Is Real](https://gist.github.com/Rohoe/fdf40b706b8eea9f9ff7b6feb5a2d66d) | Greg Jensen, Joe Weisenthal, Tracy Alloway | Bloomberg | 01:15:56 | 2026-09-11 |
+
 ### Guest 1 (2)
 
 | Title | Speakers | Host | Duration | Added |
@@ -838,6 +852,12 @@ _Publishable transcripts produced by Transcript-Scribe._
 |---|---|---|---|---|
 | [Why the US Dollar Could Continue to Strengthen](https://gist.github.com/Rohoe/06dbeb7d54e291e3f6fca6183d9d789f) | Brian Dunne, Chris Hussey, Disclaimer | Goldman Sachs | 00:10:30 | 2026-07-16 |
 
+### Bridgewater Associates (1)
+
+| Title | Speakers | Host | Duration | Added |
+|---|---|---|---|---|
+| [Managing CIO Greg Jensen Shares Our Global Outlook](https://gist.github.com/Rohoe/881ab356aa9c3bc0e894688f12349f68) | Bridgewater Associates, Greg Jensen | Bridgewater Associates | 00:28:06 | 2026-10-29 |
+
 ### Bruce Flatt (1)
 
 | Title | Speakers | Host | Duration | Added |
@@ -975,12 +995,6 @@ _Publishable transcripts produced by Transcript-Scribe._
 | Title | Speakers | Host | Duration | Added |
 |---|---|---|---|---|
 | [Jeffrey Gundlach and Felix Zulauf: The Second Inning of a Major Shift](https://gist.github.com/Rohoe/6f2ca54226fcd7ebf4cfbc8cef985b88) | Felix Zulauf, Grant Williams, Jeffrey Gundlach, Unknown speaker | DoubleLine Capital | 01:00:56 | 2026-06-26 |
-
-### Greg Jensen (1)
-
-| Title | Speakers | Host | Duration | Added |
-|---|---|---|---|---|
-| [Why Bridgewater's CIO Says AI's Human Extinction Risk Is Real](https://gist.github.com/Rohoe/fdf40b706b8eea9f9ff7b6feb5a2d66d) | Greg Jensen, Joe Weisenthal, Tracy Alloway | Bloomberg | 01:15:56 | 2026-09-11 |
 
 ### Guy Adami (1)
 
